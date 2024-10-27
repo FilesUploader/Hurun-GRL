@@ -1,0 +1,3112 @@
+Rank,Name,Wealth (in $1B USD),Country Headquartered,Company,Industry
+1,Bernard Arnault,202,France,LVMH,Consumer Goods
+2,Elon Musk,157,United States,Tesla,Automobile & Auto Components
+3,Bertrand Puech,134,France,Hermes,Consumer Goods
+4,Jeff Bezos,118,United States,Amazon,Retail
+5,Warren Buffett,116,United States,Berkshire Hathaway,Investments
+6,Bill Gates,110,United States,Microsoft,Investments
+7,Steve Ballmer,101,United States,Microsoft,Software & Services
+8,Larry Ellison,100,United States,Oracle,Software & Services
+9,Mukesh Ambani,82,India,Reliance,Telecommunications
+10,Francoise Bettencourt Meyers,80,France,L'Oreal,Consumer Goods
+11,Amancio Ortega,78,Spain,Inditex,Consumer Goods
+12,Carlos Slim Helu,78,Mexico,America Movil,Telecommunications
+13,Larry Page,75,United States,Alphabet,Media & Entertainment
+14,Sergey Brin,72,United States,Alphabet,Media & Entertainment
+15,Zhong Shanshan,69,China,YST,Food & Beverages
+16,Mark Zuckerberg,68,United States,Meta,Media & Entertainment
+17,Jim Walton,66,United States,Walmart,Retail
+18,Robson Walton,66,United States,Walmart,Retail
+19,Michael Bloomberg,64,United States,Bloomberg,Financial Services
+20,Alice Walton,63,United States,Walmart,Retail
+21,Charles Koch,55,United States,Koch Industries,Energy
+22,Julia Koch,55,United States,Koch Industries,Energy
+23,Gautam Adani,53,India,Adani,Energy
+24,Michael Dell,50,United States,Dell Technologies,Consumer Goods
+25,Jacqueline Mars,47,United States,Mars,Food & Beverages
+26,John Mars,47,United States,Mars,Food & Beverages
+27,Giovanni Ferrero,46,Belgium,Ferrero Rocher,Food & Beverages
+28,Francois Pinault,43,France,Kering,Consumer Goods
+29,Klaus-Michael Kuhne,41,Switzerland,Kuehne & Nagel,Transportation & Logistics
+30,Phil Knight,41,United States,Nike,Consumer Goods
+31,Ma Huateng,39,China,Tencent,Media & Entertainment
+32,Alain Wertheimer,38,France,Chanel,Consumer Goods
+33,Gerard Wertheimer,38,United States,Chanel,Consumer Goods
+34,Miriam Adelson,37,United States,Las Vegas Sands,Hospitality
+35,Zhang Yiming,37,Singapore,ByteDance,Media & Entertainment
+36,Ken Griffin,36,United States,Citadel,Financial Services
+37,Zeng Yuqun,35,China,CATL,Energy
+38,Laurene Powell Jobs,32,United States,Walt Disney,Media & Entertainment
+39,Dieter Schwarz,31,Germany,Schwarz,Retail
+40,Huang Zheng,31,China,Pinduoduo,Retail
+41,Leonard Blavatnik,31,United Kingdom,Warner Music,Media & Entertainment
+42,Li Ka-shing,31,Hong Kong,Cheung Kong,Investments
+43,Gina Rinehart,28,Australia,Hancock Prospecting,Metals & Mining
+44,Masayoshi Son,28,Japan,SoftBank,Investments
+45,Thomas Peterffy,28,United States,Interactive Brokers,Financial Services
+46,Cyrus Poonawalla,27,India,Serum,Healthcare
+47,Ding Lei,27,China,Netease,Media & Entertainment
+48,He Xiangjian,27,China,Midea,Consumer Goods
+49,Takemitsu Takizaki,27,Japan,Keyence,Industrial Products
+50,MacKenzie Scott,26,United States,Amazon,Investments
+51,Shiv Nadar,26,India,HCL,Software & Services
+52,David Thomson,25,Canada,Thomson Reuters,Media & Entertainment
+53,Ma Yun,25,China,Alibaba,Retail
+54,Rodolphe Saadé,25,France,CMA CGM,Transportation & Logistics
+55,Stephen Schwarzman,25,United States,Blackstone Group,Financial Services
+56,Tadashi Yanai,25,Japan,Fast Retailing,Retail
+57,Leonid Mikhelson,24,Russia,Novatek,Energy
+58,Vladimir Potanin,24,Russia,Norilsk Nickel,Metals & Mining
+59,Harold Hamm,23,United States,Continental Resources,Energy
+60,Lee Shau Kee,23,Hong Kong,Henderson Land,Real Estate
+61,Mark Mateschitz,23,Austria,Red Bull,Food & Beverages
+62,Qin Yinglin & Qian Ying,23,China,Muyuan,Agriculture
+63,Elaine Marshall,22,United States,Koch Industries,Energy
+64,Iris Fontbona,22,Chile,Antofagasta,Metals & Mining
+65,James Simons,22,United States,Renaissance Technologies,Financial Services
+66,Jen-Hsun Huang,22,United States,Nvidia,Semiconductors
+67,Li Shufu,22,China,Geely,Automobile & Auto Components
+68,Liu Yongxing & Liu Xiangyu,22,China,East Hope,Chemicals
+69,R Budi Hartono,22,Indonesia,Bank Central Asia,Financial Services
+70,Yan Hao,22,China,China Pacific Construction,Construction & Engineering
+71,Leonard Lauder,21,United States,Estee Lauder,Consumer Goods
+72,Michael Hartono,21,Indonesia,Bank Central Asia,Financial Services
+73,Reinhold Wurth,21,Germany,Wurth,Automobile & Auto Components
+74,Stefan Quandt,21,Germany,BMW,Automobile & Auto Components
+75,Susanne Klatten,21,Germany,BMW,Automobile & Auto Components
+76,Wang Wei,21,Hong Kong,SF,Transportation & Logistics
+77,Chen Jianhua & Fan Hongwei,20,China,Hengli,Industrial Products
+78,Daniel Gilbert,20,United States,Rocket Companies,Financial Services
+79,Lakshmi N Mittal,20,United Kingdom,ArcelorMittal,Metals & Mining
+80,Lee Choi Mei Ling,20,Hong Kong,Lee Kun Kee,Food & Beverages
+81,Lyu Xiangyang & Zhang Changhong,20,China,Youngy,Investments
+82,Ray Dalio,20,United States,Bridgewater Associates,Financial Services
+83,SP Hinduja,20,United Kingdom,Hinduja,Automobile & Auto Components
+84,Wang Chuanfu,20,China,BYD,Automobile & Auto Components
+85,Alisher Usmanov,19,Russia,Megafon,Telecommunications
+86,Eric Schmidt,19,United States,Alphabet,Media & Entertainment
+87,Gianluigi Aponte,19,Switzerland,Mediterranean Shipping,Transportation & Logistics
+88,Henry Cheng Kar-shun,19,Hong Kong,Chow Tai Fook,Consumer Goods
+89,Wei Jianjun & Han Xuejuan,19,China,Great Wall Motor,Automobile & Auto Components
+90,Abigail Johnson,18,United States,Fidelity,Financial Services
+91,Andrew Forrest,18,Australia,Fortescue Metals,Metals & Mining
+92,Gennady Timchenko,18,Russia,Novatek,Energy
+93,Huang Shilin,18,China,CATL,Energy
+94,John Menard Jr,18,United States,Menards,Retail
+95,Jorge Paulo Lemann,18,Switzerland,3G Capital,Investments
+96,Lukas Walton,18,United States,Walmart,Retail
+97,Pang Kang,18,China,Haitian,Food & Beverages
+98,Vagit Alekperov,18,Russia,Lukoil,Energy
+99,Aliko Dangote,17,Nigeria,Dangote Cement,Construction & Engineering
+100,Diane Hendricks,17,United States,ABC Supply,Construction & Engineering
+101,Dilip Shanghvi,17,India,Sun Pharmaceutical Industries,Healthcare
+102,Li Xiting,17,Singapore,Mindray,Healthcare
+103,Lui Che Woo,17,Hong Kong,Galaxy Entertainment,Hospitality
+104,Peter Woo Kwong-ching,17,Hong Kong,Wheelock,Real Estate
+105,Rupert Murdoch,17,United States,News,Media & Entertainment
+106,Xu Hang,17,China,"Mindray, Parkland",Healthcare
+107,Zhang Zhidong,17,China,Tencent,Media & Entertainment
+108,Beate Heister,16,Germany,Aldi Sued,Retail
+109,Chen Bang,16,China,Aier Ophthalmology,Healthcare
+110,Eyal Ofer,16,Monaco,Ofer Global,Transportation & Logistics
+111,James Dyson,16,United Kingdom,Dyson,Consumer Goods
+112,Karl Albrecht Jr,16,Germany,Aldi Sued,Retail
+113,Liu Hanyuan & Guan Yamei,16,China,Tongwei,Energy
+114,Radhakishan Damani,16,India,Avenue Supermarts,Retail
+115,Robert Kuok,16,Hong Kong,Kuok Brothers,Food & Beverages
+116,Robert Pera,16,United States,Ubiquiti,Software & Services
+117,Vladimir Lisin,16,Russia,Novolipetsk Steel,Metals & Mining
+118,Wang Wenyin,16,China,Amer,Metals & Mining
+119,Wang Xing,16,China,Meituan,Transportation & Logistics
+120,Yan Bin,16,China,Reignwood,Food & Beverages
+121,Andrey Melnichenko,15,Russia,Suek,Energy
+122,Carl Icahn,15,United States,Icahn Enterprises,Financial Services
+123,Charlene Carvalho,15,United Kingdom,Heineken,Food & Beverages
+124,Daniel Servitje Montull,15,Mexico,Grupo Bimbo,Food & Beverages
+125,Donald Bren,15,United States,Irvine Company,Real Estate
+126,Jiang Rensheng,15,China,Zhifei,Healthcare
+127,Leonardo Maria del Vecchio & Nicoletta Zampillo,15,Italy,EssilorLuxottica,Consumer Goods
+128,Philip Anschutz,15,United States,Anschutz Entertainment,Media & Entertainment
+129,Renata Kellnerova,15,Czech Republic,PPF,Financial Services
+130,Sara Mota De Larrea,15,Mexico,Grupo Mexico,Metals & Mining
+131,Sherry Brydson,15,Canada,Thomson Reuters,Media & Entertainment
+132,Thomas Frist Jr,15,United States,HCA Healthcare,Healthcare
+133,Wang Jianlin,15,China,Wanda,Real Estate
+134,Yang Huiyan,15,China,Country Garden,Real Estate
+135,Zong Qinghou,15,China,Wahaha,Food & Beverages
+136,Andreas Strungmann,14,Germany,BioNTech,Healthcare
+137,David Tepper,14,United States,Appaloosa Management,Financial Services
+138,Ernesto Bertarelli,14,Switzerland,Serono,Healthcare
+139,Israel Englander,14,United States,Millennium Management,Financial Services
+140,Joseph Lau Luen Hung,14,Hong Kong,Chinese Estates,Real Estate
+141,Kumar Mangalam Birla,14,India,Aditya Birla,Construction & Engineering
+142,Liu Qiangdong & Zhang Zetian,14,China,JD,Retail
+143,Liu Yonghao,14,China,New Hope,Agriculture
+144,Mikhail Fridman,14,United Kingdom,Alfa,Energy
+145,Mikhail Prokhorov,14,Russia,Polyus Gold,Metals & Mining
+146,Pavel Durov,14,United Arab Emirates,Telegram,Software & Services
+147,Sarath Ratanavadi,14,Thailand,Gulf Energy Development,Energy
+148,Stefan Persson,14,Sweden,H&M,Consumer Goods
+149,Suleiman Kerimov,14,Russia,Polyus Gold,Metals & Mining
+150,Thomas Strungmann,14,Germany,BioNTech,Healthcare
+151,Uday Kotak,14,India,Kotak Mahindra Bank,Financial Services
+152,Zhang Gang,14,China,Xinfalyudian,Metals & Mining
+153,Alexey Mordashov,13,Russia,Severstal,Metals & Mining
+154,Alwaleed Bin Talal Alsaud,13,Saudi Arabia,Kingdom Holding,Investments
+155,Charles Butt,13,United States,HEB Store,Retail
+156,Charles Schwab,13,United States,Charles Schwab,Financial Services
+157,"Chase Coleman, III",13,United States,Tiger Global Management,Financial Services
+158,Emmanuel Besnier,13,France,Lactalis,Food & Beverages
+159,Goh Cheng Liang,13,Singapore,Nippon Paints,Construction & Engineering
+160,Hugh Grosvenor,13,United Kingdom,Grosvenor,Real Estate
+161,James Ratcliffe,13,United Kingdom,Ineos,Chemicals
+162,Jan Koum,13,United States,Facebook,Media & Entertainment
+163,John Fredriksen,13,United Kingdom,Frontline,Transportation & Logistics
+164,Lei Jun,13,China,Xiaomi,Consumer Goods
+165,Lin Li,13,China,Liye,Investments
+166,Michael Platt,13,Switzerland,BlueCrest Capital Management,Financial Services
+167,Stanley Kroenke,13,United States,Kroenke,Media & Entertainment
+168,Zheng Shuliang,13,China,Weiqiao Pioneering,Metals & Mining
+169,Chen Dongsheng,12,China,Taikang,Financial Services
+170,Cliff Obrecht & Melanie Perkins,12,Australia,Canva,Software & Services
+171,David Cheriton,12,United States,Arista Networks,Software & Services
+172,David Sun,12,United States,Kingston Technology,Semiconductors
+173,Hasso Plattner,12,Germany,SAP,Software & Services
+174,Jerry Jones,12,United States,Dallas Cowboys,Media & Entertainment
+175,John Tu,12,United States,Kingston Technology,Semiconductors
+176,Leon Black,12,United States,Apollo Global Management,Financial Services
+177,Leslie Wilson,12,Australia,Reece,Retail
+178,Marijke Mars,12,United States,Mars,Food & Beverages
+179,Niraj Bajaj,12,India,Bajaj,Financial Services
+180,Pamela Mars-Wright,12,United States,Mars,Food & Beverages
+181,Ricardo Salinas Pliego,12,Mexico,Elekta,Healthcare
+182,Steve Cohen,12,United States,Point72 Asset Management,Financial Services
+183,Tom & Judy Love,12,United States,Love's Travel Stops & Country Stores,Retail
+184,Valerie Mars,12,United States,Mars,Food & Beverages
+185,Victoria Mars,12,United States,Mars,Food & Beverages
+186,Zhao Changpeng,12,United Arab Emirates,Binance,Blockchain
+187,Andrew Beal,11,United States,Beal Bank,Financial Services
+188,Dang Yanbao,11,China,Baofeng,Energy
+189,David Geffen,11,United States,Geffen Records,Media & Entertainment
+190,Doug Meijer,11,United States,Meijer Supermarket,Retail
+191,Gustaf Douglas,11,Sweden,Investment AB Latour,Investments
+192,Hank Meijer,11,United States,Meijer Supermarket,Retail
+193,Henry Kravis,11,United States,KKR,Financial Services
+194,Jin Baofang,11,China,JA Solar,Energy
+195,Johann Rupert,11,South Africa,Richemont,Consumer Goods
+196,John Malone,11,United States,Liberty Media,Media & Entertainment
+197,Kwong Siu Hing,11,Hong Kong,Sun Hung Kai,Real Estate
+198,Li Yanhong & Ma Dongmin,11,China,Baidu,Media & Entertainment
+199,Liu Jincheng & Luo Jinhong,11,China,EVE Energy,Energy
+200,Luo Liguo,11,China,Hoshine,Metals & Mining
+201,Marcel Herrmann Telles,11,Brazil,3G Capital,Investments
+202,Marian Ilitch,11,United States,Ilitch,Food & Beverages
+203,Massimiliana Landini Aleotti,11,Italy,Menarini,Healthcare
+204,Melinda French Gates,11,United States,Investments,Investments
+205,Mike Cannon-Brookes,11,Australia,Atlassian,Software & Services
+206,Palankoyev Akhmet Magomedovich,11,Russia,Polyus Gold,Metals & Mining
+207,Steven Rales,11,United States,Danaher,Healthcare
+208,Wu Yajun,11,China,Longfor,Real Estate
+209,Zhang Congyuan,11,China,Huali Industrial,Consumer Goods
+210,Zhang Yong & Shu Ping,11,Singapore,Haidilao,Food & Beverages
+211,Akira Mori,10,Japan,Mori Trust,Real Estate
+212,Andrei Skoch,10,Russia,Metalloinvest,Metals & Mining
+213,Anthony Pratt,10,Australia,Visy Industries,Paper & Forest Products
+214,Babetta Albrecht,10,Germany,Aldi Nord,Retail
+215,Charoen Sirivadhanabhakdi,10,Thailand,Thai Beverage,Food & Beverages
+216,David Reuben,10,United Kingdom,Global Switch,Services
+217,George Roberts,10,United States,KKR,Financial Services
+218,Gong Hongjia & Chen Chunmei,10,Hong Kong,Hikvision,Investments
+219,Jim Pattison,10,Canada,Jim Pattison,Retail
+220,Melker Schorling,10,Sweden,Melker Schorling,Investments
+221,Patrick Soon-Shiong,10,United States,NantWorks,Healthcare
+222,Pei Zhenhua & Rong Jianfen,10,China,Canmax,Industrial Products
+223,Qi Shi,10,China,Eastmoney,Financial Services
+224,Roman Abramovich,10,Russia,Millhouse,Investments
+225,Scott Farquhar,10,Australia,Atlassian,Software & Services
+226,Simon Reuben,10,United Kingdom,Global Switch,Services
+227,Stephen Ross,10,United States,Related Companies,Real Estate
+228,Theo Jr Albrecht,10,Germany,Aldi Nord,Retail
+229,Wang Yusuo & Zhao Baoju,10,China,ENN,Energy
+230,Xu Haoyu,10,China,Yangtze River Pharmacy,Healthcare
+231,Anil Agarwal,9.9,United Kingdom,Vedanta Resources,Metals & Mining
+232,Jeffrey Hildebrand,9.9,United States,Hillcorp Energy,Energy
+233,John Doerr,9.9,United States,Kleiner Perkins,Financial Services
+234,Li Zhengguo & Li Xiyan,9.9,China,Longi,Energy
+235,Richard B Cohen,9.9,United States,C&S Wholesale Grocers,Retail
+236,Vincent Bollore,9.9,France,Financiere De L'odet,Investments
+237,Li Hua,9.7,China,Excellence,Real Estate
+238,Liang Wengen,9.7,China,Sany,Industrial Products
+239,Michael Rubin,9.7,United States,Kynetic,Retail
+240,Nicolas Puech,9.7,France,Hermes,Consumer Goods
+241,Du Shuanghua,9.6,China,Rizhao Iron and Steel,Metals & Mining
+242,Dustin Moskovitz,9.6,United States,Facebook,Media & Entertainment
+243,Zhu Baoguo,9.6,China,Joint Care,Healthcare
+244,Donald Newhouse,9.4,United States,Discovery,Media & Entertainment
+245,Lin Jianhua & Zhang Hong,9.4,China,First,Industrial Products
+246,Sun Piaoyang,9.4,China,"Hengrui, Hansoh",Healthcare
+247,Tilman Fertitta,9.3,United States,Landry's,Media & Entertainment
+248,Wang Liping,9.3,China,Hengli Hydraulic,Industrial Products
+249,Xavier Niel,9.3,France,Iliad,Telecommunications
+250,Zhong Huijuan,9.3,China,Hansoh,Healthcare
+251,John L Morris,9.2,United States,Bass Pro Shops,Retail
+252,Wang Junlin,9.2,China,Langjiu,Food & Beverages
+253,Antonia Ax:Son Johnson,9.1,Sweden,Axel Johnson,Investments
+254,Carl Cook,9.1,United States,Cook,Healthcare
+255,George Soros,9,United States,Soros Fund Management,Financial Services
+256,Peter Thomson,9,Canada,Thomson Reuters,Media & Entertainment
+257,Richard Li Tzar Kai,9,Hong Kong,PCCW,Telecommunications
+258,Shapoor Pallonji Mistry,9,Monaco,Sterling Investments,Investments
+259,Taylor Thomson,9,Canada,Thomson Reuters,Media & Entertainment
+260,Dietmar Hopp,8.9,Germany,SAP,Software & Services
+261,Mitchell Rales,8.9,United States,Danaher,Healthcare
+262,Tim Sweeney,8.8,United States,Epic Games,Media & Entertainment
+263,Vinod Shantilal Adani,8.8,United Arab Emirates,Adani Enterprises,Energy
+264,Yao Liangsong,8.8,China,Oppein,Consumer Goods
+265,Christy Walton,8.7,United States,Walmart,Retail
+266,Jorn Rausing,8.7,United Kingdom,Tetra Pak,Containers & Packaging
+267,Li Shuirong,8.7,China,RongSheng,Chemicals
+268,Ravi Jaipuria,8.7,India,RJ Corp,Food & Beverages
+269,Yu Yong,8.7,China,Cathay Fortune,Metals & Mining
+270,Cao Renxian,8.6,China,Sungrow Power Supply,Energy
+271,Carlos Alberto Sicupira,8.6,Brazil,3G Capital,Investments
+272,George Kaiser,8.6,United States,BOK Financial,Financial Services
+273,Viktor Vekselberg,8.6,Russia,Renova,Metals & Mining
+274,Frank Lowy,8.5,Australia,Westfield,Real Estate
+275,Harry Triguboff,8.5,Australia,MIR Investments,Investments
+276,Pierre Omidyar,8.5,United States,PayPal,Financial Services
+277,Chen Lihua,8.4,China,Fu Wah,Real Estate
+278,Frederik Paulsen,8.4,Switzerland,Ferring Pharmaceuticals,Healthcare
+279,Giorgio Armani,8.4,Italy,Armani,Consumer Goods
+280,Graeme Hart,8.4,New Zealand,Rank,Investments
+281,Ivan Glasenberg,8.4,Switzerland,Glencore,Trading
+282,Laurent Dassault,8.4,France,Dassault Systèmes,Aerospace & Defence
+283,Marie-Helene Habert,8.4,France,Dassault Systèmes,Aerospace & Defence
+284,Quek Leng Chan,8.4,Malaysia,Hong Leong,Financial Services
+285,Rocco Comisso,8.4,United States,Mediacom,Telecommunications
+286,Thierry Dassault,8.4,France,Dassault Systèmes,Aerospace & Defence
+287,Nicky Oppenheimer,8.3,South Africa,De Beers,Retail
+288,Shahid Khan,8.3,United States,Flex N Gate,Automobile & Auto Components
+289,Shen Guojun,8.3,China,Yintai,Transportation & Logistics
+290,Stefano Pessina,8.3,Monaco,Walgreens,Retail
+291,Brian Chesky,8.2,United States,Airbnb,Hospitality
+292,Li Ping,8.2,China,CATL,Energy
+293,Nusli Wadia,8.2,India,Britannia,Food & Beverages
+294,Robert Kraft,8.2,United States,Kraft,Media & Entertainment
+295,Blair Parry-Okeden,8.1,Australia,Cox Enterprises,Media & Entertainment
+296,Chang Kuo-hua,8.1,China,Evergreen,Transportation & Logistics
+297,Finn Rausing,8.1,United Kingdom,Tetra Pak,Containers & Packaging
+298,Gao Jifan,8.1,China,Trinasolar,Energy
+299,Guillaume Pousaz,8.1,United Kingdom,Checkout.com,Financial Services
+300,Huang Chulong,8.1,China,Galaxy,Real Estate
+301,Jim Kennedy,8.1,United States,Cox Enterprises,Media & Entertainment
+302,Joseph Tsai Chung-Hsin,8.1,United States,Alibaba,Retail
+303,Kirsten Rausing,8.1,United Kingdom,Tetra Pak,Containers & Packaging
+304,Prakash Lohia,8.1,United Kingdom,Indorama Ventures,Chemicals
+305,Reinhold Schmieding ,8.1,United States,Arthrex,Healthcare
+306,Eduardo Saverin,8,Singapore,Facebook,Media & Entertainment
+307,Ken Fisher,8,United States,Fisher Investments,Financial Services
+308,Richard Kinder,8,United States,Kinder Morgan,Energy
+309,Stef Wertheimer,8,Israel,Iscar,Industrial Products
+310,Terrence Pegula,8,United States,Buffalo Sabres,Media & Entertainment
+311,Ding Shizhong,7.9,China,Anta,Consumer Goods
+312,Georg Schaeffler ,7.9,Germany,Schaeffler,Automobile & Auto Components
+313,Terry Guo Tai-Ming,7.9,China,Hon Hai,Consumer Goods
+314,Alexei Kuzmichev,7.8,United Kingdom,Alfa,Energy
+315,Andy Von Bechtolsheim,7.8,United States,Arista Networks,Software & Services
+316,Ann Walton Kroenke,7.8,United States,Walmart,Retail
+317,German Khan,7.8,Russia,Alfa,Energy
+318,Idan Ofer,7.8,Israel,Israel Corporation,Chemicals
+319,Jay Y Lee,7.8,South Korea,Samsung,Consumer Goods
+320,Jian Jun,7.8,China,Imeik,Healthcare
+321,Juan Francisco Beckmann Vidal,7.8,Mexico,Becle SAB,Food & Beverages
+322,Li Ge & Zhao Ning,7.8,China,Wuxi Pharma Tech,Healthcare
+323,Ma Jianrong,7.8,China,Shenzhou,Consumer Goods
+324,Nancy Walton Laurie,7.8,United States,Walmart,Retail
+325,Pierre Castel,7.8,Switzerland,Castel Freres,Food & Beverages
+326,Tamara Gustavson,7.8,United States,Public Storage,Real Estate
+327,Ding Shijia,7.7,China,Anta,Consumer Goods
+328,Dmitry Bukhman,7.7,United Kingdom,Playrix,Media & Entertainment
+329,Igor Bukhman,7.7,United Kingdom,Playrix,Media & Entertainment
+330,Jim Davis,7.7,United States,New Balance,Consumer Goods
+331,Manuel Villar,7.7,Philippines,Golden Bria Holdings,Retail
+332,Radovan Vitek,7.7,Czech Republic,CPI Property,Real Estate
+333,Bubba Cathy,7.6,United States,Chick - Fil - A,Food & Beverages
+334,Dan Cathy,7.6,United States,Chick - Fil - A,Food & Beverages
+335,James Goodnight,7.6,United States,SAS Institute,Software & Services
+336,Joshua Harris,7.6,United States,Apollo Global Management,Financial Services
+337,Leonard Stern,7.6,United States,Hartz Mountain Industries,Real Estate
+338,Martin Viessmann,7.6,Germany,Viessmann Werke,Industrial Products
+339,Vicky Safra,7.6,Brazil,Safra,Financial Services
+340,Wee Cho Yaw,7.6,Singapore,United Overseas Bank,Financial Services
+341,Charles Ergen,7.5,United States,Dish Network,Media & Entertainment
+342,Chen Tianqiao & Luo Qianqian,7.5,United States,Shanda,Investments
+343,Dennis Washington,7.5,United States,Seaspan,Transportation & Logistics
+344,Jack Dorsey,7.5,United States,Square,Financial Services
+345,Lai Haimin,7.5,China,Horoy,Real Estate
+346,Mat Ishbia,7.5,United States,UWM Holdings,Financial Services
+347,Mohamed Bin Issa Al Jaber,7.5,Saudi Arabia,MBI International,Investments
+348,Robert Smith,7.5,United States,Vista Equity Partners,Financial Services
+349,Wang Tao,7.5,China,DJI,Consumer Goods
+350,Xu Yangtian,7.5,Singapore,Shein,Retail
+351,Denise Coates,7.4,United Kingdom,Bet365,Media & Entertainment
+352,Dmitry Rybolovlev,7.4,Monaco,Uralkali,Chemicals
+353,Georg Rethmann,7.4,Germany,Rethmann,Services
+354,Henry Samueli,7.4,United States,Broadcom,Semiconductors
+355,Klemens Rethmann,7.4,Germany,Rethmann,Services
+356,Ludger Rethmann,7.4,Germany,Rethmann,Services
+357,Martin Rethmann,7.4,Germany,Rethmann,Services
+358,Michael Otto,7.4,Germany,Otto,Retail
+359,Wang Laisheng & Wang Yayuan,7.4,China,Luxshare Precision,Consumer Goods
+360,Alexander Abramov,7.3,Russia,Evraz,Metals & Mining
+361,Heinrich Deichmann,7.3,Germany,Deichmann,Retail
+362,John A Sobrato,7.3,United States,Sobrato Development,Real Estate
+363,Juan Roig,7.3,Spain,Mercadona,Retail
+364,Ludwig Merckle,7.3,Germany,HeidelbergCement,Construction & Engineering
+365,Mohammed Al Amoudi,7.3,Saudi Arabia,Corral Petroleum Holdings,Energy
+366,Vijay Chauhan,7.3,India,Parle Products,Consumer Goods
+367,Wang Laichun,7.3,China,Luxshare Precision,Consumer Goods
+368,Wolfgang Marguerre,7.3,Germany,Octapharma,Healthcare
+369,Yan Xin,7.3,China,Susun,Construction & Engineering
+370,Andrei Guryev,7.2,Russia,PhosAgro,Chemicals
+371,Carrie Perrodo,7.2,United Kingdom,Perenco,Energy
+372,German Larrea Mota Velasco,7.2,Mexico,Grupo Mexico,Metals & Mining
+373,Miao Hangen & Zhu Hongmei,7.2,China,Shenghong Printing & Dyeing,Industrial Products
+374,Naguib Sawiris,7.2,Egypt,Vimpelcom,Telecommunications
+375,Sun Shoukuan,7.2,China,Jiacheng,Industrial Products
+376,Wendy Lee,7.2,Hong Kong,Sun Hung Kai,Real Estate
+377,Ashwin S Dani,7.1,India,Asian Paints,Chemicals
+378,David Shaw,7.1,United States,DE Shaw,Financial Services
+379,Emilio Alves Odebrecht,7.1,Brazil,Odebrecht,Construction & Engineering
+380,Gaye Farncombe,7.1,Canada,Thomson Reuters,Media & Entertainment
+381,Linda Campbell,7.1,Canada,Thomson Reuters,Media & Entertainment
+382,Nathan Kirsh,7.1,United Kingdom,Jetro Holdings,Retail
+383,Peter Thiel,7.1,United States,Clarium Capital,Investments
+384,Silvio Berlusconi,7.1,Italy,MFE-MediaForEurope,Media & Entertainment
+385,Steve Bisciotti,7.1,United States,Baltimore Ravens,Media & Entertainment
+386,Tatyana Bakalchuk,7.1,Russia,Wildberries,Retail
+387,Tse Ping,7.1,Hong Kong,Sino Biopharmaceutical,Healthcare
+388,Benu Gopal Bangur,7,India,Shree Cement,Construction & Engineering
+389,Eric Wittouck,7,Monaco,Artel,Investments
+390,Jiang Weiping,7,China,Tianqi,Metals & Mining
+391,Kwek Leng Beng,7,Singapore,City Developments,Real Estate
+392,Nathan Blecharczyk,7,United States,Airbnb,Hospitality
+393,Ronda Stryker,7,United States,Stryker,Healthcare
+394,Wu Jianshu,7,China,Tuopu,Automobile & Auto Components
+395,Abdulsamad Rabiu,6.9,Nigeria,BUA,Construction & Engineering
+396,Anders Holch Povlsen,6.9,Denmark,Bestseller,Retail
+397,Bernard Marcus,6.9,United States,Home Depot,Retail
+398,Carl Bennet,6.9,Sweden,Lifco,Investments
+399,Cheng Xue,6.9,China,Haitian,Food & Beverages
+400,Christopher Reyes,6.9,United States,Reyes,Food & Beverages
+401,Hansjorg Wyss,6.9,United States,Synthes,Healthcare
+402,Henry Nicholas III,6.9,United States,Broadcom,Semiconductors
+403,Joe Gebbia,6.9,United States,Airbnb,Hospitality
+404,John Grayken,6.9,United Kingdom,Lone Star Funds,Financial Services
+405,Jude Reyes,6.9,United States,Reyes,Food & Beverages
+406,Magdalena Blocher,6.9,Switzerland,EMS Chemie,Chemicals
+407,Paolo & Gianfelice Mario Rocca,6.9,Argentina,Techint,Construction & Engineering
+408,Rahel Blocher,6.9,Switzerland,EMS Chemie,Chemicals
+409,Sandra Ortega Mera,6.9,Spain,Inditex,Consumer Goods
+410,Seo Jung Jin,6.9,South Korea,Celltrion,Healthcare
+411,Zhang Hejun,6.9,China,Deye Technology,Industrial Products
+412,Zhao Yan,6.9,China,Bloomage,Healthcare
+413,Alain Merieux,6.8,France,Bio Merieux,Healthcare
+414,Décio da Silva,6.8,Brazil,WEG Industries,Industrial Products
+415,Eva Gonda Rivera,6.8,Mexico,FEMSA,Food & Beverages
+416,Fang Wei,6.8,China,Fangda,Metals & Mining
+417,Hu Kaijun,6.8,China,China Grand,Healthcare
+418,Lilian Wernighaus,6.8,Brazil,WEG Industries,Industrial Products
+419,Rajiv Singh,6.8,India,DLF,Real Estate
+420,Randa Williams,6.8,United States,Enterprise Products,Energy
+421,Alexander Otto,6.7,Germany,Otto,Retail
+422,Bidzina Ivanishvili,6.7,Georgia,Rossiyskiy Kredit Bank,Financial Services
+423,Cai Kui,6.7,Hong Kong,Longfor,Real Estate
+424,Dannine Avara,6.7,United States,Enterprise Products,Energy
+425,David Duffield,6.7,United States,Workday,Software & Services
+426,Ibrahim Erdemoglu,6.7,Turkey,SASA Polyester,Chemicals
+427,Michael Herz,6.7,Germany,Maxingvest,Consumer Goods
+428,Mikhail Shelkov,6.7,Russia,VSMPO-AVISMA,Metals & Mining
+429,Milane Frantz,6.7,United States,Enterprise Products,Energy
+430,Scott Duncan,6.7,United States,Enterprise Products,Energy
+431,Wolfgang Herz,6.7,Germany,Maxingvest,Consumer Goods
+432,Chu Mang Yee,6.6,China,Hopson,Real Estate
+433,Friedhelm Loh,6.6,Germany,Friedhelm Loh Group,Industrial Products
+434,George Lucas,6.6,United States,Lucasfilm,Media & Entertainment
+435,Guo Guangchang,6.6,China,Fosun,Investments
+436,John Collison,6.6,United States,Stripe,Financial Services
+437,Karel Komarek,6.6,Czech Republic,KKCG,Media & Entertainment
+438,Marc Rowan,6.6,United States,Apollo Global Management,Financial Services
+439,Mark Cuban,6.6,United States,Dallas Mavericks,Media & Entertainment
+440,Nassef Sawiris,6.6,Egypt,OCI,Chemicals
+441,Patrick Collison,6.6,United States,Stripe,Financial Services
+442,Stewart & Lynda Resnick,6.6,United States,Roll International,Food & Beverages
+443,Ugur Sahin,6.6,Germany,BioNTech,Healthcare
+444,Yu Renrong,6.6,China,Will,Semiconductors
+445,Agnete Kirk Thinggaard,6.5,Denmark,Lego,Consumer Goods
+446,Kirk Kristiansen,6.5,Denmark,Lego,Consumer Goods
+447,Lu Weiding,6.5,China,Wanxiang,Automobile & Auto Components
+448,Marc Benioff,6.5,United States,Salesforce,Software & Services
+449,Nadia Thiele,6.5,Germany,Knorr-Bremse,Automobile & Auto Components
+450,Patrick Drahi,6.5,Switzerland,Altice,Telecommunications
+451,Sofie Kirk Kiaer Kristiansen,6.5,Denmark,Lego,Consumer Goods
+452,Thomas Kirk Kiaer Kristiansen,6.5,Denmark,Lego,Consumer Goods
+453,Alain Bouchard,6.4,Canada,Alimentation Couche Tard,Retail
+454,Arthur Irving,6.4,Canada,Irving,Energy
+455,Charles Cadogan,6.4,United Kingdom,Cadogan Estates,Real Estate
+456,Edward Roski Jr,6.4,United States,Majestic Realty,Real Estate
+457,Iskander Makhmudov,6.4,Russia,Ural Mining,Metals & Mining
+458,JK Irving,6.4,Canada,Irving,Energy
+459,Vikram Lal,6.4,India,Eicher Motors,Automobile & Auto Components
+460,Andrew & Peggy Cherng,6.3,United States,Panda Express,Food & Beverages
+461,Chen Fashu,6.3,China,Xinhuadu,Healthcare
+462,Gopikishan Damani,6.3,India,Avenue Supermarts,Retail
+463,Jorge Moll Filho,6.3,Brazil,Rede D'or,Healthcare
+464,Lai Meisong,6.3,China,ZTO,Transportation & Logistics
+465,Margarita Louis Dreyfus,6.3,Switzerland,Louis Dreyfus,Trading
+466,Niels Peter Louis-Hansen,6.3,Denmark,Coloplast,Healthcare
+467,Philip Ng,6.3,Singapore,Far East,Real Estate
+468,Robert Ng,6.3,Singapore,Far East,Real Estate
+469,Robert Rowling,6.3,United States,TRT,Hospitality
+470,Ruan Liping,6.3,China,Gong Niu Group,Consumer Goods
+471,Ruan Xueping,6.3,China,Gong Niu Group,Consumer Goods
+472,Shari Arison,6.3,Israel,Carnival Cruises,Media & Entertainment
+473,Todd Boehly,6.3,United States,Eldridge Industries,Investments
+474,Xiang Guangda,6.3,China,Tsingshan,Industrial Products
+475,Zhou Qunfei & Zheng Junlong,6.3,China,Lens,Semiconductors
+476,Christopher Hohn,6.2,United Kingdom,TCI Fund Management,Financial Services
+477,Dennis Chip Wilson,6.2,Canada,Lululemon,Consumer Goods
+478,Jean-Michel Besnier,6.2,France,Lactalis,Food & Beverages
+479,Marie Besnier Beauvalot,6.2,France,Lactalis,Food & Beverages
+480,Shen Wenrong,6.2,China,Sha Steel,Metals & Mining
+481,Tsai Eng-Meng,6.2,China,Want Want,Food & Beverages
+482,Xu Shihui,6.2,China,Dali Foods,Food & Beverages
+483,Zuo's,6.2,China,KE,Real Estate
+484,Hilton H Schlosberg,6.1,United States,Monster Beverage,Food & Beverages
+485,Jane Lauder,6.1,United States,Estee Lauder,Consumer Goods
+486,Kazumi Yanai,6.1,Japan,Fast Retailing,Retail
+487,Lin Muqin & Lin Yupeng,6.1,China,Eastroc Beverage,Food & Beverages
+488,Pauline Macmillan Keinath,6.1,United States,Cargill,Agriculture
+489,Dan Snyder,6,United States,Washington Redskins,Media & Entertainment
+490,Dan Sten Olsson,6,Sweden,Stena Sphere,Investments
+491,Elizabeth Mohn,6,Germany,Bertelsmann,Media & Entertainment
+492,Kenneth Dart,6,United Kingdom,Dart Enterprises,Investments
+493,Ralph Lauren,6,United States,RL,Consumer Goods
+494,Ralph Sonnenberg,6,Switzerland,Hunter Douglas,Consumer Goods
+495,Ruan Hongliang,6,China,Flat Glass,Industrial Products
+496,Shi Yonghong & Li Haiyan,6,China,Haidilao,Food & Beverages
+497,Zhang Yin,6,China,Nine Dragons Paper,Paper & Forest Products
+498,Archie Aldis Emerson,5.9,United States,Sierra Pacific Industries,Agriculture
+499,Bert Beveridge,5.9,United States,Titos Vodka,Food & Beverages
+500,Hong Lee Ra-Hee,5.9,South Korea,Samsung,Consumer Goods
+501,Odd Reitan,5.9,Norway,Reitan Group,Retail
+502,Sajjan Jindal,5.9,India,JSW Steel,Metals & Mining
+503,Antony Ressler,5.8,United States,Ares Management,Financial Services
+504,Axel Oberwelland,5.8,Germany,August Storck,Food & Beverages
+505,Christopher Chandler,5.8,United Arab Emirates,Legatum Group,Investments
+506,Hans-Adam II,5.8,Switzerland,LGT Bank,Financial Services
+507,Igor Olenicoff,5.8,United States,Olen Properties,Real Estate
+508,Jean Pierre Cayard,5.8,France,La Martiniquaise,Food & Beverages
+509,Judy Faulkner,5.8,United States,Epic Systems,Software & Services
+510,Michael Kadoorie,5.8,Hong Kong,CLP,Energy
+511,Richard Chandler,5.8,Singapore,Clermont Group,Investments
+512,Tom Gores,5.8,United States,Platinum Equity,Financial Services
+513,Ananda Krishnan,5.7,Malaysia,Maxis Communications,Telecommunications
+514,Bruce Kovner,5.7,United States,CAM Capital,Financial Services
+515,Enrique Razon Jr,5.7,Philippines,International Container Terminal Services,Transportation & Logistics
+516,Kenneth Langone,5.7,United States,Home Depot,Retail
+517,Li Xianyi,5.7,Hong Kong,Xinyi Glass,Industrial Products
+518,Li Xiaoming,5.7,China,Energy New Material,Containers & Packaging
+519,Liu Yiqian,5.7,China,Sunline,Investments
+520,Peter Alexander Wacker,5.7,Germany,Wacker Chemie,Chemicals
+521,Philippe Stern,5.7,Switzerland,Patek Philippe,Consumer Goods
+522,Prajogo Pangestu,5.7,Indonesia,Barito Pacific,Chemicals
+523,Sun Guangxin,5.7,China,Guanghui,Retail
+524,Ted Lerner,5.7,United States,Lerner Enterprises,Real Estate
+525,Viktor Rashnikov,5.7,Russia,MMK,Metals & Mining
+526,Xue Min,5.7,China,United Imaging,Healthcare
+527,Zhang Zhixiang,5.7,China,Jianlong,Industrial Products
+528,Daniel Kretinsky,5.6,Czech Republic,EPH,Energy
+529,David Bonderman,5.6,United States,Texas Pacific,Financial Services
+530,James Chambers,5.6,United States,Cox Enterprises,Media & Entertainment
+531,Janice McNair,5.6,United States,Houston Texans,Media & Entertainment
+532,Katharine Rayner,5.6,United States,Cox Enterprises,Media & Entertainment
+533,Leonid Fedun,5.6,Russia,Lukoil,Energy
+534,Margaretta Taylor,5.6,United States,Cox Enterprises,Media & Entertainment
+535,Neil Bluhm,5.6,United States,Walton Street Capital,Financial Services
+536,Rene Benko,5.6,Austria,Signa Holding,Retail
+537,Takahisa Takahara,5.6,Japan,Unicharm,Consumer Goods
+538,Thomas Schmidheiny,5.6,Switzerland,LafargeHolcim,Construction & Engineering
+539,Andre Hoffmann,5.5,Switzerland,Roche,Healthcare
+540,David Green,5.5,United States,Hobby Lobby,Retail
+541,Edward Rogers III,5.5,Canada,Rogers Communications,Telecommunications
+542,Fredrik Lundberg,5.5,Sweden,LE Lundbergforetagen,Investments
+543,Gao Dekang & Mei Dong,5.5,China,Bosideng,Consumer Goods
+544,Helmut Sohmen,5.5,Hong Kong,BW Group,Transportation & Logistics
+545,Horst Julius Pudwill,5.5,Hong Kong,TTI,Consumer Goods
+546,Lino Saputo,5.5,Canada,Saputo,Food & Beverages
+547,Michael Pieper,5.5,Switzerland,Franke Group,Consumer Goods
+548,Piero Ferrari,5.5,Italy,Ferrari,Automobile & Auto Components
+549,Song Jianbo,5.5,China,Nanshan,Metals & Mining
+550,Stephen Rubin,5.5,United Kingdom,Pentland,Consumer Goods
+551,Thomas Pritzker,5.5,United States,Hyatt,Hospitality
+552,Viatcheslav Kantor,5.5,Switzerland,Acron,Chemicals
+553,Charles Johnson,5.4,United States,Franklin Resources,Financial Services
+554,Frits Goldschmeding,5.4,Netherlands,Randstad,Services
+555,Jeffrey Skoll,5.4,United States,Capricon Investment,Financial Services
+556,Joe Mansueto,5.4,United States,Morningstar,Financial Services
+557,Koji Yanai,5.4,Japan,Fast Retailing,Retail
+558,Matthias Reimann Andersen,5.4,Germany,JAB Holding,Investments
+559,Ray Lee Hunt,5.4,United States,Hunt Oil Company,Energy
+560,Renate Reimann Haas,5.4,Germany,JAB Holding,Investments
+561,Robert Wood Johnson IV,5.4,United States,New York Jets,Media & Entertainment
+562,Stefan Reimann Andersen,5.4,Germany,JAB Holding,Investments
+563,Theo Mueller,5.4,Germany,Theo Muller Group,Food & Beverages
+564,Trevor Rees-Jones,5.4,United States,Marcellus,Energy
+565,Wang Wenjing,5.4,China,Yonyou,Software & Services
+566,Wolfgang Reimann,5.4,Germany,JAB Holding,Investments
+567,Daniel Ziff,5.3,United States,Oach Ziff Capital Management,Financial Services
+568,David Velez,5.3,Brazil,Nu Holdings,Financial Services
+569,Dirk Ziff,5.3,United States,Oach Ziff Capital Management,Financial Services
+570,Gary Rollins,5.3,United States,Rollins,Services
+571,Georg Stumpf,5.3,Austria,M+W,Construction & Engineering
+572,Huang Rulun & Huang Tao,5.3,China,Century Golden Resources,Real Estate
+573,Huang Yi,5.3,China,Zhongsheng,Retail
+574,Jay Chaudhry,5.3,United States,Zscaler,Software & Services
+575,John Brown,5.3,United States,Stryker,Healthcare
+576,Jon Stryker,5.3,United States,Stryker,Healthcare
+577,Julio Ponce Lerou,5.3,Chile,SQM,Chemicals
+578,Kim Beom-Soo,5.3,South Korea,Daum Kakao,Software & Services
+579,Murat Ulker,5.3,Turkey,Yildiz Holding,Food & Beverages
+580,Qian Dongqi & Qian Cheng,5.3,China,Ecovacs,Consumer Goods
+581,Robert Rich Jr,5.3,United States,Rich Products,Food & Beverages
+582,Robert Ziff,5.3,United States,Oach Ziff Capital Management,Financial Services
+583,Adam Kwok Kai-fai,5.2,Hong Kong,Sun Hung Kai,Real Estate
+584,Anthony Bamford,5.2,United Kingdom,JCB,Industrial Products
+585,Arkady Rotenberg,5.2,Russia,SGM,Construction & Engineering
+586,Chandru Raheja,5.2,India,Mindspace Business Parks REIT,Real Estate
+587,Gail Miller,5.2,United States,Larry H. Miller,Retail
+588,Hal Steinbrenner,5.2,United States,New York Yankees,Media & Entertainment
+589,Harsh Mariwala,5.2,India,Marico,Consumer Goods
+590,Isolde Liebherr,5.2,Switzerland,Liebherr,Industrial Products
+591,Jack Dangermond,5.2,United States,ESRI,Software & Services
+592,Li Xiang,5.2,China,Li Auto,Automobile & Auto Components
+593,Michel Leclercq,5.2,France,Decathlon,Retail
+594,Micky Arison,5.2,United States,Carnival Cruises,Media & Entertainment
+595,Miuccia Prada,5.2,Italy,Prada,Consumer Goods
+596,Murali Divi,5.2,India,Divi's Laboratories,Healthcare
+597,Patrizio Bertelli,5.2,Italy,Prada,Consumer Goods
+598,Raymond Kwok,5.2,Hong Kong,Sun Hung Kai,Real Estate
+599,Richard White,5.2,Australia,WiseTech Global,Software & Services
+600,Rinat Akhmetov,5.2,Ukraine,SCM,Investments
+601,Willi Liebherr,5.2,Switzerland,Liebherr,Industrial Products
+602,Xu Rongmao,5.2,Hong Kong,Shimao,Real Estate
+603,Zhang Lei,5.2,China,Envision,Energy
+604,Barry Sternlicht,5.1,United States,Starwood Capital,Financial Services
+605,Chen Jinxia,5.1,China,Yongjin,Investments
+606,Denise Debartolo York,5.1,United States,San Francisco 49ers,Media & Entertainment
+607,Georges Nickolas Hayek Jr,5.1,Switzerland,Swatch,Consumer Goods
+608,Johan H. Andresen,5.1,Norway,Ferd,Investments
+609,Liang Qingde,5.1,China,Galanz,Consumer Goods
+610,Luis Carlos Sarmiento,5.1,Colombia,Aval,Financial Services
+611,Mangal Prabhat Lodha,5.1,India,Macrotech Developers,Real Estate
+612,Pankaj Patel,5.1,India,Cadila Healthcare,Healthcare
+613,Somphote Ahunai,5.1,Thailand,Energy Absolute,Energy
+614,Wang Yiming,5.1,China,Ginlong Technologies,Industrial Products
+615,Xu Jinfu,5.1,China,Tinci Materials,Chemicals
+616,Ben Chestnut,5,United States,Mailchimp,Software & Services
+617,Chen Zhilie & Wang Rong,5,China,Evoc,Industrial Products
+618,Dan Kurzius,5,United States,Mailchimp,Software & Services
+619,Gigi Pritzker,5,United States,Hyatt,Hospitality
+620,Mark Scheinberg,5,United Kingdom,PokerStars,Media & Entertainment
+621,Nikolay Storonsky,5,United Kingdom,Revolut ,Financial Services
+622,Yu Huijiao & Zhang Xiaojuan,5,China,YTO,Transportation & Logistics
+623,Chen Hua,4.9,China,Kingkey,Real Estate
+624,Dagmar Dolby,4.9,United States,Dolby Laboratories,Software & Services
+625,Gordon Moore,4.9,United States,Intel,Semiconductors
+626,Hazel Czernin,4.9,United Kingdom,Howard De Walden Estate,Real Estate
+627,Hong Jie,4.9,China,3Trees,Chemicals
+628,Isaac Larian,4.9,United States,MGA Entertainment,Consumer Goods
+629,Johann Graf,4.9,Austria,Novamtic,Media & Entertainment
+630,Leslie Wexner,4.9,United States,Limited Brands,Consumer Goods
+631,Marcos Galperin,4.9,Argentina,MercadoLibre,Retail
+632,Margot Birmingham Perot,4.9,United States,Perot Systems,Consumer Goods
+633,Patrick Ryan,4.9,United States,AON Insurance Broker,Financial Services
+634,Rudolf Maag,4.9,Switzerland,Straumann Holdings,Healthcare
+635,Samvel Karapetyan,4.9,Russia,Tashir Group,Construction & Engineering
+636,Clive Calder,4.8,United Kingdom,Record Label,Media & Entertainment
+637,Frederick Barclay,4.8,United Kingdom,The Very Group,Retail
+638,Harry Stine,4.8,United States,Stine Seeds,Agriculture
+639,He Xiaopeng,4.8,China,Xpeng Motors,Automobile & Auto Components
+640,Hiroshi Mikitani,4.8,Japan,Rakuten,Retail
+641,James Coulter,4.8,United States,TPG Capital,Financial Services
+642,Mark Shoen,4.8,United States,Amerco,Transportation & Logistics
+643,Pat Stryker,4.8,United States,Stryker,Healthcare
+644,Peter Grogg,4.8,Switzerland,Bachem Holding,Healthcare
+645,Pyotr Aven,4.8,Russia,Alfa,Energy
+646,Remo Ruffini,4.8,Italy,Moncler,Consumer Goods
+647,Shen Nanpeng,4.8,Hong Kong,Sequoia,Investments
+648,Shi Yuzhu,4.8,China,Giant,Media & Entertainment
+649,Andreas Oeri,4.7,Switzerland,Roche,Healthcare
+650,Catherine Oeri,4.7,Switzerland,Roche,Healthcare
+651,Gisela Sick,4.7,Germany,SICK,Semiconductors
+652,Ian Livingstone,4.7,United Kingdom,London & Regional Properties,Real Estate
+653,Leng Youbin,4.7,China,Feihe,Food & Beverages
+654,Lin Bin,4.7,China,Xiaomi,Consumer Goods
+655,Lin Chang Su-E,4.7,China,Liberty Times,Real Estate
+656,Lisa K Simmons,4.7,United States,Valhi,Chemicals
+657,Maja Hoffmann,4.7,Switzerland,Roche,Healthcare
+658,Orlando Bravo,4.7,United States,Thoma Bravo,Financial Services
+659,Richard Livingstone,4.7,United Kingdom,London & Regional Properties,Real Estate
+660,Sabine Duschmale Oeri,4.7,Switzerland,Roche,Healthcare
+661,Scott Cook,4.7,United States,Intuit,Software & Services
+662,Stanley Druckenmiller,4.7,United States,Duquesne Capital Management,Financial Services
+663,Thomas Straumann,4.7,Switzerland,Straumann Holdings,Healthcare
+664,Tom Golisano,4.7,United States,Paychex,Software & Services
+665,Vera Michalski Hoffmann,4.7,Switzerland,Roche,Healthcare
+666,Vladimir Kim,4.7,Kazakhstan,Kazakhmys,Metals & Mining
+667,Zhang Daocai,4.7,China,Sanhua,Automobile & Auto Components
+668,Carlos Rodriguez Pastor,4.6,Peru,Banco Internacional Del Peru,Financial Services
+669,Chen Kaixuan & Li Ruohong,4.6,China,Liby,Consumer Goods
+670,Cho Jung-Ho,4.6,South Korea,Meritz Financial,Financial Services
+671,Issad Rebrab,4.6,Algeria,Cevital,Food & Beverages
+672,John B Hess,4.6,United States,Hess,Energy
+673,Johnelle Hunt,4.6,United States,JB Hunt Transport Services,Transportation & Logistics
+674,Koo Lin Jui-Hui,4.6,China,CTBC,Financial Services
+675,Li Chun‘an,4.6,China,Longi,Energy
+676,Lynn Schusterman,4.6,United States,Samson Resources,Energy
+677,Pansy Ho Chiu-king,4.6,Hong Kong,"Shun Tak, MGM China",Media & Entertainment
+678,Richard Tsai Ming-Hsing,4.6,China,Fubon,Financial Services
+679,Sergio Stevanato,4.6,Italy,Stevanato Group,Containers & Packaging
+680,Steven Spielberg,4.6,United States,Dreamworks Animation,Media & Entertainment
+681,Su Hua,4.6,China,Kuaishou Technology,Media & Entertainment
+682,Wang Jian,4.6,China,"Bgi Genomics, Mgi Tech",Healthcare
+683,Wu Yiling,4.6,China,Yiling Pharmaceutical,Healthcare
+684,Xie Liangzhi & Li Hanyuan,4.6,China,Sinocelltech,Healthcare
+685,Zhao Tao,4.6,China,Buchang,Healthcare
+686,Ali Erdemoglu,4.5,Turkey,SASA Polyester,Chemicals
+687,B Parthasaradhi Reddy,4.5,India,Hetero Drugs,Healthcare
+688,Barry Diller,4.5,United States,Interactive,Media & Entertainment
+689,Chen Hongtian,4.5,Hong Kong,Cheung Kei,Real Estate
+690,Jiang Nanchun,4.5,China,FocusMedia,Media & Entertainment
+691,Joe Lewis,4.5,Bahamas,Tavistock,Investments
+692,Kwon Hyuk-Bin,4.5,South Korea,Smilegate,Media & Entertainment
+693,Leonie Schroder,4.5,United Kingdom,Schroders,Financial Services
+694,Li Liangbin,4.5,China,Ganfeng Lithium,Metals & Mining
+695,Li Yihai & Li Xin,4.5,China,Jemincare,Healthcare
+696,MA Yusuff Ali,4.5,United Arab Emirates,LuLu,Retail
+697,Miao Shouliang,4.5,China,Fuyuan,Real Estate
+698,Mohsin Issa,4.5,United Kingdom,EG Group,Retail
+699,Niranjan Hiranandani,4.5,India,Hiranandani Communities,Real Estate
+700,Richard Schulze,4.5,United States,Best Buy,Retail
+701,Roger Penske,4.5,United States,Penske Automotive,Retail
+702,Thomas B. Hagen,4.5,United States,Erie Indemnity,Financial Services
+703,Tom Morris,4.5,United Kingdom,Home Bargains,Retail
+704,Tomasz Biernacki,4.5,Poland,Dino Polska,Retail
+705,Tu Huilong,4.5,China,Haiya,Real Estate
+706,Ye Chenghai & Liao Qingqing,4.5,China,Salubris,Healthcare
+707,Zuber Issa,4.5,United Kingdom,EG Group,Retail
+708,Claudio Del Vecchio,4.4,Italy,EssilorLuxottica,Consumer Goods
+709,Clemente del Vecchio,4.4,Italy,EssilorLuxottica,Consumer Goods
+710,Daryl Katz,4.4,Canada,Katz,Healthcare
+711,David Steward,4.4,United States,World Wide Technology,Software & Services
+712,Dona Bertarelli,4.4,Switzerland,Serono,Healthcare
+713,Dong Jinggui & Qian Jinghong,4.4,China,Yadea,Automobile & Auto Components
+714,Frederick Smith,4.4,United States,Fedex,Transportation & Logistics
+715,Igor Kesaev,4.4,Russia,Megapolis,Retail
+716,Jeffrey Lurie,4.4,United States,Philadelphia Eagles,Media & Entertainment
+717,Joe Shoen,4.4,United States,U-Haul Holding,Transportation & Logistics
+718,Laurence Graff,4.4,Switzerland,Graff Diamonds,Retail
+719,Li Weiguo,4.4,China,Oriental Yuhong,Construction & Engineering
+720,Lip Keong Chen,4.4,Cambodia,NagaCorp,Media & Entertainment
+721,Luca del Vecchio,4.4,Italy,EssilorLuxottica,Consumer Goods
+722,Marc Ladreit De Lacharriere,4.4,France,Fimalac,Financial Services
+723,Marisa del Vecchio,4.4,Italy,EssilorLuxottica,Consumer Goods
+724,Min Kao,4.4,United States,Garmin,Consumer Goods
+725,Otto Philipp Braun,4.4,Germany,B. Braun,Healthcare
+726,Paola del Vecchio,4.4,Italy,EssilorLuxottica,Consumer Goods
+727,Rafael Del Pino Calvo-Sotelo,4.4,Spain,Ferrovial,Construction & Engineering
+728,Richard Branson,4.4,United Kingdom,Virgin,Aerospace & Defence
+729,Sunil Mittal,4.4,India,Bharti Airtel,Telecommunications
+730,Walter Faria,4.4,Brazil,Petropolis,Food & Beverages
+731,Xia Zuoquan,4.4,China,BYD,Automobile & Auto Components
+732,Zhang Hongwei,4.4,China,Orient,Energy
+733,An Kang,4.3,China,Hualan Biological Engineering,Healthcare
+734,Anand Mahindra,4.3,India,M&M,Automobile & Auto Components
+735,Anthoni Salim,4.3,Indonesia,First Pacific,Investments
+736,Chairul Tanjung,4.3,Indonesia,CT,Financial Services
+737,Daniel Tsai Ming-Chung,4.3,China,Fubon,Financial Services
+738,Donald Sterling,4.3,United States,Los Angeles Clippers,Media & Entertainment
+739,Francisco Javier Bours Castelo,4.3,Mexico,Megacable Holdings,Telecommunications
+740,Kjell Inge Rokke,4.3,Norway,Aker,Energy
+741,Li Gaiteng,4.3,China,Flyco,Consumer Goods
+742,Liang Feng & Shao Xiaomei,4.3,China,Putailai,Energy
+743,Maria Asuncion Aramburuzabala,4.3,Mexico,Anheuser-Busch InBev,Food & Beverages
+744,Michael Ashley,4.3,United Kingdom,Frasers,Retail
+745,Mohammed Alaouite VI,4.3,Morocco,Al Mada,Financial Services
+746,Rekha Rakesh Jhunjhunwala,4.3,India,Rare Enterprises,Investments
+747,Tung Chee Chen,4.3,Hong Kong,OOCL,Transportation & Logistics
+748,Wang Yanqing,4.3,China,Lead,Industrial Products
+749,Zhou Jianping,4.3,China,Heilan,Consumer Goods
+750,Alexandra Schorghuber,4.2,Germany,Schoerghuber Unternehmensgruppe,Construction & Engineering
+751,Alicia Koplowitz,4.2,Spain,Omega Capital,Financial Services
+752,Andrew Currie,4.2,Switzerland,Ineos,Chemicals
+753,Charles Simonyi,4.2,United States,Microsoft,Software & Services
+754,Daniela Herz,4.2,Germany,Mayfair,Investments
+755,Deng Weiming & Wu Xiaoge,4.2,China,Cngr,Industrial Products
+756,Don Hankey,4.2,United States,Hankey,Financial Services
+757,Gunter Herz,4.2,Germany,Mayfair,Investments
+758,Issac Perlmutter,4.2,United States,Marvel Entertainment,Media & Entertainment
+759,John Reece,4.2,Switzerland,Ineos,Chemicals
+760,Li Xiaohua,4.2,China,Energy New Material,Containers & Packaging
+761,Michael Federmann,4.2,Israel,Elbit Systems,Software & Services
+762,Robert Sands,4.2,United States,Constellation Brands,Food & Beverages
+763,Ron Baron,4.2,United States,Barons Capital,Financial Services
+764,Steven Udvar,4.2,United States,Air Lease,Aerospace & Defence
+765,Teddy Sagi,4.2,Israel,Market Tech Holdings,Real Estate
+766,Thai Lee,4.2,United States,SHI International,Software & Services
+767,Xue Hua,4.2,China,Haid,Agriculture
+768,You Xiaoping,4.2,China,Huafeng,Chemicals
+769,Zhang Hongchao,4.2,China,MXBC,Food & Beverages
+770,Zhang Hongfu,4.2,China,MXBC,Food & Beverages
+771,Zhang Lei,4.2,Hong Kong,Hillhouse Capital,Investments
+772,Abdulla Ahmed Al Ghurair,4.1,United Arab Emirates,Mashreq Bank,Financial Services
+773,Arthur Blank,4.1,United States,Home Depot,Retail
+774,Augusto Perfetti,4.1,Switzerland,Perfetti Van Melle,Food & Beverages
+775,David Siegel,4.1,United States,Two Sigma Investments,Financial Services
+776,Djoko Susanto,4.1,Indonesia,Alfamart,Retail
+777,Florian Rehm,4.1,Germany,Mast-Jägermeister,Food & Beverages
+778,Giorgio Perfetti,4.1,Switzerland,Perfetti Van Melle,Food & Beverages
+779,J Joe Ricketts,4.1,United States,TD Ameritrade,Financial Services
+780,Jeff Greene,4.1,United States,Investments,Real Estate
+781,Jimmy Haslam,4.1,United States,Pilot Flying J,Retail
+782,John Catsimatidis,4.1,United States,Red Apple,Real Estate
+783,John Middleton,4.1,United States,Philadelphia Phillies,Media & Entertainment
+784,John Overdeck,4.1,United States,Two Sigma Investments,Financial Services
+785,Jonathan Gray,4.1,United States,Blackstone Group,Financial Services
+786,Li Liufa & Li Fengluan,4.1,China,Tianrui,Construction & Engineering
+787,Neal Blue,4.1,United States,General Atomics,Aerospace & Defence
+788,Nithin Kamath,4.1,India,Zerodha,Financial Services
+789,Paul Georges Despature,4.1,France,Somfy,Consumer Goods
+790,Richard Sands,4.1,United States,Constellation Brands,Food & Beverages
+791,Rodney Sacks,4.1,United States,Monster Beverage,Food & Beverages
+792,Sergei Popov,4.1,Russia,MDM Industrial Group,Financial Services
+793,Sergey Nikolaevich Galitskiy,4.1,Russia,Magnit,Retail
+794,Stéphane Bancel,4.1,United States,Moderna,Healthcare
+795,Tsai Hong-Tu,4.1,China,Lin Yuan,Financial Services
+796,Yuri Kovalchuk,4.1,Russia,Sogaz,Financial Services
+797,Antti Herlin,4,Finland,KONE,Industrial Products
+798,Bertil Hult,4,Switzerland,EF Education First,Education & Training
+799,Bulat Utemuratov,4,Kazakhstan,Verny Capital,Investments
+800,Chen Shibin & Shao jing,4,China,Pacific Quartz,Metals & Mining
+801,Dan Friedkin,4,United States,Gulf States Toyota,Retail
+802,Francis Choi Chee Ming,4,Hong Kong,Early Light International,Consumer Goods
+803,Ingrid Flick,4,United States,Daimler,Automobile & Auto Components
+804,James Irsay,4,United States,Indianapolis Colts,Media & Entertainment
+805,Jerzy Starak,4,Poland,Polpharma,Healthcare
+806,John Gandel,4,Australia,Chandell,Construction & Engineering
+807,John Paulson,4,United States,Paulson & Co,Financial Services
+808,Karsanbhai Patel,4,India,Nirma,Consumer Goods
+809,Kelcy Warren,4,United States,Energy Transfer Partners,Energy
+810,Lee Seo-Hyun,4,South Korea,Samsung,Consumer Goods
+811,Li Xiaodong,4,Singapore,Sea,Media & Entertainment
+812,Martin Haefner,4,Switzerland,Computer Associates,Software & Services
+813,Philip Niarchos,4,France,Art Collector,Investments
+814,Radha Vembu,4,India,Zoho,Software & Services
+815,Ray Davis,4,United States,Energy Transfer Equity,Energy
+816,Richard Lefrak,4,United States,LeFrak Organization,Real Estate
+817,Ronald Wanek,4,United States,Ashley Furniture,Retail
+818,Won-Woo Kim,4,South Korea,National Information & Credit Evaluation,Software & Services
+819,Xu Bo,4,China,Duoyi,Media & Entertainment
+820,Ajay Piramal,3.9,India,Piramal Enterprises,Financial Services
+821,Charles Dolan,3.9,United States,MSG Sports,Media & Entertainment
+822,Daniel D'Aniello,3.9,United States,Carlyle,Financial Services
+823,Eric Duval,3.9,France,Groupe Duval,Real Estate
+824,Hamilton E. James,3.9,United States,Blackstone Group,Financial Services
+825,Henry Ross Perot Jr,3.9,United States,Perot Systems,Software & Services
+826,Herbert Simon,3.9,United States,Simon Property,Real Estate
+827,Hui Man-Long,3.9,China,Chi Mei,Chemicals
+828,Jack Cowins,3.9,Australia,Hungry Jack's,Food & Beverages
+829,Ken Xie,3.9,United States,Fortinet,Software & Services
+830,Kerry Stokes,3.9,Australia,Seven Group Holdings,Industrial Products
+831,Li Li,3.9,China,Aier Ophthalmology,Healthcare
+832,Maria Fernanda Amorim,3.9,Portugal,Galp Energia,Energy
+833,Nie Tengyun & Chen Liying,3.9,China,Yunda,Transportation & Logistics
+834,Ravi Modi,3.9,India,Vedant Fashions,Consumer Goods
+835,Russell Weiner,3.9,United States,Rockstar,Food & Beverages
+836,Sun Jimu & Sun Chunli,3.9,China,Sinogiant,Metals & Mining
+837,Traudl Engelhorn,3.9,Switzerland,Boehringer Mannheim,Healthcare
+838,Vincent Viola,3.9,United States,Virtu Financials,Financial Services
+839,Zhang Jun & Tao Meiying,3.9,China,Funde,Financial Services
+840,Zhang Wenzhong,3.9,China,WuMart,Retail
+841,Bernard Broermann,3.8,Germany,Asklepios,Healthcare
+842,Christian Courtin-Clarins,3.8,France,Clarins,Consumer Goods
+843,Chung Mong-Koo,3.8,South Korea,Hyundai,Automobile & Auto Components
+844,Du Jiangtao & Hao Hong,3.8,China,Junzheng,Chemicals
+845,Giuseppe Crippa,3.8,Italy,Technoprobe,Semiconductors
+846,Gustavo Denegri,3.8,Italy,DiaSorin,Healthcare
+847,Jeff Green,3.8,United States,The Trade Desk,Software & Services
+848,Ji Qi,3.8,China,Home Inn,Hospitality
+849,Johan Johannson,3.8,Norway,NorgesGruppen,Retail
+850,John Sall,3.8,United States,SAS Institute,Software & Services
+851,Joseph Grendys,3.8,United States,Koch Foods,Food & Beverages
+852,Leo Koguan,3.8,United States,Tesla,Automobile & Auto Components
+853,Leonard Schleifer,3.8,United States,Regeneron,Healthcare
+854,Luis Alejandro Pagani,3.8,Argentina,Grupo Arcor,Food & Beverages
+855,Michael Stoschek,3.8,Germany,Brose Group,Automobile & Auto Components
+856,Miguel Fluxa Rossello,3.8,Spain,Grupo Iberostar ,Hospitality
+857,Olivier Courtin-Clarins,3.8,France,Clarins,Consumer Goods
+858,Reed Hastings,3.8,United States,Netflix,Media & Entertainment
+859,Reid Hoffman,3.8,United States,Linkedin,Media & Entertainment
+860,Rufino Vigil Gonzalez,3.8,Mexico,Industrias CH,Metals & Mining
+861,Su Qingcan,3.8,China,Huaxia Eye Hospital,Healthcare
+862,Wong Man Li & Xu Huiqing,3.8,Hong Kong,Manwah,Consumer Goods
+863,Adi Godrej,3.7,India,Godrej,Consumer Goods
+864,Andre Esteves,3.7,United Kingdom,BTG Pactual,Financial Services
+865,Cai Dongchen,3.7,China,CSPC Pharmaceutical,Healthcare
+866,Chen Danian,3.7,China,WiFi Master,Software & Services
+867,Chen Zhiping,3.7,China,Smoore,Consumer Goods
+868,Eva-Maria Bucher Haefner,3.7,Switzerland,Computer Associates,Software & Services
+869,Fernando Roberto Moreira Salles,3.7,Brazil,Itau Unibanco,Financial Services
+870,Howard Schultz,3.7,United States,Starbucks,Food & Beverages
+871,Huang Li,3.7,China,Guide Electrics,Semiconductors
+872,Hubert Burda,3.7,Germany,Hubert Burda Media,Media & Entertainment
+873,Jamshyd Godrej,3.7,India,Godrej,Consumer Goods
+874,Joao Moreira Salles,3.7,Brazil,Itau Unibanco,Financial Services
+875,John Henry,3.7,United States,Fenway Sports,Media & Entertainment
+876,Jurgen Blickle,3.7,Germany,Sew Eurodrive,Industrial Products
+877,Ken Chu,3.7,Hong Kong,Mission Hills,Real Estate
+878,Kim Vyacheslav,3.7,Kazakhstan,Kaspi Bank,Financial Services
+879,Martha Ingram,3.7,United States,Ingram Industries,Retail
+880,Martin Ebner,3.7,Switzerland,Vifor Pharma,Healthcare
+881,Mi Enhua,3.7,China,Hualing,Real Estate
+882,Michael Milken,3.7,United States,Drexel Burham Lambert,Financial Services
+883,Mohammed Bin Saud Al Kabeer,3.7,Saudi Arabia,Almarai,Food & Beverages
+884,Nadir Godrej,3.7,India,Godrej,Consumer Goods
+885,Pedro Moreira Salles,3.7,Brazil,Itau Unibanco,Financial Services
+886,Penny Pritzker,3.7,United States,Hyatt,Hospitality
+887,Prasert Prasarttong-Osoth,3.7,Thailand,Bangkok Dusit Medical Services,Healthcare
+888,Rishad Naoroji,3.7,India,Godrej,Consumer Goods
+889,Robert Bass,3.7,United States,Oak Hill Capital,Financial Services
+890,Shen Hua & Hu Wei,3.7,China,StarPower Semiconductor,Semiconductors
+891,Smita V Crishna,3.7,India,Godrej,Consumer Goods
+892,Tang Binsen,3.7,China,Genki Forest,Food & Beverages
+893,Tsai Cheng-Ta,3.7,China,Lin Yuan,Financial Services
+894,Walther Moreira Salles,3.7,Brazil,Itau Unibanco,Financial Services
+895,William R Berkley Jr,3.7,United States,WR Berkley,Financial Services
+896,Yang Jianliang,3.7,China,Shangji Automation,Industrial Products
+897,Yeung Kin Man,3.7,Hong Kong,Biel Crystal Manufactory,Industrial Products
+898,Zhang Guotao & Lu Yiwen,3.7,China,DR,Retail
+899,Acharya Balkrishna,3.6,India,Patanjali Ayurved,Consumer Goods
+900,Alessandra Garavoglia,3.6,Italy,Gruppo Campari,Food & Beverages
+901,Anil Rai Gupta,3.6,India,Havells India,Consumer Goods
+902,Azim Premji,3.6,India,Wipro,Software & Services
+903,Cen Junda,3.6,China,"Hengrui, Hansoh",Healthcare
+904,Cheng Yixiao,3.6,China,Kuaishou Technology,Media & Entertainment
+905,Feng Hailiang,3.6,China,Hailiang,Metals & Mining
+906,Hans Georg Naeder,3.6,Germany,Ottobock,Healthcare
+907,Jason Chang CS,3.6,China,ASE,Industrial Products
+908,Jerry Speyer,3.6,United States,Tishman Speyer,Real Estate
+909,Jim McKelvey,3.6,United States,Square,Financial Services
+910,Karen Pritzker,3.6,United States,Hyatt,Hospitality
+911,Luca Garavoglia,3.6,Italy,Gruppo Campari,Food & Beverages
+912,Luciano Hang,3.6,Brazil,Havan,Retail
+913,Peter Gilgan,3.6,Canada,Mattamy Homes,Real Estate
+914,Peter P Gassner,3.6,United States,Veeva Systems,Software & Services
+915,Rakesh Gangwal,3.6,United States,Interglobe Aviation,Aerospace & Defence
+916,Rupert Johnson Jr,3.6,United States,Franklin Resources,Financial Services
+917,S Gopalakrishnan,3.6,India,Infosys,Software & Services
+918,Sergie Gordeev,3.6,Russia,PIK Group,Real Estate
+919,Shaul Shani,3.6,Israel,ECI Telecom,Telecommunications
+920,Silas KF Chou,3.6,Hong Kong,Novel Enterprises,Retail
+921,Thomas Secunda,3.6,United States,Bloomberg,Financial Services
+922,Torbjorn Tornquist,3.6,Switzerland,Gunvor,Trading
+923,Travis Kalanick,3.6,United States,Uber,Transportation & Logistics
+924,Yakir Gabay,3.6,United Kingdom,Aroundtown Property,Real Estate
+925,Zhang Jian & Zhang Gege,3.6,China,Aima,Automobile & Auto Components
+926,Zhou Zerong,3.6,China,Kingold,Real Estate
+927,Zhu Gongshan,3.6,Hong Kong,GCL,Industrial Products
+928,Alexander Frolov,3.5,Russia,Evraz,Metals & Mining
+929,Amos Hostetter,3.5,United States,AT&T,Telecommunications
+930,Bobby Murphy,3.5,United States,Snapchat,Media & Entertainment
+931,Evan Spiegel,3.5,United States,Snapchat,Media & Entertainment
+932,Gilles Martin,3.5,France,Eurofins Scientific,Healthcare
+933,Giuliana Caprotti & Marina Caprotti,3.5,Italy,Esselunga,Retail
+934,Hans Peter Wild,3.5,Switzerland,Rudolf Wild,Food & Beverages
+935,Helen Johnson-Leipold,3.5,United States,SC Johnson & Sons,Consumer Goods
+936,Ira Rennert,3.5,United States,Renco,Investments
+937,Jim Davis,3.5,United States,Allegis,Software & Services
+938,Koon Poh Keong,3.5,Malaysia,Press Metal Aluminium Holdings,Metals & Mining
+939,Lee Boo-Jin,3.5,South Korea,Samsung,Consumer Goods
+940,Maggie Magerko,3.5,United States,84 Lumber,Construction & Engineering
+941,Mikheil Lomtadze,3.5,Kazakhstan,Kaspi Bank,Financial Services
+942,Mohed Altrad,3.5,France,Groupe Altrad,Construction & Engineering
+943,Nick Caporella,3.5,United States,National Beverage,Food & Beverages
+944,NR Narayana Murthy,3.5,India,Infosys,Software & Services
+945,Pan Laican,3.5,China,Haitian,Food & Beverages
+946,Peter Kellogg,3.5,United States,Goldman Sachs,Financial Services
+947,Pham Nhat Vuong,3.5,Vietnam,Vingroup,Real Estate
+948,Reinold Geiger,3.5,Switzerland,L'Occitane,Consumer Goods
+949,Rick Caruso,3.5,United States,Caruso,Real Estate
+950,Robert Friedland,3.5,Singapore,Ivanhoe Mines,Metals & Mining
+951,Tobias Lutke,3.5,Canada,Shopify,Retail
+952,Wu Guangming & Wu Qun,3.5,China,Yuwell,Healthcare
+953,Yang Shaopeng,3.5,China,SITC Maritime,Transportation & Logistics
+954,Yi Zhen,3.5,China,Hithink RoyalFlush,Software & Services
+955,Alex Shevchenko,3.4,Canada,Grammarly,Software & Services
+956,Andreas Halvorsen,3.4,United States,Viking Global Investors,Financial Services
+957,Barry Lin Bai-Li,3.4,China,Quanta Computer,Consumer Goods
+958,Cameron Winklevoss,3.4,United States,Gemini,Blockchain
+959,Cheng Cheng,3.4,China,Chang Chun,Chemicals
+960,Denis O'Brien,3.4,Ireland,Digicel,Telecommunications
+961,Donald Ray Horton,3.4,United States,DR Horton Homebuilding,Real Estate
+962,Dou Zhenggang & Wei Xuefeng,3.4,China,Jinjiang,Energy
+963,Francesco Gaetano Caltagirone,3.4,Italy,Assicurazioni Generali,Financial Services
+964,Garibaldi Thohir,3.4,Indonesia,Adaro Energy,Energy
+965,Georg Nemetschek,3.4,Germany,Nemetschek,Software & Services
+966,Gil Shwed,3.4,Israel,Check Point,Software & Services
+967,Huang Chiheng,3.4,China,Helenbergh,Real Estate
+968,Jiang Bin & Hu Shuangmei,3.4,China,GoerTek,Semiconductors
+969,Li Hua,3.4,Hong Kong,Futu Holdings,Financial Services
+970,Liao Long-Shing,3.4,China,Chang Chun,Chemicals
+971,Lin Hong-Nan,3.4,China,Hung Tai,Investments
+972,Lin Su-Hon,3.4,China,Chang Chun,Chemicals
+973,Lindsay Fox,3.4,Australia,Linfox,Transportation & Logistics
+974,Liu Chengyu & Liu Ling,3.4,China,Kstar,Industrial Products
+975,Liu Ke-Chen,3.4,China,Advantech,Retail
+976,Lynsi Snyder,3.4,United States,In N Out Burger,Food & Beverages
+977,Mao Lixiang,3.4,China,Fotile,Consumer Goods
+978,Mark Stevens,3.4,United States,Sequoia Capital,Financial Services
+979,Michael Xie,3.4,United States,Fortinet,Software & Services
+980,Ni Zugen,3.4,China,KingClean Electric,Consumer Goods
+981,Norman Braman,3.4,United States,Keystone Discount Stores,Retail
+982,Pablo Legorreta,3.4,United States,Royalty Pharma,Healthcare
+983,Spiro Latsis,3.4,Switzerland,Hellenic Petroleum,Energy
+984,Steve Wynn,3.4,United States,Wynn Resort,Hospitality
+985,Susan Slavik Williams,3.4,United States,WW Grainger,Industrial Products
+986,Tang Jinkui & Zhu Yuqin,3.4,China,Shenghong,Industrial Products
+987,Tyler Winklevoss,3.4,United States,Gemini,Blockchain
+988,Wang Zhenghua & Wang Yu,3.4,China,Spring Airlines,Aerospace & Defence
+989,Wu Xiangdong,3.4,China,Huaze,Retail
+990,Xiu Laigui & Li Yanhua,3.4,China,Xiuzheng,Healthcare
+991,Ye Xiaoping,3.4,China,Tigermed,Healthcare
+992,Yuan Zheng,3.4,United States,Zoom,Software & Services
+993,Zygi Wilf,3.4,United States,Minnesota Vikings,Media & Entertainment
+994,Akio Nitori,3.3,Japan,Nitori,Retail
+995,Andrej Babis,3.3,Czech Republic,Agrofert,Trading
+996,Andrew Taylor,3.3,United States,Enterprise Holdings,Transportation & Logistics
+997,Bom Suk Kim,3.3,South Korea,Coupang,Retail
+998,Byju Raveendran,3.3,India,Think & Learn,Education & Training
+999,Carlos Hank Rhon,3.3,Mexico,Grupo Financiero Interacciones,Financial Services
+1000,Christian Haub,3.3,Germany,Tengelmann,Retail
+1001,Daniel Pritzker,3.3,United States,Hyatt,Hospitality
+1002,David Murdock,3.3,United States,Dole Foods,Food & Beverages
+1003,David Rubenstein,3.3,United States,Carlyle,Financial Services
+1004,Evan Williams,3.3,United States,Twitter,Media & Entertainment
+1005,Frank H Laukien,3.3,United States,Bruker,Healthcare
+1006,Gabe Newell,3.3,United States,Valve,Software & Services
+1007,Herbert Fisk Johnson III,3.3,United States,SC Johnson & Sons,Consumer Goods
+1008,Horst Paulmann,3.3,Chile,Cencosud,Retail
+1009,Huang Wei & Li Ping,3.3,China,XinHu,Real Estate
+1010,Huang Wenzai,3.3,China,Star River,Real Estate
+1011,Jean Coutu,3.3,Canada,Jean Coutu,Retail
+1012,Jo Ann Taylor,3.3,United States,Enterprise Holdings,Transportation & Logistics
+1013,Josephine Louis,3.3,United States,SC Johnson & Sons,Consumer Goods
+1014,Julia Thiele-Schuerhoff,3.3,Germany,Knorr-Bremse,Automobile & Auto Components
+1015,Katharina Otto-Bernstein,3.3,United States,Otto,Retail
+1016,Li Ganpo,3.3,China,Jingye,Industrial Products
+1017,Madhukar Parekh,3.3,India,Pidilite Industries,Chemicals
+1018,Masahiro Miki,3.3,Japan,ABC-Mart,Retail
+1019,Masahiro Noda,3.3,Japan,OBIC,Software & Services
+1020,Michael Moritz,3.3,United States,Sequoia Capital,Financial Services
+1021,Mu Rongjun,3.3,China,Meituan,Transportation & Logistics
+1022,Nicola Bulgari,3.3,Italy,LVMH,Consumer Goods
+1023,Paolo Bulgari,3.3,Italy,LVMH,Consumer Goods
+1024,Rahul Bhatia,3.3,India,Interglobe Aviation,Aerospace & Defence
+1025,Robert Duggan,3.3,United States,Pharmacyclics,Healthcare
+1026,S Curtin Johnson,3.3,United States,SC Johnson & Sons,Consumer Goods
+1027,Sumet Jiaravanon,3.3,Thailand,CP Group,Food & Beverages
+1028,Winnie Johnson-Marquart,3.3,United States,SC Johnson & Sons,Consumer Goods
+1029,Wong Luen Hei & Zuo Xiaoping,3.3,China,Lesso,Construction & Engineering
+1030,Zeng Fangqin,3.3,China,Lingyi Itech,Consumer Goods
+1031,Zeng Xiaoshan,3.3,China,Zengshi,Metals & Mining
+1032,Alceu Elias Feldmann,3.2,Brazil,Fertipar,Chemicals
+1033,Alejandro Bulgheroni,3.2,Argentina,Bridas,Energy
+1034,Arnon Milchan,3.2,Israel,Regency Enterprises,Media & Entertainment
+1035,Barnaby N Swire,3.2,United Kingdom,Swire Group,Real Estate
+1036,Barry Silbert,3.2,United States,Digital Currency,Blockchain
+1037,Bill Alfond,3.2,United States,Berkshire Hathaway,Investments
+1038,Bob Gaglardi,3.2,Canada,Northland Properties,Hospitality
+1039,Brian Kim,3.2,South Korea,Kakao Pay Corp,Software & Services
+1040,Charles Edelstenne,3.2,France,Dassault Systèmes,Aerospace & Defence
+1041,Clive Palmer,3.2,Australia,Mineralogy,Metals & Mining
+1042,Ernest Garcia II,3.2,United States,Carvana,Retail
+1043,Fan Xianguo & Fan Mingqiang,3.2,China,JML,Food & Beverages
+1044,Frank Fertitta III,3.2,United States,Zuffa,Media & Entertainment
+1045,Gerald J Ford,3.2,United States,Ford Financial Fund,Financial Services
+1046,Giuseppe De Longhi ,3.2,Italy,De Longhi,Consumer Goods
+1047,John Morgridge,3.2,United States,Cisco,Software & Services
+1048,Jon Yarbrough,3.2,United States,Video Gaming Technologies,Media & Entertainment
+1049,Klaus-Peter Schulenberg,3.2,Germany,CTS Eventim  ,Media & Entertainment
+1050,Larry Silverstein,3.2,United States,Silverstein Properties,Real Estate
+1051,Lau Chiping,3.2,China,Tencent,Media & Entertainment
+1052,Li Guoqiang,3.2,China,Zhongsheng,Retail
+1053,Liang Yunchao,3.2,China,By-Health,Healthcare
+1054,Lorenzo Fertitta,3.2,United States,Zuffa,Media & Entertainment
+1055,Maja Oeri,3.2,Switzerland,Roche,Healthcare
+1056,Micky Jagtiani,3.2,United Arab Emirates,Landmark,Consumer Goods
+1057,Paul Gauselmann,3.2,Germany,Gauselmann,Media & Entertainment
+1058,Phil Ruffin,3.2,United States,Treasure Island Resort & Casino,Hospitality
+1059,Stephan Schmidheiny,3.2,Switzerland,Swiss Eternit Group,Construction & Engineering
+1060,Thomas Siebel,3.2,United States,First Virtual,Software & Services
+1061,Tsai Chen-Yu,3.2,China,Homax Equity,Financial Services
+1062,Vanich Chaiyawan,3.2,Thailand,Thai Life,Financial Services
+1063,Vivek Kumar Jain,3.2,India,Inox,Industrial Products
+1064,Walter Frey,3.2,Switzerland,Emil Frey Group,Retail
+1065,Wang Qicheng & Wu Yan,3.2,China,Hakim,Financial Services
+1066,Yitzhak Tshuva,3.2,Israel,Delek Group,Energy
+1067,Aristotelis Mistakidis,3.1,Switzerland,Glencore,Trading
+1068,Bernard Fraisse ,3.1,France,Fareva,Healthcare
+1069,Cai Haoyu,3.1,China,Mihoyo,Media & Entertainment
+1070,Cao Dewang,3.1,China,Fuyao Glass,Automobile & Auto Components
+1071,Chen Yung-Tai,3.1,China,Aurora,Consumer Goods
+1072,Chu Lam Yiu,3.1,China,Huabao,Chemicals
+1073,Cui Genliang & Cui Wei,3.1,China,Hengtong,Industrial Products
+1074,Daniel Maté,3.1,Switzerland,Glencore,Trading
+1075,Daniel Roullier,3.1,France,Groupe Roullier,Chemicals
+1076,David Baszucki,3.1,United States,Roblox Corporation,Media & Entertainment
+1077,Deng Hongjiu,3.1,China,Hongjiu Fruit,Retail
+1078,Falguni Nayar & Sanjay Nayar,3.1,India,Nykaa,Retail
+1079,Guo Meilan & Zhang Yushuai,3.1,China,Hec Technology,Consumer Goods
+1080,Hua Xuande,3.1,China,Zonebanner Jiuzhou,Healthcare
+1081,Jacques D'Amours,3.1,Canada,Alimentation Couche Tard,Retail
+1082,James Jannard,3.1,United States,Oakley,Consumer Goods
+1083,Jennifer Pritzker,3.1,United States,Hyatt,Hospitality
+1084,Jogi Hendra Atmadja,3.1,Indonesia,Mayora,Food & Beverages
+1085,Lawrence Stroll,3.1,Switzerland,Michael Kors Holdings,Consumer Goods
+1086,Lin Xiucheng & Lin Zhiqiang,3.1,China,Sanan,Energy
+1087,Luo Qiuping & Pan Dong,3.1,China,Blue Moon,Consumer Goods
+1088,Markus Blocher,3.1,Switzerland,Dottikon ES Holding,Chemicals
+1089,Sebastian Pinera,3.1,Chile,LATAM,Aerospace & Defence
+1090,Shigenobu Nagamori,3.1,Japan,Nidec,Software Industrial
+1091,Steven Sarowitz,3.1,United States,Paylocity,Software & Services
+1092,Susan Carol Holland,3.1,Italy,Amplifon,Healthcare
+1093,Todd Christopher,3.1,United States,Vogue International,Consumer Goods
+1094,Wang Huajun & Wu Lanlan,3.1,China,Yuto Packaging,Containers & Packaging
+1095,Wu Guanjiang,3.1,China,Zhifei,Healthcare
+1096,Yi Rubo,3.1,China,Zhongall,Real Estate
+1097,Zhang Songqiao,3.1,Hong Kong,Zhongyu,Real Estate
+1098,Zhao Lixin & Cao Wei,3.1,China,Galaxcore,Industrial Products
+1099,Zhou Xiaoping,3.1,China,Shinye,Automobile & Auto Components
+1100,Alec Gores,3,United States,Gores,Financial Services
+1101,Alejandro Santo Domingo,3,United States,SABMiller,Food & Beverages
+1102,Andreas Santo Domingo,3,United States,SABMiller,Food & Beverages
+1103,Anthony Pritzker,3,United States,Hyatt,Hospitality
+1104,Arvindkumar Poddar,3,India,Balkrishna Industries,Automobile & Auto Components
+1105,Austen Cargill II,3,United States,Cargill,Agriculture
+1106,Bacaksiz Sezai,3,Turkey,Limak,Construction & Engineering
+1107,Barry Zekelman,3,Canada,JMC Steel,Metals & Mining
+1108,Bernd Baus,3,Monaco,Bauhaus,Retail
+1109,Brian Acton,3,United States,Facebook,Media & Entertainment
+1110,Carlo Fidani,3,Canada,Fidani & Sons,Construction & Engineering
+1111,Chad R. Richison,3,United States,Paycom Software,Software & Services
+1112,Choo Chong Ngen,3,Singapore,Hotel 81,Hospitality
+1113,David Nahmad,3,Monaco,Art Collector,Investments
+1114,Donald Trump,3,United States,The Trump Organization,Real Estate
+1115,Douglas Hsu Hsu-Tung,3,China,Far Eastern,Financial Services
+1116,Edward Stack,3,United States,Dicks Sporting Goods,Retail
+1117,Elijah Widjaja,3,China,Bund Center,Real Estate
+1118,Erich Wesjohann,3,Germany,EW Group,Food & Beverages
+1119,Erwin Franz Mueller,3,Germany,Mueller,Retail
+1120,George Bishop,3,United States,GeoSouthern Energy,Energy
+1121,Giuliana Benetton,3,Italy,Benetton,Consumer Goods
+1122,God Nisanov,3,Russia,Kievskaya Ploschad,Real Estate
+1123,Gwendolyn Sontheim Meyer,3,United States,Cargill,Agriculture
+1124,James Cargill II,3,United States,Cargill,Agriculture
+1125,John Arnold,3,United States,Centaurus Advisors,Financial Services
+1126,Johnny Boufarhat,3,United Kingdom,Hopin,Software & Services
+1127,Li Zhongchu,3,China,Shiji,Software & Services
+1128,Luciano Benetton,3,Italy,Benetton,Consumer Goods
+1129,Marianne Liebmann,3,United States,Cargill,Agriculture
+1130,Mario Germano Giuliani,3,Monaco,Royalty Pharma,Healthcare
+1131,Mary Alice Dorrance Malone,3,United States,Campbell Soup,Food & Beverages
+1132,Nan Cunhui,3,China,Chint,Industrial Products
+1133,Nicolas Berggruen,3,United States,Berggruen,Investments
+1134,Nihat Özdemir,3,Turkey,Limak,Construction & Engineering
+1135,Pan Shiyi & Zhang Xin,3,United States,SOHO China,Real Estate
+1136,Qi Xiangdong,3,China,Qi An Xin,Software & Services
+1137,Salil Singhal,3,India,PI Industries,Chemicals
+1138,Samir Mehta,3,India,Torrent Pharma,Healthcare
+1139,Sean Parker,3,United States,Facebook,Media & Entertainment
+1140,Shi Guilu,3,China,Rongmin,Real Estate
+1141,Sudhir Mehta,3,India,Torrent Pharma,Healthcare
+1142,Sukanto Tanoto,3,Singapore,Royal Golden Eagle,Paper & Forest Products
+1143,Susan Alfond,3,United States,Berkshire Hathaway,Investments
+1144,Ted Alfond,3,United States,Berkshire Hathaway,Investments
+1145,William P Lauder,3,United States,Estee Lauder,Consumer Goods
+1146,William Wrigley Jr,3,United States,Wrigley Management,Food & Beverages
+1147,Wu Shaoxun,3,China,Jingjiu,Food & Beverages
+1148,Xie Zhikun,3,China,Zhongzhi,Investments
+1149,Xu Jiayin,3,China,Evergrande,Real Estate
+1150,Ye Guofu & Yang Yunyun,3,China,Miniso,Retail
+1151,Zarakh Iliev,3,Russia,Kievskaya Ploschad,Real Estate
+1152,Zhao Fenggang,3,China,CATL,Energy
+1153,Alan Howard,2.9,Switzerland,Brevan Howard Asset Management,Investments
+1154,Anand Burman,2.9,India,Dabur,Consumer Goods
+1155,Arnout Schuijff,2.9,Netherlands,Adyen,Financial Services
+1156,Bernard Saul II,2.9,United States,Saul Centres,Financial Services
+1157,Brian Sheth,2.9,United States,Vista Equity Partners,Financial Services
+1158,Candido Pinheiro Koren de Lima,2.9,Brazil,Hapvida,Healthcare
+1159,Charles Zegar,2.9,United States,Bloomberg,Financial Services
+1160,Clayton Mathile,2.9,United States,Lams,Consumer Goods
+1161,Dennis Gillings,2.9,United States,IQVIA,Healthcare
+1162,Dominika Kulczyk,2.9,Poland,SABMiller,Food & Beverages
+1163,Garrett Camp,2.9,United States,Uber,Transportation & Logistics
+1164,Gunther Lehner,2.9,Austria,Alpla,Containers & Packaging
+1165,Helmuth Lehner,2.9,Austria,Alpla,Containers & Packaging
+1166,John Fisher,2.9,United States,GAP,Consumer Goods
+1167,Lai Jianping,2.9,China,Haitian,Food & Beverages
+1168,Lin Gang,2.9,China,CMS,Healthcare
+1169,Madeleine Olsson Ericksson,2.9,Sweden,Stena Sphere,Investments
+1170,Mustafa Rahmi Koc,2.9,Turkey,Koc,Energy
+1171,Najib Mikati,2.9,Lebanon,MTN,Telecommunications
+1172,Nikhil Kamath,2.9,India,Zerodha,Financial Services
+1173,Oprah Winfrey,2.9,United States,Oprah Winfrey Network,Media & Entertainment
+1174,Sandeep Pravinbhai Engineer,2.9,India,Astral,Construction & Engineering
+1175,Stefan Olsson,2.9,Sweden,Stena Sphere,Investments
+1176,Sun Hongbin,2.9,China,Sunac,Real Estate
+1177,Taha Mikati,2.9,Lebanon,MTN,Telecommunications
+1178,Vembu Sekar,2.9,India,Zoho,Software & Services
+1179,Yan Jianya & Fan Daidi,2.9,China,Giant Biogene,Healthcare
+1180,Yu Feng,2.9,China,Yunfeng Capital,Investments
+1181,Alberto Chiesi,2.8,Italy,Chiesi Farmaceutici,Healthcare
+1182,Alfred Gantner,2.8,Switzerland,Partners Group,Financial Services
+1183,C Dean Metropoulos,2.8,United States,Metropoulos,Investments
+1184,Cao Longxiang & Zhou Guodi,2.8,China,Jumpcan,Healthcare
+1185,Chalerm Yoovidhya,2.8,Thailand,Red Bull,Food & Beverages
+1186,David Filo,2.8,United States,Yahoo,Media & Entertainment
+1187,Dirk Rossmann,2.8,Germany,Rossmann,Retail
+1188,Gu Jiangsheng,2.8,China,Kuka,Consumer Goods
+1189,Hu Bofan,2.8,China,NHU,Healthcare
+1190,John Paul Dejoria,2.8,United States,Paul Mitchell,Consumer Goods
+1191,John Pritzker,2.8,United States,Hyatt,Hospitality
+1192,John Tyson,2.8,United States,Tyson Foods,Food & Beverages
+1193,Joy Alukkas,2.8,India,Joy Alukkas,Retail
+1194,Kuok Khoon Hong,2.8,Singapore,Wilmar International,Food & Beverages
+1195,Li Wenbin,2.8,Hong Kong,Junfa,Real Estate
+1196,Lina Tombolato,2.8,Italy,Mediolanum,Financial Services
+1197,Linda Pritzker,2.8,United States,Hyatt,Hospitality
+1198,Manuel Lao Hernandez,2.8,Spain,Cirsa,Media & Entertainment
+1199,Marcel Erni,2.8,Switzerland,Partners Group,Financial Services
+1200,Ni Yongpei,2.8,China,Yingjia,Food & Beverages
+1201,Nicholas J Pritzker,2.8,United States,Hyatt,Hospitality
+1202,Noubar B. Afeyan,2.8,United States,Moderna,Healthcare
+1203,Paolo Chiesi,2.8,Italy,Chiesi Farmaceutici,Healthcare
+1204,Peng Guoyuan,2.8,China,NWY,Education & Training
+1205,Peng Lei,2.8,Singapore,Alibaba,Retail
+1206,Peng Tielan,2.8,China,Bosen,Trading
+1207,Pierre Chen Tai-Ming,2.8,China,Yageo,Consumer Goods
+1208,Rajan Bharti Mittal,2.8,India,Bharti Airtel,Telecommunications
+1209,Rakesh Bharti Mittal,2.8,India,Bharti Airtel,Telecommunications
+1210,Ronald Lauder,2.8,United States,Estee Lauder,Consumer Goods
+1211,Samuel Yin Yan-Liang,2.8,China,Ruentex,Real Estate
+1212,Sanjiv Goenka,2.8,India,CESC,Energy
+1213,Tedy Djuhar,2.8,China,RongQiao,Real Estate
+1214,Tomas Olivo Lopez,2.8,Spain,General de Galerías Comerciales,Real Estate
+1215,Urs Wietlisbach,2.8,Switzerland,Partners Group,Financial Services
+1216,Vildan Gülcelik,2.8,Turkey,ENKA,Construction & Engineering
+1217,Wang Jianguo,2.8,China,Five Star Appliance,Investments
+1218,Wang Xicheng,2.8,China,Linglong,Chemicals
+1219,Wang Zhenhua & Wang Xiaosong,2.8,China,Xincheng,Real Estate
+1220,Warren Stephens,2.8,United States,Stephens,Financial Services
+1221,William F Austin,2.8,United States,Starkey Hearing Technologies,Healthcare
+1222,Wu Kai,2.8,China,CATL,Energy
+1223,Zhang Jingzhang,2.8,China,Haitian,Industrial Products
+1224,Zhang Li & Zhang Liang,2.8,China,R & F,Real Estate
+1225,Zhu Xingming & Zhu Hanyue,2.8,China,Inovance Technology,Industrial Products
+1226,Aloke Lohia,2.7,Thailand,Indorama Ventures,Chemicals
+1227,Amy Goldman Fowler,2.7,United States,Solil Management,Real Estate
+1228,Anne Beaufour,2.7,Switzerland,Ipsen,Healthcare
+1229,Bennett Dorrance,2.7,United States,Campbell Soup,Food & Beverages
+1230,Bill Marriott Jr,2.7,United States,Marriott International,Hospitality
+1231,Brad Kelley,2.7,United States,Commonwealth Brands,Consumer Goods
+1232,Brunello Cucinelli,2.7,Italy,Brunello Cucinelli ,Consumer Goods
+1233,Diane Goldman,2.7,United States,Solil Management,Real Estate
+1234,Edgar Bronfman Jr,2.7,United States,Warner Music,Media & Entertainment
+1235,Eduardo Eurnekian,2.7,Argentina,Aeropuertos,Aerospace & Defence
+1236,Edward Bass,2.7,United States,Disney,Media & Entertainment
+1237,Esther Grether,2.7,Switzerland,Art Collector,Investments
+1238,Ge Weidong,2.7,China,Hundun,Investments
+1239,Georg Von Opel,2.7,Switzerland,Athris Holding,Real Estate
+1240,Guo Enyuan,2.7,China,Puyang Iron and steel,Metals & Mining
+1241,Gustav Witzoe,2.7,Norway,SalMar,Food & Beverages
+1242,Henri Beaufour,2.7,United Kingdom,Ipsen,Healthcare
+1243,Hong Hao,2.7,China,Casymchen,Healthcare
+1244,Irwin Jacobs,2.7,United States,Qualcomm,Semiconductors
+1245,Jacob Brunsborg,2.7,Denmark,JYSK,Consumer Goods
+1246,James D Slavik,2.7,United States,WW Grainger,Industrial Products
+1247,James Packer,2.7,Australia,Crown Resorts,Hospitality
+1248,Jane Goldman,2.7,United States,Solil Management,Real Estate
+1249,Jayshree Ullal,2.7,United States,Arista Networks,Software & Services
+1250,Jeff Rothschild,2.7,United States,Facebook,Media & Entertainment
+1251,Jerry Moyes,2.7,United States,Knight-Swift Transportation,Transportation & Logistics
+1252,Jiang Zhaobai,2.7,China,Pengxin,Investments
+1253,Jitendra Virwani,2.7,India,Embassy Property Developments,Real Estate
+1254,Jorge Perez,2.7,United States,Related Group of Florida,Real Estate
+1255,Juan Abello,2.7,Spain,Sacyr,Investments
+1256,Koos Bekker,2.7,South Africa,Naspers,Media & Entertainment
+1257,Lee Bass,2.7,United States,Disney,Media & Entertainment
+1258,Lee Yeow Seng,2.7,Malaysia,IOI Group,Agriculture
+1259,Li Jianquan,2.7,China,Winner,Healthcare
+1260,Li Li & Li Tan,2.7,China,Hepalink,Healthcare
+1261,Lin Chen-Hai,2.7,China,Pao Chia,Real Estate
+1262,Max Lytvyn,2.7,United States,Grammarly,Software & Services
+1263,Mehmet Sinan Tara,2.7,Turkey,ENKA,Construction & Engineering
+1264,Mette Brunsborg,2.7,Denmark,JYSK,Consumer Goods
+1265,Michael Hintze,2.7,United Kingdom,CQS,Investments
+1266,Miguel Krigsner,2.7,Brazil,Grupo Boticario,Consumer Goods
+1267,Nikolai Buinov,2.7,Russia,Irkutsk Oil Company,Energy
+1268,Norbert Dentressangle,2.7,France,XPO Logistics,Transportation & Logistics
+1269,PNC Menon,2.7,India,PNC Investments,Real Estate
+1270,Raj Kumar & Kishin RK,2.7,Singapore,RB Capital,Real Estate
+1271,Robert Coyiuto Jr,2.7,Philippines,National Grid Corp,Energy
+1272,Sebastian Kulczyk,2.7,Poland,SABMiller,Food & Beverages
+1273,Sergio Mantegazza,2.7,Switzerland,Group Voyagers,Media & Entertainment
+1274,Sid Bass,2.7,United States,Disney,Media & Entertainment
+1275,Timur Kulibayev & Dinara Kulibayeva,2.7,Kazakhstan,Halyk Bank,Financial Services
+1276,Vikas Oberoi,2.7,India,Oberoi Realty,Real Estate
+1277,Willis J Johnson,2.7,United States,Copart,Retail
+1278,Xie Weitong,2.7,China,Huayou Cobalt,Metals & Mining
+1279,Zhou Hongyi,2.7,China,360 Security Technology,Software & Services
+1280,Aerin Lauder Zinterhofer,2.6,United States,Estee Lauder,Consumer Goods
+1281,Alexander Ponomarenko,2.6,Russia,Novorossiysk Commercial Sea Port,Services
+1282,Alexander Skorobogatko,2.6,Russia,Novorossiysk Commercial Sea Port,Services
+1283,Alfred Oetker,2.6,Germany,Dr Oetker,Food & Beverages
+1284,Aneel Bhusri,2.6,United States,Workday,Software & Services
+1285,August François von Finck,2.6,Switzerland,SGS,Software & Services
+1286,Aydin Dogan,2.6,Turkey,Dogan Group,Energy
+1287,Bradley S Jacob,2.6,United States,XPO Logistics,Transportation & Logistics
+1288,Bris Rocher,2.6,France,Groupe Rocher,Consumer Goods
+1289,Carl Ferdinand Oetker,2.6,Germany,Dr Oetker,Food & Beverages
+1290,Chen Mingyong,2.6,China,OPPO,Consumer Goods
+1291,Chen Xuehua,2.6,China,Huayou Cobalt,Metals & Mining
+1292,Chi Yufeng,2.6,China,Perfect World,Media & Entertainment
+1293,Christian Latouche,2.6,France,Fiducial,Financial Services
+1294,Christina Flügel,2.6,Germany,Mast-Jägermeister,Food & Beverages
+1295,Christopher Dawson,2.6,United Kingdom,The Range,Retail
+1296,Ezra Nahmad,2.6,Monaco,Art Collector,Investments
+1297,Gao Xingjiang,2.6,China,Yongxing Iron and steel,Industrial Products
+1298,George Argyros,2.6,United States,Argyros,Real Estate
+1299,Ginette Moulin,2.6,France,Carrefour,Retail
+1300,Gordon Getty,2.6,United States,Getty Oil,Energy
+1301,Gudrun Heine,2.6,Germany,Storz,Healthcare
+1302,Gunther Fielmann,2.6,Germany,Fielmann,Consumer Goods
+1303,Gurbachan Singh Dhingra,2.6,India,Berger Paints,Chemicals
+1304,Harald Link,2.6,Thailand,BGrimm Power,Energy
+1305,Harald Tschira,2.6,Germany,SAP,Software & Services
+1306,Hou Juncheng,2.6,China,Proya Cosmetics,Consumer Goods
+1307,Huang Maoru & Zhang Jin,2.6,China,Maoye,Real Estate
+1308,Isabelle d'Ornano,2.6,France,Sisley,Consumer Goods
+1309,Jerry Yang,2.6,United States,Yahoo,Media & Entertainment
+1310,Julia Oetker,2.6,Germany,Dr Oetker,Food & Beverages
+1311,Kuldip Singh Dhingra,2.6,India,Berger Paints,Chemicals
+1312,Lawrence Ho Yau Lung,2.6,Hong Kong,Melco,Media & Entertainment
+1313,Lim Kok Thay,2.6,Malaysia,Genting Group,Hospitality
+1314,Louis Le Duff,2.6,France,Groupe Le Duff,Food & Beverages
+1315,Low Tuck Kwong,2.6,Indonesia,Bayan Resources,Metals & Mining
+1316,Lu Ang,2.6,China,China Guardian,Investments
+1317,Luitpold Ferdinand von Finck,2.6,Switzerland,SGS,Software & Services
+1318,Maria Theresia Von Finck,2.6,Switzerland,SGS,Software & Services
+1319,Mark Walter,2.6,United States,Guggenheim Partners,Financial Services
+1320,Maurice Alter,2.6,Australia,Pacific Shopping Centres,Real Estate
+1321,Maximilian Rudolph von Finck,2.6,Switzerland,SGS,Software & Services
+1322,Michal Solowow,2.6,Poland,Synthos,Chemicals
+1323,Paul Tudor Jones II,2.6,United States,Tudor Investments,Financial Services
+1324,Paul-Heinz Wesjohann,2.6,Germany,PHW Group,Food & Beverages
+1325,Peter H Coors,2.6,United States,Molson Coors Beverage,Food & Beverages
+1326,Peter Hargreaves,2.6,United Kingdom,Hargreaves Lansdown,Financial Services
+1327,Prachak Tangkaravakoon,2.6,Thailand,TOA Paint,Chemicals
+1328,Prayudh Mahagitsiri,2.6,Thailand,Quality Coffee Products,Food & Beverages
+1329,Pu Zhongjie & Zhang Yue'e,2.6,China,Lepu,Healthcare
+1330,Qi Jinxing & Qi Jiaqi,2.6,China,Binjiang,Real Estate
+1331,Ralph Dommermuth,2.6,Germany,United Internet,Telecommunications
+1332,S Daniel Abraham,2.6,United States,Slim Fast,Food & Beverages
+1333,Sandro Veronesi,2.6,Italy,Calzedonia,Consumer Goods
+1334,Serge Godin,2.6,Canada,CGI,Software & Services
+1335,Shen Wei,2.6,China,vivo,Consumer Goods
+1336,Susilo Wonowidjojo,2.6,Indonesia,Gudang Garam,Consumer Goods
+1337,Sybill Storz,2.6,Germany,Storz,Healthcare
+1338,Takao Yasuda,2.6,Singapore,Pan Pacific International,Retail
+1339,Tatiana Casiraghi,2.6,Monaco,SABMiller,Food & Beverages
+1340,Tony Tan Caktiong,2.6,Philippines,Jollibee Foods,Food & Beverages
+1341,Udo Tschira,2.6,Germany,SAP,Software & Services
+1342,Wang Shuifu,2.6,China,Xizi,Industrial Products
+1343,Wim Van Der Leegte,2.6,Netherlands,VDL Groep,Automobile & Auto Components
+1344,Yasumitsu Shigeta,2.6,Japan,Hikari Tsushin,Telecommunications
+1345,Zhou Jian,2.6,China,Maxwell,Industrial Products
+1346,Abilio Diniz,2.5,Brazil,Carrefour,Retail
+1347,Andrew W. Houston,2.5,United States,Dropbox,Software & Services
+1348,August J Troendle,2.5,United States,Medpace,Healthcare
+1349,Binod Chaudhary,2.5,Nepal,Chaudhary Group,Food & Beverages
+1350,Bob Parsons,2.5,United States,GoDaddy,Software & Services
+1351,Bruce Cheng Chung-Hua,2.5,China,Delta,Semiconductors
+1352,Bruce Karsh,2.5,United States,Oaktree Capital,Financial Services
+1353,Chan Tan Ching Fen,2.5,Hong Kong,Hang Lung,Real Estate
+1354,Chen Kaichen,2.5,China,Liby,Consumer Goods
+1355,Chen Xueli & Chen Lin,2.5,China,Wego,Healthcare
+1356,Christopher Portman,2.5,United Kingdom,Portman Estate,Real Estate
+1357,Deng Hong,2.5,China,Chengdu International Exhibition & Convention Center,Real Estate
+1358,Ding Yali,2.5,China,Anta,Consumer Goods
+1359,Dong Fan,2.5,China,Jafron Biomedical,Healthcare
+1360,Drayton Mclane,2.5,United States,Walmart,Retail
+1361,Eddie Zakay,2.5,United Kingdom,Topland,Real Estate
+1362,Edwin Leong,2.5,Hong Kong,Tai Hung Fai,Real Estate
+1363,Ermirio Pereira de Moraes,2.5,Brazil,Grupo Votorantim,Financial Services
+1364,Fu Liquan & Chen Ailing,2.5,China,Dahua Technology,Software & Services
+1365,Gavril Yushvaev,2.5,Russia,Wimm -Bill- Dann,Food & Beverages
+1366,Glenn Dubin,2.5,United States,Highbridge Capital Management,Financial Services
+1367,Guo Zhenyu & Kevin Guo,2.5,China,Botanee,Consumer Goods
+1368,Hans Michel Piech,2.5,Germany,Porsche,Automobile & Auto Components
+1369,Henry Swieca,2.5,United States,Talpion Fund Management,Financial Services
+1370,Huang Qiaoling,2.5,China,Worldland,Hospitality
+1371,Isabella Seràgnoli,2.5,Italy,Coesia,Containers & Packaging
+1372,J Hyatt Brown,2.5,United States,Brown & Brown,Financial Services
+1373,Jiang Yehua & Jiang Yu,2.5,China,Huayu,Real Estate
+1374,Li Bin,2.5,China,Nio,Automobile & Auto Components
+1375,Li Hongxin,2.5,China,Sunpaper,Paper & Forest Products
+1376,Lin Ming-Hsiung,2.5,China,Yuan Lih,Real Estate
+1377,Liu Weiping,2.5,China,Weilong,Food & Beverages
+1378,Liu Xiaodong,2.5,China,Bairun,Food & Beverages
+1379,Lu Di,2.5,China,DJI,Consumer Goods
+1380,Maha Vajiralongkorn Phra Vajiraklaochaoyuhua,2.5,Thailand,Siam Commercial Bank,Financial Services
+1381,Maria Helena Moraes Scripilliti,2.5,Brazil,Grupo Votorantim,Financial Services
+1382,Michael Ying Lee-yuen,2.5,Hong Kong,Esprit,Investments
+1383,Morris Chang Chung-Mou,2.5,China,TSMC,Semiconductors
+1384,Noam Gottesman,2.5,United States,Toms Capital,Financial Services
+1385,Octave Klaba,2.5,France,OVH,Software & Services
+1386,Qi Zhenbo,2.5,China,Meione,Retail
+1387,Qiu Minxiu,2.5,China,Jingsheng Mechanical & Electrical Co,Industrial Products
+1388,Ramon S. Ang,2.5,Philippines,San Miguel,Food & Beverages
+1389,Ren Jinsheng,2.5,China,Simcere,Healthcare
+1390,Renzo Rosso,2.5,Italy,OTB,Consumer Goods
+1391,Riley Bechtel,2.5,United States,Bechtel,Construction & Engineering
+1392,Rita Tong Liu,2.5,Hong Kong,Gale Well Group,Real Estate
+1393,Semahat Arsel,2.5,Turkey,Koc,Energy
+1394,Sheryl Sandberg,2.5,United States,Facebook,Media & Entertainment
+1395,Shi Yifeng,2.5,China,Imeik,Healthcare
+1396,Sol Zakay,2.5,United Kingdom,Topland,Real Estate
+1397,Stewart Horejsi,2.5,United States,Berkshire Hathaway,Investments
+1398,Sun Mengquan,2.5,China,Luhua,Food & Beverages
+1399,Ted Turner,2.5,United States,Investments,Investments
+1400,Tian Ming,2.5,China,Meyer,Industrial Products
+1401,Tsai Ming-Kai,2.5,China,Media Tek,Semiconductors
+1402,VC Burman,2.5,India,Dabur,Consumer Goods
+1403,Wang Changtian & Du Yinglian,2.5,China,Enlight Media,Media & Entertainment
+1404,Wang Junjin,2.5,China,JuneYao,Investments
+1405,Wu Zhigang,2.5,China,Toly Bread,Food & Beverages
+1406,Xu Cheng,2.5,China,Hsu Fu Chi,Food & Beverages
+1407,Xu Guangfu & Xu Xiang,2.5,China,Daquan,Energy
+1408,Xu Yingzhuo,2.5,China,Haid,Agriculture
+1409,Yan Zhi,2.5,China,Zhuoer,Real Estate
+1410,Zhang Shilong,2.5,China,SG Micro,Semiconductors
+1411,Zhang Wanzhen,2.5,China,Three-Circle,Consumer Goods
+1412,Zheng Chunying,2.5,China,Jala,Consumer Goods
+1413,Zhou Zhiwen & Feng Yuxia,2.5,China,Joinn Laboratories,Healthcare
+1414,Zhu Yi,2.5,China,Biokin Pharmaceutical,Healthcare
+1415,Alan Gerry,2.4,United States,Cablevision,Media & Entertainment
+1416,Alberto Siccardi,2.4,Switzerland,Medacta,Healthcare
+1417,Alexander Machkevitch,2.4,Kazakhstan,Eurasian Resources,Metals & Mining
+1418,Alexey Repik,2.4,Russia,R-Pharm,Healthcare
+1419,Arturo Moreno,2.4,United States,Anaheim Angels,Media & Entertainment
+1420,Bai Baokun,2.4,China,KinLong Hardware,Construction & Engineering
+1421,Brad Jacobs,2.4,United States,GXO Logistics,Transportation & Logistics
+1422,Camilla de Godoy Bueno Grossi,2.4,United Kingdom,UnitedHealth,Financial Services
+1423,Chao Teng-Hsiung,2.4,China,Farglory,Real Estate
+1424,Chen Xianbao,2.4,China,Hefei Huatai,Food & Beverages
+1425,Christine Franken,2.4,Germany,Sartorius,Healthcare
+1426,Daniel Loeb,2.4,United States,Third Point,Financial Services
+1427,Frank Mccourt,2.4,United States,Los Angeles Dodgers,Media & Entertainment
+1428,Frank Slootman,2.4,United States,Snowflake,Software & Services
+1429,George D Yancopoulos,2.4,United States,Regeneron,Healthcare
+1430,Guenther Lehmann,2.4,Germany,dm-drogerie markt,Retail
+1431,Hussain Sajwani,2.4,United Arab Emirates,Damac Properties,Real Estate
+1432,J Christopher Flowers,2.4,United States,J.C. Flowers,Financial Services
+1433,Jim Breyer,2.4,United States,Investments,Investments
+1434,John Caudwell,2.4,United Kingdom,Phones4U,Retail
+1435,Kalanithi Maran,2.4,India,Sun TV Network,Media & Entertainment
+1436,Karin Sartorius-Herbst,2.4,Germany,Sartorius,Healthcare
+1437,Kavitark Ram Shriram,2.4,United States,Alphabet,Media & Entertainment
+1438,Kiran Mazumdar,2.4,India,Biocon,Healthcare
+1439,Law Kar Po,2.4,Hong Kong,Lobo Investment,Real Estate
+1440,Leena Gandhi Tewari,2.4,India,USV,Healthcare
+1441,Li Xiande,2.4,China,Jinko,Energy
+1442,Michael S. Smith,2.4,United States,Freeport LNG,Energy
+1443,Michael Wu Po-kong,2.4,Hong Kong,Wing Lung Bank,Financial Services
+1444,Miriam Blocher,2.4,Switzerland,EMS Chemie,Chemicals
+1445,Nandan Nilekani,2.4,India,Infosys,Software & Services
+1446,Otto Happel,2.4,Switzerland,GEA,Industrial Products
+1447,Paul Coulson,2.4,United Kingdom,Ardagh Group,Containers & Packaging
+1448,Pedro de Godoy Bueno,2.4,Brazil,UnitedHealth,Financial Services
+1449,Philippe Ginestet,2.4,France,GiFi,Retail
+1450,Pradip Burman,2.4,India,Dabur,Consumer Goods
+1451,Qiu Jianping & Wang Lingling,2.4,China,GreatStar Industrial,Industrial Products
+1452,Robert Langer,2.4,United States,Moderna,Healthcare
+1453,Rudy Ma,2.4,China,Yuanta,Financial Services
+1454,Shao Jianxiong,2.4,China,Hoymiles,Industrial Products
+1455,Shao Qinxiang,2.4,China,Garden,Industrial Products
+1456,Thomas Tull,2.4,United States,Legendary Entertainment,Media & Entertainment
+1457,Ty Warner,2.4,United States,Ty Warner Hotels & Resorts,Hospitality
+1458,Ulrike Baro,2.4,Germany,Sartorius,Healthcare
+1459,W Herbert Hunt,2.4,United States,Petro Hunt,Energy
+1460,Wang Jianyi,2.4,China,Futong,Industrial Products
+1461,Xie Juhua & Tang Yongqun,2.4,China,King-friend,Healthcare
+1462,Zhang Ronghua,2.4,China,Rockcheck,Industrial Products
+1463,Alberto Bombassei,2.3,Italy,Brembo,Automobile & Auto Components
+1464,Alberto Prada,2.3,Italy,Prada,Consumer Goods
+1465,Alex Beard,2.3,United Kingdom,Glencore,Trading
+1466,Alexandre van Damme,2.3,Switzerland,Anheuser-Busch InBev,Food & Beverages
+1467,Alice N Schwartz,2.3,United States,Bio-Rad Laboratories,Healthcare
+1468,Amy Wyss,2.3,United States,Synthes,Healthcare
+1469,Antonio Del Valle Ruiz,2.3,Mexico,Mexichem,Chemicals
+1470,Anurang Jain,2.3,India,Endurance Technologies,Automobile & Auto Components
+1471,Charlie Munger,2.3,United States,Berkshire Hathaway,Investments
+1472,Chen Gang & Ou Chunlian,2.3,China,Aikosolar,Energy
+1473,Chris Larsen,2.3,United States,Ripple,Blockchain
+1474,Craig Mccaw,2.3,United States,AT&T,Telecommunications
+1475,Fernando Chico Pardo,2.3,Mexico,Grupo Aeroportuario del Sureste,Aerospace & Defence
+1476,Fiona Pratt,2.3,Australia,Visy Industries,Paper & Forest Products
+1477,Friede Springer,2.3,Germany,Axel Springer,Media & Entertainment
+1478,Fu Guangming,2.3,China,Sunner,Agriculture
+1479,Georgi Domuschiev,2.3,United Kingdom,Advance Properties,Healthcare
+1480,Gerard Déprez,2.3,France,Loxam,Construction & Engineering
+1481,Gong Junlong,2.3,China,Hengyu,Real Estate
+1482,Guo Jianjun,2.3,China,Huineng,Energy
+1483,He Zhenggang,2.3,China,Hebang,Metals & Mining
+1484,He Zhiping & Zhang Wenli,2.3,China,Huajian,Investments
+1485,Henry Davis,2.3,United States,Greater Omaha Packing,Food & Beverages
+1486,Herbert Allen Jr,2.3,United States,Allen & Co,Financial Services
+1487,Huang Guangmiao,2.3,China,Zhongzhou,Real Estate
+1488,Husnu Ozyegin,2.3,Turkey,Fiba Holding,Investments
+1489,James Shoen,2.3,United States,Amerco,Transportation & Logistics
+1490,John De Mol,2.3,Netherlands,Endemol,Media & Entertainment
+1491,Karin Schick,2.3,Germany,Bechtle ,Software & Services
+1492,Karl Scheufele,2.3,Switzerland,Chopard,Consumer Goods
+1493,Kiril Domuschiev,2.3,Bulgaria,Advance Properties,Healthcare
+1494,Li Miaohang,2.3,China,Laoganma,Food & Beverages
+1495,Liang Guangwei,2.3,China,Huaqiang,Investments
+1496,Luo Tsai-Ren,2.3,China,Cheng Shin Rubber,Automobile & Auto Components
+1497,Marina Prada ,2.3,Italy,Prada,Consumer Goods
+1498,Mary & Douglas Perkins,2.3,United Kingdom,Specsavers,Consumer Goods
+1499,Meg Whitman,2.3,United States,eBay,Retail
+1500,Mikhail Gutseriyev,2.3,Russia,Russneft,Energy
+1501,Mortimer Zuckerman,2.3,United States,Boston Properties,Real Estate
+1502,Naveen Jindal,2.3,India,Jindal Steel & Power,Metals & Mining
+1503,Peter Lim,2.3,Singapore,Thomson Medical Group,Healthcare
+1504,Pratap Reddy,2.3,India,Apollo Hospitals,Healthcare
+1505,Rafique Abdul Malik,2.3,India,Metro Brands,Consumer Goods
+1506,Richard Marriot,2.3,United States,Host Hotels & Resorts,Hospitality
+1507,Sergey Katsiev,2.3,Russia,Megapolis,Retail
+1508,Shmuel Harlap,2.3,Israel,Mobileye,Software & Services
+1509,Stanley Hubbard,2.3,United States,Hubbard Broadcasting,Media & Entertainment
+1510,Suh Kyung-Bae,2.3,South Korea,AmorePacific,Consumer Goods
+1511,Tor Peterson,2.3,Switzerland,Glencore,Trading
+1512,Vladimir Litvinenko,2.3,Russia,Phosagro,Chemicals
+1513,Ye Lipei,2.3,Hong Kong,Super Ocean,Real Estate
+1514,Yuji Otsuka,2.3,Japan,Otsuka,Healthcare
+1515,Yuri Shefler,2.3,Switzerland,SPI Group,Food & Beverages
+1516,Zhu Yiwen & Zhu Jianqiao,2.3,China,Hygia,Healthcare
+1517,Barbara Tyson,2.2,United States,Tyson Foods,Food & Beverages
+1518,Bernhard Sebastian Braun-Luedicke,2.2,Germany,B. Braun,Healthcare
+1519,Bharat Desai & Neerja Sethi,2.2,United States,Syntel,Software & Services
+1520,Chen Huwen,2.2,China,M&G Stationery,Consumer Goods
+1521,Chen Huxiong,2.2,China,M&G Stationery,Consumer Goods
+1522,Chen Qiongxiang,2.2,China,CATL,Energy
+1523,Chen Yidan,2.2,China,Tencent,Media & Entertainment
+1524,Christoph Zeller,2.2,Liechtenstein,Ivoclar Vivadent,Healthcare
+1525,Daniel Lubetzky,2.2,United States,Kind Healthy Snacks,Food & Beverages
+1526,David C Paul,2.2,United States,Globus Medical,Healthcare
+1527,David Mindus,2.2,Sweden,Sagax,Real Estate
+1528,Ding Liguo,2.2,China,Delong Steel,Industrial Products
+1529,Edward Debartolo Jr,2.2,United States,Simon Property,Real Estate
+1530,Edwin Soeryadjaya,2.2,Indonesia,Saratoga Investama Sedaya,Investments
+1531,Erich Sixt,2.2,Germany,Sixt,Transportation & Logistics
+1532,Erik Selin,2.2,Sweden,Fastighets AB Balder,Real Estate
+1533,Eva Maria Braun-Luedicke,2.2,Germany,B. Braun,Healthcare
+1534,Farkhad Akhmedov,2.2,Russia,Nortgas,Energy
+1535,Fatih Ozmen,2.2,United States,Sierra Nevada,Aerospace & Defence
+1536,Federico De Nora,2.2,Italy,Industrie De Nora,Industrial Products
+1537,Friederike Braun-Luedicke,2.2,Germany,B. Braun,Healthcare
+1538,George Kurtz,2.2,United States,CrowdStrike,Software & Services
+1539,Guo Jinshu,2.2,China,Huineng,Energy
+1540,Hans Langer,2.2,Germany,EOS,Industrial Products
+1541,Hari Krishan Aggarwal,2.2,India,Campus Activewear,Consumer Goods
+1542,Heloise Pratt,2.2,Australia,Visy Industries,Paper & Forest Products
+1543,Huang Dawen,2.2,China,Hoshine Silicon,Metals & Mining
+1544,Huang Shizai,2.2,China,Great China Properties,Real Estate
+1545,Igor Altushkin,2.2,Russia,Russian Copper,Metals & Mining
+1546,Ivan Chrenko,2.2,Slovakia,HB Reavis,Real Estate
+1547,Jacky Xu,2.2,China,Trendy International,Retail
+1548,Jaime Gilinski Bacal,2.2,Colombia,Banco GNB,Financial Services
+1549,James Dinan,2.2,United States,York Capital Management,Financial Services
+1550,Jan Topholm,2.2,Denmark,WS Audiology,Healthcare
+1551,Jared Isaacman,2.2,United States,Shift4 Payments,Financial Services
+1552,Jed McCaleb,2.2,United States,Ripple,Blockchain
+1553,Jim Kavanaugh,2.2,United States,World Wide Technology,Software & Services
+1554,John Dorrance III,2.2,Ireland,Campbell Soup,Food & Beverages
+1555,John Magnier,2.2,Ireland,Barchester Healthcare,Healthcare
+1556,Lai Jianfa,2.2,China,ZTO,Transportation & Logistics
+1557,Li Guishan,2.2,China,Laoganma,Food & Beverages
+1558,Li Jiaquan,2.2,China,Lomon,Metals & Mining
+1559,Li Ning,2.2,China,Li-ning,Consumer Goods
+1560,Li Wei,2.2,China,Qianwei,Food & Beverages
+1561,Lin Ming-Cheng,2.2,China,Hua Nan,Financial Services
+1562,Luigi Cremonini,2.2,Italy,Cremonini Group,Food & Beverages
+1563,Lyu Jiangming,2.2,China,Top Choice Medical,Healthcare
+1564,Mitchell Goldhar,2.2,Canada,SmartCentres,Real Estate
+1565,Mohamed Al Fayed,2.2,United Kingdom,Ritz Paris,Hospitality
+1566,Patokh Chodiev,2.2,Kazakhstan,Eurasian Resources,Metals & Mining
+1567,Paul Foster,2.2,United States,Western Refining,Energy
+1568,Peter Spuhler,2.2,Switzerland,Stadler Rail,Industrial Products
+1569,Phillip Ragon,2.2,United States,InterSystems,Software & Services
+1570,Pieter van der Does,2.2,Netherlands,Adyen,Financial Services
+1571,Putera Sampoerna,2.2,Indonesia,Sampoerna,Agriculture
+1572,Ren Jianhua,2.2,China,Robam,Consumer Goods
+1573,Ren Zhengfei,2.2,China,Huawei,Telecommunications
+1574,Richard Peery,2.2,United States,Investments,Real Estate
+1575,Robert Defares,2.2,Netherlands,IMC,Investments
+1576,Romano Minozzi ,2.2,Italy,Snam,Energy
+1577,Sam Zell,2.2,United States,Equity Group Investments,Investments
+1578,Shao Genhuo,2.2,China,Dabeinong,Agriculture
+1579,Somurai Jaruphnit,2.2,Thailand,CP Group,Food & Beverages
+1580,Stein Erik Hagen,2.2,Norway,Orkla,Food & Beverages
+1581,Stephen Feinberg,2.2,United States,Cerberus Capital Management,Financial Services
+1582,Stephen Mandel Jr,2.2,United States,Lone Pine Capital,Financial Services
+1583,Stewart Rahr,2.2,United States,Kinray,Healthcare
+1584,Su Suyu,2.2,China,Lianmei,Real Estate
+1585,Subae Mohammad Ibrahim Mohammad Ai,2.2,Saudi Arabia,Bank Albilad,Financial Services
+1586,Sunny Varkey,2.2,United Arab Emirates,Gems Education,Education & Training
+1587,Tao Yuequn,2.2,China,Autek,Healthcare
+1588,Timothy Boyle,2.2,United States,Columbia Sportswear,Consumer Goods
+1589,Torstein Hagen,2.2,Switzerland,Viking Cruises,Hospitality
+1590,Vladimir Iorich,2.2,Switzerland,Pala Investments,Investments
+1591,Wang Chou-Hsiong,2.2,China,Feng Tay,Consumer Goods
+1592,Wang Han,2.2,China,JuneYao,Investments
+1593,Wang Junmin & Shen Ping,2.2,China,Haisco Pharmaceutical,Healthcare
+1594,Wang Linpeng,2.2,China,Easyhome,Retail
+1595,Wang Ning,2.2,China,Pop Mart,Consumer Goods
+1596,Wang Shih-Chung,2.2,China,AirTAC,Industrial Products
+1597,Wang Wenmo,2.2,China,Anta,Consumer Goods
+1598,Wang Xuning,2.2,China,JS Global Lifestyle,Consumer Goods
+1599,Wei Ing-Chou,2.2,China,Ting Hsin,Food & Beverages
+1600,Weng Xianding,2.2,China,New Industries,Healthcare
+1601,William Stone,2.2,United States,SS&C Technologies,Software & Services
+1602,Wu Yingming,2.2,China,CATL,Energy
+1603,Xie Bingkun,2.2,China,Kuncai,Chemicals
+1604,Xie Jia,2.2,China,DJI,Consumer Goods
+1605,Xu Gang,2.2,China,Longmang beililian,Chemicals
+1606,Ye Gang,2.2,Singapore,Sea,Media & Entertainment
+1607,Yu Qibing,2.2,China,Qibing,Industrial Products
+1608,Yuan Fugen,2.2,China,Dongshan Precision Manufacturing,Industrial Products
+1609,Yuri Gushchin,2.2,Seychelles,United Confectioners,Food & Beverages
+1610,Yusuf Hamied,2.2,India,Cipla,Healthcare
+1611,Yvonne Bauer,2.2,Germany,Bauer Media,Media & Entertainment
+1612,Zhang Chuanwei,2.2,China,MingYang Smart Energy,Industrial Products
+1613,Zhang Fan,2.2,China,Goodix,Semiconductors
+1614,Zhao Hongfei,2.2,China,Thunder,Software & Services
+1615,Amar Arvind Vakil,2.1,India,Asian Paints,Chemicals
+1616,Andrew Tan,2.1,Philippines,Alliance Global Group,Food & Beverages
+1617,Antoine Fiévet,2.1,France,Bel Group,Food & Beverages
+1618,Anu Aga,2.1,India,Thermax,Industrial Products
+1619,Anwar Pervaiz,2.1,United Kingdom,Bestway,Retail
+1620,Beda Diethelm,2.1,Switzerland,Sonova,Healthcare
+1621,Benjamin Otto,2.1,Germany,Otto,Retail
+1622,Bhadresh Shah,2.1,India,AIA Engineering,Industrial Products
+1623,C James Koch,2.1,United States,Boston Beer,Food & Beverages
+1624,Cao Jianwei,2.1,China,Jingsheng Mechanical & Electrical Co,Industrial Products
+1625,Carlos Sanchez,2.1,Brazil,EMS,Healthcare
+1626,Chelia Cohen Safra,2.1,Brazil,Investments,Investments
+1627,Chen Ailian & Wu Liangding,2.1,China,Zhongbao,Automobile & Auto Components
+1628,Christiane Schoeller,2.1,Germany,Verlagsgruppe Georg Von Holtzbrinck,Media & Entertainment
+1629,Chung Eui-Sun,2.1,South Korea,Hyundai,Automobile & Auto Components
+1630,David Fong Man-hung,2.1,Hong Kong,Hip Shing Hong,Real Estate
+1631,Deng Wen & Tang Lu,2.1,China,Teway Food,Food & Beverages
+1632,Dinesh Krishnaswamy,2.1,India,Infosys,Software & Services
+1633,Dong Caiping,2.1,China,Zenith,Metals & Mining
+1634,Doris Fisher,2.1,United States,GAP,Consumer Goods
+1635,Dragos Paval,2.1,Romania,Dedeman,Retail
+1636,Glen Taylor,2.1,United States,Taylor,Containers & Packaging
+1637,Hal Jackman,2.1,Canada,EL Finance,Financial Services
+1638,Henning Conle,2.1,United Kingdom,Sirosa,Real Estate
+1639,Henry Schuck,2.1,United States,Zoominfo Technologies,Software & Services
+1640,Herbert T Sy,2.1,Philippines,SM Investments,Retail
+1641,Huang Min,2.1,China,Goodwe Power,Energy
+1642,Huang Shaowu,2.1,China,SinoPostgraduate,Investments
+1643,Jeffrey Gundlach,2.1,United States,DoubleLine Capital,Financial Services
+1644,Jerry Reinsdorf,2.1,United States,Chicago Bulls,Media & Entertainment
+1645,Joesley Batista,2.1,Brazil,JBS,Food & Beverages
+1646,John Bloor,2.1,United Kingdom,Bloor Homes,Real Estate
+1647,John Coates,2.1,United Kingdom,Bet365,Media & Entertainment
+1648,Jonathan Burrell,2.1,United States,Garmin,Consumer Goods
+1649,Jose Joao Abdalla Filho,2.1,Brazil,Banco Classico,Financial Services
+1650,Josef Boquoi,2.1,Germany,Bofrost,Food & Beverages
+1651,Lang Walker,2.1,Australia,Walker Corp,Real Estate
+1652,Leon Cooperman,2.1,United States,Omega Advisors,Financial Services
+1653,Lin Dingqiang,2.1,China,Radiance,Real Estate
+1654,Matthias Reinhart,2.1,Switzerland,VZ Holding,Investments
+1655,Nicola Leibinger-Kammueller,2.1,Germany,Trumpf,Industrial Products
+1656,Niraj Shah,2.1,United States,Wayfair,Retail
+1657,Oleg Deripaska,2.1,Russia,Rusal,Metals & Mining
+1658,Peter Coates,2.1,United Kingdom,Bet365,Media & Entertainment
+1659,Peter Leibinger,2.1,Germany,Trumpf,Industrial Products
+1660,Qiu Guanghe,2.1,China,Semir,Consumer Goods
+1661,Ranjan Pai,2.1,India,Manipal Education & Medical,Healthcare
+1662,Regine Leibinger,2.1,Germany,Trumpf,Industrial Products
+1663,Ronnie Screwvala,2.1,India,Unilazer Ventures,Investments
+1664,Rubens Ometto,2.1,Brazil,Cosan,Energy
+1665,Sanjit Biswas,2.1,United States,Samsara Networks,Software & Services
+1666,SD Shibulal,2.1,India,Infosys,Software & Services
+1667,Sharon Azrieli,2.1,Canada,Azrieli Group,Real Estate
+1668,Stefan Von Holtzbrinck,2.1,Germany,Verlagsgruppe Georg Von Holtzbrinck,Media & Entertainment
+1669,Steven Conine,2.1,United States,Wayfair,Retail
+1670,Thor Bjorgolfsson,2.1,United Kingdom,Play,Telecommunications
+1671,Torsten Toeller,2.1,Germany,Fressnapf ,Retail
+1672,Vadim Moshkovich,2.1,Russia,Rusagro,Agriculture
+1673,Vivek Chaand Sehgal,2.1,Australia,Motherson Sumi Systems,Automobile & Auto Components
+1674,Wei Yin-Chun,2.1,China,Ting Hsin,Food & Beverages
+1675,Wei Ying-Chiao,2.1,China,Ting Hsin,Food & Beverages
+1676,Wei Yin-Heng,2.1,China,Ting Hsin,Food & Beverages
+1677,Wesley Mendonça Batista,2.1,Brazil,JBS,Food & Beverages
+1678,Wolfgang Leitner,2.1,Austria,Andritz,Construction & Engineering
+1679,Ye Fan,2.1,China,MeiDong Auto,Retail
+1680,Zhou Yaoting,2.1,China,Hongdou,Consumer Goods
+1681,Zygmunt Solorz-Zak,2.1,Poland,Cyfrowy Polsat,Media & Entertainment
+1682,Abhaykumar Firodia,2,India,Force Motors,Automobile & Auto Components
+1683,Ajay Balvantray Parekh,2,India,Pidilite Industries,Chemicals
+1684,Alan Parker,2,Switzerland,DFS,Retail
+1685,Andrea Depkat,2,Germany,Haribo,Food & Beverages
+1686,Anna Murdoch,2,United States,Investments,Investments
+1687,Asok Kumar Hiranandani,2,Singapore,Royal Group Holdings,Real Estate
+1688,Barbara Carlson Gage,2,United States,Carlson,Hospitality
+1689,Bianca Rinehart  ,2,Australia,Hancock Prospecting,Metals & Mining
+1690,Brett Blundy,2,Bahamas,BB Retail,Retail
+1691,Cao Ji & Cao Zheng,2,China,Hangke Technology,Energy
+1692,Charles Bronfman,2,Canada,Seagram,Food & Beverages
+1693,Chey Tae Won,2,South Korea,SK,Energy
+1694,Cliff Asness,2,United States,AQR Capital,Financial Services
+1695,Craig C Culver,2,United States,Culver's,Food & Beverages
+1696,David Hindawi,2,United States,Tanium,Software & Services
+1697,Diao Zhizhong,2,China,Glodon,Software & Services
+1698,Fernando Roig,2,Spain,Pamesa,Construction & Engineering
+1699,Georg Haub,2,Germany,Tengelmann,Retail
+1700,Ginia Rinehart,2,Australia,Hancock Prospecting,Metals & Mining
+1701,Hans Arndt Riegel,2,Germany,Haribo,Food & Beverages
+1702,Hans Guido Riegel,2,Germany,Haribo,Food & Beverages
+1703,Hans Tan Sy,2,Philippines,SM Investments,Retail
+1704,Harley Tan Sy,2,Philippines,SM Investments,Retail
+1705,Heikki Kyöstilä,2,Finland,Planmeca,Healthcare
+1706,Henrik Mads Clauson,2,Denmark,Danfoss,Industrial Products
+1707,Herbert Wertheimer,2,United States,Investments,Investments
+1708,Hope Rinehart Welker,2,Australia,Hancock Prospecting,Metals & Mining
+1709,Hu Xingrong,2,China,Doof,Real Estate
+1710,Hubertus Benteler,2,Austria,Benteler International,Automobile & Auto Components
+1711,Isak Andic,2,Spain,Mango,Consumer Goods
+1712,Jami Gertz,2,United States,Movies,Media & Entertainment
+1713,Jiravat Yoovidhya,2,Thailand,Red Bull,Food & Beverages
+1714,John Goff,2,United States,Crescent Real Estate,Real Estate
+1715,John Langley Hancock,2,Australia,Hancock Prospecting,Metals & Mining
+1716,Juan Carlos Escotet,2,Venezuela,Banesco,Financial Services
+1717,Katarina Martinson,2,Sweden,LE Lundbergforetagen,Investments
+1718,Katsumi Tada,2,Japan,Daito Trust Construction,Real Estate
+1719,Kenneth Tuchman,2,United States,TeleTech,Software & Services
+1720,Kim Kardashian,2,United States,KKW Beauty,Consumer Goods
+1721,Kommer Damen,2,Netherlands,Damen Shipyards,Construction & Engineering
+1722,Konstantin Strukov,2,Russia,Uzhuralzoloto,Metals & Mining
+1723,Li Feilie,2,China,Feishang,Metals & Mining
+1724,Li Min,2,China,Rockchip Electronics,Semiconductors
+1725,Liang Qin & Wang Yi,2,China,Yangjie Technology,Semiconductors
+1726,Lin Lairong & An Sumei,2,China,Zhongxing,Metals & Mining
+1727,Liu Zhiqiang & Zhai Meiqing,2,China,Heung Kong,Real Estate
+1728,Louise Lindh,2,Sweden,LE Lundbergforetagen,Investments
+1729,Lyu Hui & Chen Ningning,2,Hong Kong,Pioneer Metals,Metals & Mining
+1730,M Satyanarayana Reddy,2,India,MSN Laboratories,Healthcare
+1731,Mahendra Chimanlal Choksi,2,India,Asian Paints,Chemicals
+1732,Manju D Gupta,2,India,Lupin,Healthcare
+1733,Maria Elisabeth Schaeffler,2,Germany,Schaeffler,Automobile & Auto Components
+1734,Marilyn Carlson Nelson,2,United States,Carlson,Hospitality
+1735,Markus Persson,2,Sweden,Minecraft,Media & Entertainment
+1736,Martin Lorentzon,2,Sweden,Spotify,Media & Entertainment
+1737,Mary Haughey,2,United Kingdom,Norbrook Laboratories,Healthcare
+1738,Mohammad Al Essa,2,Saudi Arabia,Riyad Bank,Financial Services
+1739,Narendrakumar Kalyanji Parekh,2,India,Pidilite Industries,Chemicals
+1740,Nucharee Yoovidhya,2,Thailand,Red Bull,Food & Beverages
+1741,Orion Hindawi,2,United States,Tanium,Software & Services
+1742,Pan Zhengmin & Wu Chunyuan,2,China,AAC Acoustic Technologies,Consumer Goods
+1743,Patrice Motsepe,2,South Africa,African Rainbow Minerals,Metals & Mining
+1744,Patrik Tkac,2,Slovakia,EPH,Energy
+1745,Paul Singer,2,United States,Elliot Management,Financial Services
+1746,Pavana Langthara Yoovidhya,2,Thailand,Red Bull,Food & Beverages
+1747,Prannada Yoovidhya,2,Thailand,Red Bull,Food & Beverages
+1748,Rajan Raheja,2,India,Exide Industries,Automobile & Auto Components
+1749,Ron Burkle,2,United States,Yucaipa Companies,Financial Services
+1750,Safra Catz,2,United States,Oracle,Software & Services
+1751,Saipin Phaholyothin Yoovidhya,2,Thailand,Red Bull,Food & Beverages
+1752,Sakchai Yoovidhya,2,Thailand,Red Bull,Food & Beverages
+1753,Saravoot Yoovidhya,2,Thailand,Red Bull,Food & Beverages
+1754,Satyanarayan Nuwal,2,India,Solar Industries India,Chemicals
+1755,Scott Kapnick,2,United States,HPS Investment Partners,Financial Services
+1756,Shang Jiyong,2,China,Wanda,Chemicals
+1757,Si-Hyuk Bang,2,South Korea,HYBE,Media & Entertainment
+1758,Supreeya Yoovidhya,2,Thailand,Red Bull,Food & Beverages
+1759,Suthirat Yoovidhya,2,Thailand,Red Bull,Food & Beverages
+1760,Thavis Pengsa,2,Thailand,Red Bull,Food & Beverages
+1761,Theodore Permadi Rachmat,2,Indonesia,Triputra Group,Agriculture
+1762,Thomas Bruch,2,Germany,Globus Retail,Retail
+1763,Thomas Prinzhorn,2,Austria,Prinzhorn,Containers & Packaging
+1764,Vince McMahon,2,United States,WWE,Media & Entertainment
+1765,Walter Droege,2,Germany,Droege International,Investments
+1766,Wang Minwen,2,China,Lion Microelectronics,Semiconductors
+1767,Wang Zhenggen,2,China,Maxwell,Industrial Products
+1768,Wen Pengcheng,2,China,Wens Foodstuff,Agriculture
+1769,William Heinecke,2,Thailand,Minor International,Hospitality
+1770,Willy Michel,2,Switzerland,Ypsomed Holding,Healthcare
+1771,Xu Jingnan,2,China,Peak,Consumer Goods
+1772,Xu Lianjie,2,China,HengAn,Consumer Goods
+1773,Xu Shugen,2,China,Zhejiangdingli,Industrial Products
+1774,Xu Xin,2,China,Capitaltoday,Investments
+1775,Yang Xuegang,2,China,Risun,Chemicals
+1776,Yi Dasheng,2,China,Fuxing,Retail
+1777,Yu Guoxiang,2,China,New Hengde,Investments
+1778,Yuri Milner,2,United States,Mail.ru,Media & Entertainment
+1779,Yusaku Maezawa,2,Japan,Start Today,Retail
+1780,Zeng Jijiang,2,China,Hongda,Semiconductors
+1781,Zhou Yongli,2,China,Yongli,Consumer Goods
+1782,Alberto J. Safra,1.9,Brazil,Safra,Financial Services
+1783,Alexander Mamut,1.9,Russia,A&NN Capital Fund Management,Investments
+1784,Alexandra Daitch,1.9,United States,Cargill,Agriculture
+1785,Anna Maria Braun,1.9,Germany,B. Braun,Healthcare
+1786,Antonio Marcegaglia,1.9,Italy,Marcegaglia,Metals & Mining
+1787,August Oetker Jr,1.9,Germany,Dr Oetker,Food & Beverages
+1788,Baba Kalyani,1.9,India,Bharat Forge,Industrial Products
+1789,Ben Silbermann,1.9,United States,Pinterest,Media & Entertainment
+1790,Bergit Douglas,1.9,Germany,Dr Oetker,Food & Beverages
+1791,Cai Dongqing,1.9,China,Alpha Animation,Media & Entertainment
+1792,Carl DeSantis,1.9,United States,Celsius Holdings,Food & Beverages
+1793,Chiao Yu-Lon,1.9,China,Walsin Lihwa,Semiconductors
+1794,Christian Oetker,1.9,Germany,Dr Oetker,Food & Beverages
+1795,Christopher Goldsbury,1.9,United States,Pace Salsa,Food & Beverages
+1796,Dan Gertler,1.9,Israel,Dan Gertler International,Metals & Mining
+1797,Daniel Dines,1.9,United States,UiPath,Software & Services
+1798,David J. Safra,1.9,Brazil,Safra,Financial Services
+1799,Dieter Schnabel,1.9,Germany,Helm,Trading
+1800,Dong Wei,1.9,China,Hengrui,Healthcare
+1801,Emma Marcegaglia,1.9,Italy,Marcegaglia,Metals & Mining
+1802,Esther Safra,1.9,Brazil,Safra,Financial Services
+1803,Farhad Moshiri,1.9,United Kingdom,USM Holdings,Metals & Mining
+1804,Fu Mingkang,1.9,China,Riyue,Industrial Products
+1805,Gary Michelson,1.9,United States,Medtronic,Healthcare
+1806,Giammaria Giuliani,1.9,Switzerland,Royalty Pharma,Healthcare
+1807,Guan Yihong,1.9,China,Jiumaojiu,Food & Beverages
+1808,Hamad Bin Jassim Bin Jaber Al Thani,1.9,Qatar,Deutsche Bank,Financial Services
+1809,Hamdi Ulukaya,1.9,United States,Chobani,Food & Beverages
+1810,Hans-Werner Hector,1.9,Germany,SAP,Software & Services
+1811,Herb Chambers,1.9,United States,Herb Chambers Companies,Retail
+1812,Hermanto Tanoko,1.9,Indonesia,Avia Avian,Chemicals
+1813,Hu Gengxi & Chen Yanni,1.9,China,Wolwo Pharma,Healthcare
+1814,Jacob J. Safra,1.9,Brazil,Safra,Financial Services
+1815,Jaime Botin,1.9,Spain,Bankinter,Financial Services
+1816,James Leprino,1.9,United States,Leprino Foods,Food & Beverages
+1817,Jin Huiming,1.9,China,Dahua,Real Estate
+1818,Jin Lei & Li Fengling,1.9,China,Balance Medical,Healthcare
+1819,Johanna Braun,1.9,Germany,B. Braun,Healthcare
+1820,John Bicket,1.9,United States,Samsara Networks,Software & Services
+1821,John V. Oyler,1.9,China,BeiGene,Healthcare
+1822,Juan-Miguel Villar Mir,1.9,Spain,Grupo Villar Mir,Chemicals
+1823,Karl Friedrich Braun,1.9,Germany,B. Braun,Healthcare
+1824,Katherine Tanner,1.9,United States,Cargill,Agriculture
+1825,Kevin Systrom,1.9,United States,Instagram,Media & Entertainment
+1826,Kunal Naresh Shah,1.9,India,CRED,Financial Services
+1827,Lee Yeow Chor,1.9,Malaysia,IOI Group,Agriculture
+1828,Lei Jufang,1.9,China,Qizheng Pharmaceutical,Healthcare
+1829,Leopoldo Del Pino Y Calvo Sotelo,1.9,Spain,Ferrovial,Construction & Engineering
+1830,Liu Dongsheng & Zhang Ning,1.9,China,Red Avenue,Chemicals
+1831,Liu Feng & Lin Xuyan,1.9,China,Yongfeng,Metals & Mining
+1832,Lucy Stitzer,1.9,United States,Cargill,Agriculture
+1833,Ma Xiuhui,1.9,China,Opple,Energy
+1834,Maren Otto,1.9,Germany,Otto,Retail
+1835,Mei Zhiming,1.9,China,GLP,Real Estate
+1836,Michael Jordan,1.9,United States,Charlotte Bobcats,Media & Entertainment
+1837,Mike Adenuga,1.9,Nigeria,Globacom,Telecommunications
+1838,Nikolaus Knauf,1.9,Germany,Knauf Gips,Construction & Engineering
+1839,Nirmal Kumar Minda,1.9,India,Minda Industries,Automobile & Auto Components
+1840,Otto Toto Sugiri,1.9,Indonesia,DCI Indonesia,Software & Services
+1841,Patrick Hanrahan,1.9,United States,Tableau Software,Software & Services
+1842,Qin Ronghua,1.9,China,Minth,Automobile & Auto Components
+1843,Raja Bagmane,1.9,India,Bagmane Developers,Real Estate
+1844,Rajju Shroff,1.9,India,United Phosphorus,Chemicals
+1845,Ren Daode,1.9,China,Taikang,Financial Services
+1846,RG Chandramogan,1.9,India,Hatsun Agro Products,Food & Beverages
+1847,Ricardo Martin Bringas,1.9,Mexico,Soriana,Retail
+1848,Richard Oetker,1.9,Germany,Dr Oetker,Food & Beverages
+1849,Robert Miller,1.9,Canada,Future Electronics,Retail
+1850,Roberto Angelini Rossi,1.9,Chile,AntarChile,Investments
+1851,Rosely Schweizer,1.9,Germany,Dr Oetker,Food & Beverages
+1852,Sanjeev Bikhchandani,1.9,India,Info Edge India,Software & Services
+1853,Sarah MacMillan,1.9,United States,Cargill,Agriculture
+1854,Shailesh Chimanlal Choksi,1.9,India,Asian Paints,Chemicals
+1855,Shen Xiqiang,1.9,China,Yoke Technology,Chemicals
+1856,Shi Wenbo,1.9,China,HengAn,Consumer Goods
+1857,Sol Daurella,1.9,Spain,Coca-Cola European Partners,Food & Beverages
+1858,Stefan Pierer,1.9,Austria,Pierer Mobility,Automobile & Auto Components
+1859,Steven Klinsky,1.9,United States,New Mountain Capital,Financial Services
+1860,Tang Xiaoou,1.9,Hong Kong,SenseTime,Software & Services
+1861,Thaksin Shinawatra,1.9,United Arab Emirates,SC Asset,Real Estate
+1862,Tong Jinquan,1.9,China,Changfeng,Real Estate
+1863,Vinod Saraf,1.9,India,Vinati Organics,Chemicals
+1864,Wang Linxiang,1.9,China,Erdos,Consumer Goods
+1865,Wang Mingwang & Cai Di'e,1.9,China,Sunwoda,Energy
+1866,Wang Wei,1.9,China,Xingyun,Software & Services
+1867,William Koch,1.9,United States,Oxbow,Energy
+1868,William Young,1.9,United States,Plastipak,Containers & Packaging
+1869,Wu Xushun,1.9,China,37 Interactive Entertainment,Media & Entertainment
+1870,Wu Ying,1.9,China,Metron,Industrial Products
+1871,Xia Chongyao & Yuan Liyu,1.9,China,Orient Wires & Cables,Industrial Products
+1872,Xiang Guangtong,1.9,China,Tsingshan,Industrial Products
+1873,Yan Jianjun,1.9,China,Zenitek,Investments
+1874,Yang Lin,1.9,United States,VeSync,Consumer Goods
+1875,Yang Meng & He Li,1.9,China,Anker,Retail
+1876,Yang Weidong & Yang Yazhen,1.9,China,Zhejiang Satellite Petro Chemical,Chemicals
+1877,Yoshiko Mori,1.9,Japan,Mori Building,Real Estate
+1878,Yu Faxiang,1.9,China,Sunriver,Construction & Engineering
+1879,Yu Rong,1.9,China,Health 100,Healthcare
+1880,Yuan Zhilun,1.9,China,Bosai Minerals,Metals & Mining
+1881,Zhang Ya & Zhou Wenmei,1.9,China,Guoguang Electric,Industrial Products
+1882,Zheng Jianjiang,1.9,China,AUX,Consumer Goods
+1883,Zhou Zongwen,1.9,China,Chow Tai Seng,Retail
+1884,Abdulla Al Futtaim,1.8,United Arab Emirates,Al Futtaim,Retail
+1885,Ahmet Calik,1.8,Turkey,Calik,Construction & Engineering
+1886,Aiyawatt Srivaddhanaprabha,1.8,Thailand,King Power,Retail
+1887,Alex Birkenstock,1.8,Germany,Birkenstock,Consumer Goods
+1888,Alfredo Harp Helu,1.8,Mexico,Banamex,Financial Services
+1889,Andrey Andreev,1.8,United Kingdom,MagicLab,Software & Services
+1890,Apichet Srivaddhanaprabha,1.8,Thailand,King Power,Retail
+1891,Binish Hasmukh Chudgar,1.8,India,Intas Pharmaceuticals,Healthcare
+1892,Cameron Adams,1.8,Australia,Canva,Software & Services
+1893,Christian Birkenstock,1.8,Germany,Birkenstock,Consumer Goods
+1894,Du Weimin,1.8,China,Biokangtai,Healthcare
+1895,Edward Lampert,1.8,United States,Sears,Financial Services
+1896,Erik Paulsson,1.8,Sweden,Fabege,Real Estate
+1897,Frederick Ernest Ehrsam III,1.8,United States,Coinbase,Blockchain
+1898,Friedrich Knapp ,1.8,Germany,New Yorker,Retail
+1899,Fritz Draexlmaier,1.8,Germany,Draexlaimer,Automobile & Auto Components
+1900,G Amarender Reddy,1.8,India,GAR,Real Estate
+1901,Gao Yi,1.8,China,Yifeng Pharmacy,Retail
+1902,Guy Laliberte,1.8,Canada,Cirque du Soleil,Media & Entertainment
+1903,He Zhaoxi,1.8,China,Sangfor,Software & Services
+1904,Henry T Sy Jr,1.8,Philippines,SM Investments,Retail
+1905,Hu Yangzhong,1.8,China,Hikvision,Consumer Goods
+1906,Huang Hongsheng & Lin Weiping,1.8,China,Skyworth,Consumer Goods
+1907,Irene Lee Yun Lien,1.8,Hong Kong,Hysan,Real Estate
+1908,Isidro Consunji,1.8,Philippines,DMCI Holding,Construction & Engineering
+1909,J Tomilson Hill,1.8,United States,Blackstone Group,Financial Services
+1910,Jacques Veyrat,1.8,France,Impala,Investments
+1911,Jiang Yintai,1.8,China,Daimay,Automobile & Auto Components
+1912,Jill Foss Watson,1.8,United States,Credit Acceptance,Financial Services
+1913,Jin Lei,1.8,China,Changchun High-tech Industries,Healthcare
+1914,Jin Xin,1.8,China,Dajin Heavy Industry,Industrial Products
+1915,Joe Lacob,1.8,United States,Golden State Warriors,Media & Entertainment
+1916,John Leigh,1.8,Hong Kong,CLP,Energy
+1917,Jorgen Mads Clausen,1.8,Denmark,Danfoss,Industrial Products
+1918,Justin Ishbia,1.8,United States,UWM Holdings,Financial Services
+1919,Kagemasa Kozuki,1.8,Japan,Konami,Media & Entertainment
+1920,Lee Joong-Keun,1.8,South Korea,Booyoung,Real Estate
+1921,Leslie Alexander,1.8,United States,Houston Rockets,Media & Entertainment
+1922,Li Ming & Du Nan,1.8,China,Yate,Investments
+1923,Li Xiangping,1.8,China,Dongming,Chemicals
+1924,Liang Liangsheng,1.8,Hong Kong,C-Bons,Consumer Goods
+1925,Liu Gexin,1.8,China,Kelun Pharmaceutical,Healthcare
+1926,Lo Ka Shui,1.8,Hong Kong,Great Eagle,Real Estate
+1927,Ludwig Theodore Braun,1.8,Germany,B. Braun,Healthcare
+1928,Marco Vacchi,1.8,Italy,IMA Group,Industrial Products
+1929,Maria De Lourdes Egydio Villela,1.8,Brazil,Itau Unibanco,Financial Services
+1930,Maurizio Billi,1.8,Brazil,Eurofarma,Healthcare
+1931,Meng Qingshan,1.8,China,Meihua,Food & Beverages
+1932,Michael Krasny,1.8,United States,CDW,Software & Services
+1933,Mohannad Al Kharafi,1.8,Kuwait,Kharafi Group,Construction & Engineering
+1934,Morris Kahn,1.8,Israel,Amdocs ,Software & Services
+1935,Nancy Lerner,1.8,United States,MBNA,Financial Services
+1936,Nimish Hasmukh Chudgar,1.8,India,Intas Pharmaceuticals,Healthcare
+1937,Norma Lerner,1.8,United States,MBNA,Financial Services
+1938,Patrice Pichet,1.8,France,Groupe Pichet,Real Estate
+1939,Peter Johan Mads Clauson,1.8,Denmark,Danfoss,Industrial Products
+1940,Philip Day,1.8,United Arab Emirates,Edinburgh Woollen Mills,Retail
+1941,Phillip Frost,1.8,United States,Ivax ,Healthcare
+1942,Randolph Lerner,1.8,United States,MBNA,Financial Services
+1943,Rutger Arnhult,1.8,Sweden,Corem Property Group,Real Estate
+1944,Shang Xiaobo & Deng Yefang,1.8,China,Honglu Steel Structure,Construction & Engineering
+1945,Sun Zhongwei & Wen Meichan,1.8,China,Hello Tech,Energy
+1946,Surjit Kumar Gupta,1.8,India,Havells India,Consumer Goods
+1947,Sylvia Stroher,1.8,Germany,Wella,Consumer Goods
+1948,T Denny Sanford,1.8,United States,First Premier Bank,Financial Services
+1949,Tahir,1.8,Indonesia,Bank Mayapada,Financial Services
+1950,Teresita Sy-Coson,1.8,Philippines,SM Investments,Retail
+1951,Theodore Leonsis,1.8,United States,Monumental Sports & Entertainment,Media & Entertainment
+1952,Thomas James,1.8,United States,Raymond James Financial,Financial Services
+1953,Tian Ming,1.8,China,Star Cm,Media & Entertainment
+1954,Timothy Headington,1.8,United States,Headington Oil,Energy
+1955,Toshio Motoya,1.8,Japan,APA Group,Hospitality
+1956,Urmish Hasmukh Chudgar,1.8,India,Intas Pharmaceuticals,Healthcare
+1957,Vera Guerin,1.8,United States,Shapell Industries,Real Estate
+1958,Voramas Srivaddhanaprabha,1.8,Thailand,King Power,Retail
+1959,Wang Shuhua,1.8,China,Yuhua Steel,Industrial Products
+1960,Wayne Weaver,1.8,United States,Shoe Carnival,Retail
+1961,Wilhelm Beier,1.8,Germany,Dermapharm Holding,Healthcare
+1962,Wu Meirong,1.8,China,Meike,Energy
+1963,Xu Bingzhong,1.8,China,Helens,Food & Beverages
+1964,Xu Shaochun,1.8,China,Kingdee,Software & Services
+1965,Xu Zhenhua,1.8,China,Moonton,Investments
+1966,Xu Zhihan,1.8,China,Maxscend,Semiconductors
+1967,Xue Xiangdong,1.8,China,DHC Digital,Software & Services
+1968,Yen Chen Lilian,1.8,China,Yulon,Automobile & Auto Components
+1969,Zan Shengda,1.8,China,Zongyi,Investments
+1970,Zhang Jindong,1.8,China,Suning,Retail
+1971,Zhang Yongping,1.8,China,Xiushuijie,Real Estate
+1972,Zhang Yuqiang,1.8,China,Zhenshi,Metals & Mining
+1973,Zhou Jingliang,1.8,China,Ganten,Food & Beverages
+1974,A Jayson Adair,1.7,United States,Copart,Retail
+1975,Alan Trefler,1.7,United States,Pegasystems,Software & Services
+1976,Amnon Shashua,1.7,Israel,Mobileye,Software & Services
+1977,Andrei Kosogov,1.7,Russia,Alfa,Energy
+1978,Anne Graff,1.7,United Kingdom,Graff Diamonds,Retail
+1979,Anneliese Roth,1.7,Germany,Norma,Retail
+1980,Anthony Langley,1.7,United Kingdom,Langley Holdings,Industrial Products
+1981,Basant Bansal,1.7,India,M3M India,Real Estate
+1982,Basudeo Narain Singh,1.7,India,Alkem Laboratories,Healthcare
+1983,Bill Gross,1.7,United States,Janus Capital,Financial Services
+1984,Bon Neung Koo,1.7,South Korea,Heesung Electronics,Software Industrial
+1985,Brian Armstrong,1.7,United States,Coinbase,Blockchain
+1986,Brian France,1.7,United States,Nascar Team,Media & Entertainment
+1987,Brian Roberts,1.7,United States,Comcast,Media & Entertainment
+1988,Catherine Lozick,1.7,United States,Swagelok,Industrial Products
+1989,Chen Zhisong,1.7,China,Yealink,Software & Services
+1990,Clemens Toennies,1.7,Germany,Toennies Lebensmittel,Food & Beverages
+1991,Danna Azrieli,1.7,Israel,Azrieli Group,real Estate
+1992,David Mcmurtry,1.7,United Kingdom,Renishaw,Industrial Products
+1993,Dean Solon,1.7,United States,Shoals Technologies,Industrial Products
+1994,Dermot Desmond,1.7,Ireland,International Investment & Underwriting,Investments
+1995,Dhanin Chearavanont,1.7,Thailand,CP Group,Food & Beverages
+1996,Eugene Murtagh,1.7,Ireland,Kingspan,Construction & Engineering
+1997,Francois Feuillet,1.7,France,Trigano,Automobile & Auto Components
+1998,Gérita Wessels,1.7,Netherlands,VolkerWessels,Transportation & Logistics
+1999,Han Chang-Woo,1.7,Japan,Maruhan,Media & Entertainment
+2000,Hans Melchers,1.7,Netherlands,Hal Trust,Investments
+2001,He Qi,1.7,China,Junhe,Trading
+2002,Inge Wessels,1.7,Netherlands,VolkerWessels,Construction & Engineering
+2003,James Clark,1.7,United States,Netscape,Software & Services
+2004,James France,1.7,United States,Nascar Team,Media & Entertainment
+2005,James Scapa,1.7,United States,Altair Engineering,Software & Services
+2006,Joao Roberto Marinho,1.7,Brazil,Grupo Globo,Media & Entertainment
+2007,John Farber,1.7,United States,Frutaroma,Chemicals
+2008,Jonathan Nelson,1.7,United States,Providence Equity Partners,Financial Services
+2009,Jorg Bucherer,1.7,Switzerland,Bucherer,Retail
+2010,Jose Roberto Marinho,1.7,Brazil,Grupo Globo,Media & Entertainment
+2011,Kenny Troutt,1.7,United States,Excel Communications,Telecommunications
+2012,Kentaro Ogawa,1.7,Japan,Zensho,Food & Beverages
+2013,Kim Chang-soo,1.7,South Korea,F&F,Consumer Goods
+2014,Kim Jung-woong,1.7,South Korea,GP Club,Consumer Goods
+2015,Kwang Mo Koo,1.7,South Korea,LG,Consumer Goods
+2016,Lau Cho Kun,1.7,Malaysia,Hap Seng Consolidated,Agriculture
+2017,Laurent Junique,1.7,Singapore,TDCX,Software & Services
+2018,Lesa France Kennedy,1.7,United States,Nascar Team,Media & Entertainment
+2019,Li Rucheng,1.7,China,Youngor,Consumer Goods
+2020,Liu Wei,1.7,China,Mihoyo,Media & Entertainment
+2021,Luc Tack,1.7,Belgium,Picanol,Industrial Products
+2022,Marc Krueger,1.7,Germany,Krueger,Food & Beverages
+2023,Maria Del Pino Y Calvo Soleto,1.7,Spain,Ferrovial,Construction & Engineering
+2024,Mark Bamford,1.7,United Kingdom,JCB,Industrial Products
+2025,Martin Bouygues,1.7,France,Bouygues,Construction & Engineering
+2026,Martua Sitorus,1.7,Singapore,Wilmar International,Food & Beverages
+2027,Matthew Prince,1.7,United States,Cloudflare,Software & Services
+2028,N Murray Edwards,1.7,Canada,Canadian Natural Resources,Energy
+2029,Nakul Aggarwal,1.7,India,BrowserStack,Software & Services
+2030,Nasser Khalili,1.7,United Kingdom,Art Collector,Investments
+2031,Olivier Bouygues,1.7,France,Bouygues,Construction & Engineering
+2032,P Pitchi Reddy,1.7,India,Megha Engineering & Infrastructures,Construction & Engineering
+2033,Pan Gang,1.7,China,Yili,Food & Beverages
+2034,Pavel Tykac,1.7,Czech Republic,Sev.en Energy Group,Energy
+2035,Peter Unger,1.7,Germany,Auto-Teile-Unger,Automobile & Auto Components
+2036,Poju Zabludowicz,1.7,Finland,Tamares Group,Real Estate
+2037,Red Mccombs,1.7,United States,Red McCombs Automotive,Retail
+2038,Richard Fortin,1.7,Canada,Alimentation Couche Tard,Retail
+2039,Ritesh Arora,1.7,India,BrowserStack,Software & Services
+2040,Robert Toennies,1.7,Germany,Toennies Lebensmittel,Food & Beverages
+2041,Roberto Irineu Marinho,1.7,Brazil,Grupo Globo,Media & Entertainment
+2042,Roman Trotsenko,1.7,Russia,Aeon Corporation,Services
+2043,Samuel C Swire,1.7,United Kingdom,Swire Group,Real Estate
+2044,Satish Ramanlal Mehta,1.7,India,Emcure Pharmaceuticals,Healthcare
+2045,Scott Lin Yao-Ying,1.7,China,Largan,Consumer Goods
+2046,Sun Huaiqing & Wang Xiaopu,1.7,China,Marubi,Consumer Goods
+2047,Sunil Vaswani,1.7,United Arab Emirates,Stallion,Retail
+2048,Tan Lili,1.7,China,Haid,Agriculture
+2049,Tan Yu Wei,1.7,Malaysia,Mr. D.I.Y,Retail
+2050,Tang Xiuguo,1.7,China,Sany,Industrial Products
+2051,Tiger Woods,1.7,United States,Golf,Media & Entertainment
+2052,Todd Wagner,1.7,United States,Broadcast.Com,Media & Entertainment
+2053,Trond Mohn,1.7,Norway,Frank Mohn,Industrial Products
+2054,Wang Jianfeng,1.7,China,Joyson,Automobile & Auto Components
+2055,Wang Junhao,1.7,China,JuneYao,Investments
+2056,Xiang Guangming & Wang Suqin,1.7,China,Weiming Environment Protection,Energy
+2057,Xu Xudong & Xu Ruotong,1.7,China,XuSheng Auto Technology,Automobile & Auto Components
+2058,Yang Wenlong,1.7,China,Renhe,Healthcare
+2059,Yuan Zhimin & Xiong Haitao,1.7,China,Kingfa,Chemicals
+2060,Zhang Shuangwang & Zhang Donghai,1.7,China,Yitai,Energy
+2061,Zhang Xinghai & Yan Min,1.7,China,Xiaokang,Automobile & Auto Components
+2062,Zhang Xuezheng,1.7,China,Wingtech,Semiconductors
+2063,Zhao Peng,1.7,China,Kanzhun,Software & Services
+2064,Zheng Xiaodong & Zheng Keqing,1.7,China,Tofflon,Healthcare
+2065,Zhou Qingzhi,1.7,Hong Kong,Narada,Energy
+2066,Alan Sugar,1.6,United Kingdom,Amshold,Real Estate
+2067,Alberto Palatchi,1.6,Spain,Pronovias,Consumer Goods
+2068,Alexis Lê-Quôc,1.6,United States,Datadog,Software & Services
+2069,Amit Burman,1.6,India,Dabur,Consumer Goods
+2070,Anita Zucker,1.6,United States,Intertech,Chemicals
+2071,Bahaa Hariri,1.6,Switzerland,Horizon Group,Real Estate
+2072,Bai Houshan,1.6,China,Ronbay,Energy
+2073,Brandt Louie,1.6,Canada,London Drugs,Retail
+2074,Cai huabo,1.6,China,Longsys,Semiconductors
+2075,Chen Kangping,1.6,China,Jinko,Energy
+2076,Chen Wenyuan & Zhang Qian,1.6,China,HYC,Industrial Products
+2077,Chen Yin,1.6,China,Globe,Industrial Products
+2078,Dai Wenjun,1.6,China,Juewei,Food & Beverages
+2079,Dan Wilks,1.6,United States,Wilks Masonry,Construction & Engineering
+2080,Darwin Deason,1.6,United States,Affiliated Computer Services,Software & Services
+2081,David Booth,1.6,United States,Dimensional Fund Advisors,Financial Services
+2082,Dominique Desseigne,1.6,France,Groupe Lucien Barrière,Media & Entertainment
+2083,Dong qingshi & Shi Danhong,1.6,Hong Kong,Xinyi Glass,Industrial Products
+2084,Duncan Macmillan,1.6,United States,Bloomberg,Financial Services
+2085,Elisabeth Badinter,1.6,France,Publicis Groupe,Media & Entertainment
+2086,Elizabeth T Sy,1.6,Philippines,SM Investments,Retail
+2087,Emanuella Barilla,1.6,Italy,Barilla Group,Food & Beverages
+2088,Fang Yuyou,1.6,China,Proya Cosmetics,Consumer Goods
+2089,Farris Wilks,1.6,United States,Wilks Masonry,Construction & Engineering
+2090,Francis Holder,1.6,France,Groupe Holder,Food & Beverages
+2091,Fredrik Österberg,1.6,Sweden,Evolution,Media & Entertainment
+2092,Gao Yunfeng,1.6,China,Han's Laser,Industrial Products
+2093,Gautam Dalmia,1.6,India,Dalmia Bharat,Construction & Engineering
+2094,Geng Jianming & Yang Xiaoqing,1.6,China,RiseSun,Real Estate
+2095,Gregorio Perez Companc,1.6,Argentina,Perez Companc,Energy
+2096,Gretel Packer ,1.6,Australia,Crown Resorts,Hospitality
+2097,Guido Barilla,1.6,Italy,Barilla Group,Food & Beverages
+2098,Gustavo Cisneros,1.6,Venezuela,Grupo Cisneros,Media & Entertainment
+2099,H. Lawrence Culp Jr,1.6,United States,General Electric Company,Aerospace & Defence
+2100,He Zhusheng,1.6,China,Houying,Industrial Products
+2101,Hiromasa Tsuchiya,1.6,Japan,Workman,Consumer Goods
+2102,Hu Rongda & Hu Qixiang,1.6,China,Sanmei Chemical,Chemicals
+2103,James Leininger,1.6,United States,Kinetic Concepts,Healthcare
+2104,Jayme Garfinkel,1.6,Brazil,Porto Seguro,Financial Services
+2105,Jens von Bahr,1.6,Sweden,Evolution,Media & Entertainment
+2106,Jim Crane,1.6,United States,Crane Worldwide Logistics,Transportation & Logistics
+2107,Jimmy John Liautaud,1.6,United States,Jimmy John's,Food & Beverages
+2108,Joe Kiani,1.6,United States,Masimo,Healthcare
+2109,John Calamos,1.6,United States,Calamos Asset Management,Financial Services
+2110,Johnathan Oringer,1.6,United States,Shutterstock,Media & Entertainment
+2111,Kong Jianmin,1.6,China,KWG,Real Estate
+2112,Kou Xiaokang & Gao Yuejing,1.6,China,Sunresin,Chemicals
+2113,Kristo Käärmann,1.6,United Kingdom,Wise,Financial Services
+2114,Lachman Das Mittal,1.6,India,International Tractors,Automobile & Auto Components
+2115,Lan Chun & Yang Ying,1.6,China,New Talent,Education & Training
+2116,Leonid Boguslavsky,1.6,Russia,RTP Global,Investments
+2117,Li Jianli,1.6,China,Kedali,Industrial Products
+2118,Li Jin & Li Qilin,1.6,China,Li-ning,Consumer Goods
+2119,Li Jinyang,1.6,China,Chifeng Jilong Gold Mining,Metals & Mining
+2120,Li Sze Lim,1.6,China,R & F,Real Estate
+2121,Ling bin & Wang Xi,1.6,China,KTC,Industrial Products
+2122,Liu Xiucai,1.6,China,Cathay,Healthcare
+2123,Luca Barilla,1.6,Italy,Barilla Group,Food & Beverages
+2124,Lucio Tan,1.6,Philippines,LT Group,Consumer Goods
+2125,Luo Yangyong & Liu Yuxia,1.6,China,Anning Iron And Titanium,Metals & Mining
+2126,Luo Yuhao,1.6,China,Mihoyo,Media & Entertainment
+2127,Lutz Mario Helmig,1.6,Germany,Aton,Healthcare
+2128,Mario Gabelli,1.6,United States,GAMCO,Investments
+2129,Martisa Lazari,1.6,United Kingdom,Lazari Investments,Real Estate
+2130,Miao Yongjun,1.6,China,Anto,Healthcare
+2131,Michael Ashcroft,1.6,United Kingdom,Michael Ashcroft Associates,Investments
+2132,Michael Wu Wai Kwok,1.6,Hong Kong,Maxim's Caterers,Food & Beverages
+2133,Mohamed Mansour,1.6,Egypt,Mansour,Retail
+2134,Naomi Azrieli,1.6,Canada,Azrieli Group,Real Estate
+2135,Niti Osathanugrah,1.6,Thailand,Osotspa,Food & Beverages
+2136,Pan Longquan,1.6,China,Chervon,Industrial Products
+2137,Paola Barilla,1.6,Italy,Barilla Group,Food & Beverages
+2138,Patricia Angelini Rossi,1.6,Chile,AntarChile,Investments
+2139,Peter Jackson,1.6,New Zealand,Weta FX,Media & Entertainment
+2140,Pierre Karl Péladeau,1.6,Canada,Quebecor,Media & Entertainment
+2141,Pritviraj Jindal,1.6,United Arab Emirates,JSW Steel,Metals & Mining
+2142,PV Krishna Reddy,1.6,India,Megha Engineering & Infrastructures,Construction & Engineering
+2143,Ratan Jindal,1.6,United Arab Emirates,JSW Steel,Metals & Mining
+2144,Roberto Hernandez Ramirez,1.6,Mexico,Banamex,Financial Services
+2145,Romesh T Wadhwani,1.6,United States,Symphony Technology,Investments
+2146,Saket Burman,1.6,United Arab Emirates,Dabur,Consumer Goods
+2147,Sam Goi,1.6,Singapore,Tee Yih Jia,Food & Beverages
+2148,Sanjay Agarwal,1.6,India,AU Small Finance Bank,Financial Services
+2149,Shigefumi Wada,1.6,Japan,OBIC,Software & Services
+2150,Siew Khim Ng,1.6,Indonesia,Indoritel,Retail
+2151,Stephen Smith,1.6,Canada,First National Financial,Financial Services
+2152,Su Zhigang,1.6,China,Chime Long,Hospitality
+2153,Syed Mokhtar Albukhary,1.6,Malaysia,MMC,Metals & Mining
+2154,Tan Yu Yeh,1.6,Malaysia,Mr. D.I.Y,Retail
+2155,Tao Cheng & Lu Pingfang,1.6,China,Minglida Precision,Industrial Products
+2156,Terry Mathews,1.6,Canada,Mitel Networks,Telecommunications
+2157,Thomas Steyer,1.6,United States,Farallon Capital Management,Financial Services
+2158,Tim Cook,1.6,United States,Apple,Consumer Goods
+2159,Wang Jilei,1.6,China,ZTO,Transportation & Logistics
+2160,Wang Mingliu,1.6,China,Tomorrow,Financial Services
+2161,Wang Xiaoshen,1.6,China,Ganfeng Lithium,Metals & Mining
+2162,Wang Zelong,1.6,China,CNNC,Chemicals
+2163,Werner O. Weber,1.6,Switzerland,LEM Holding,Industrial Products
+2164,Wu Bo,1.6,China,Estun,Industrial Products
+2165,Wu Shangzhi,1.6,China,CDH,Investments
+2166,Xia Xinde,1.6,China,Great Power Energy,Energy
+2167,Xiang Wenbo,1.6,China,Sany,Industrial Products
+2168,Xie Yuerong,1.6,China,Arrow Home,Construction & Engineering
+2169,Xiong Wu,1.6,China,Sangfor,Software & Services
+2170,Xu Chenye,1.6,China,Tencent,Media & Entertainment
+2171,Xu Guozhong,1.6,China,Guomao,Industrial Products
+2172,Xu Shijun & Xu Chengchen,1.6,China,Haili,Energy
+2173,Yan Xijun,1.6,China,Tasly,Healthcare
+2174,Yao Kuizhang,1.6,China,Yangyuan,Food & Beverages
+2175,Yao Xiongjie,1.6,China,Chengtun,Chemicals
+2176,Yu Minhong,1.6,China,New Oriental,Education & Training
+2177,Yu Zhuyun,1.6,China,Central Holding,Construction & Engineering
+2178,Yuan Liping,1.6,China,Kangtai Biological,Healthcare
+2179,Yves-Loic Martin,1.6,France,Eurofins Scientific,Healthcare
+2180,Zeng Wanhui & Yu Lili,1.6,China,Jingjia Mirco,Semiconductors
+2181,Zhang Bangxin,1.6,China,TAL Education,Education & Training
+2182,Zhang Keqiang,1.6,China,Huamei,Investments
+2183,Zhang Tao,1.6,China,Meituan,Transportation & Logistics
+2184,Zhang Xiaohua,1.6,China,Hongshi,Construction & Engineering
+2185,Zhong Naixiong,1.6,China,Nenking,Real Estate
+2186,Zhong Shengjian,1.6,Singapore,Yanlord,Real Estate
+2187,Zhou Wen & Guo Yiqun,1.6,China,Pret Composites,Automobile & Auto Components
+2188,Ziv Aviram,1.6,Israel,Mobileye,Software & Services
+2189,Zong Yanmin,1.6,China,Sicc,Semiconductors
+2190,Alain Taravella,1.5,France,Altarea Cogedim,Real Estate
+2191,Alan B. Miller,1.5,United States,Universal Health Services,Healthcare
+2192,Alberto Alcocer,1.5,Spain,Banco Zaragozano,Financial Services
+2193,Alberto Cortina,1.5,Spain,Banco Zaragozano,Financial Services
+2194,Alexander Svetakov,1.5,Russia,Absolut,Real Estate
+2195,Alfredo Egydio Arruda Villela Filho,1.5,Brazil,Itau Unibanco,Financial Services
+2196,Ana Lucia De Mattos Barretto Villela,1.5,Brazil,Itau Unibanco,Financial Services
+2197,Anthony Eisen,1.5,Australia,Afterpay,Financial Services
+2198,Anthony Wood,1.5,United States,Roku,Consumer Goods
+2199,Atul Ruia,1.5,India,Phoenix Mills,Real Estate
+2200,Barbara Benetton,1.5,Italy,Benetton,Consumer Goods
+2201,Bernie Ecclestone,1.5,United Kingdom,Formula One,Media & Entertainment
+2202,Bob Ell,1.5,Australia,Leda Holdings,Real Estate
+2203,Bruce Mathieson,1.5,Australia,Endeavour Group,Food & Beverages
+2204,Cao Lin & Duan Ying,1.5,China,Vazyme,Healthcare
+2205,Chen Lili & Shen Jing,1.5,China,Lihua,Agriculture
+2206,Chen Youxing,1.5,China,StarPower Semiconductor,Semiconductors
+2207,Chen Zemin,1.5,China,Sanquan Food,Food & Beverages
+2208,Chen Zhuolin & Lu Qianfang,1.5,China,Agile,Real Estate
+2209,Chris Ellison,1.5,Australia,Mineral Resources,Metals & Mining
+2210,Christian Angermayer,1.5,United Kingdom,Apeiron Investment Group,Investments
+2211,Conni Jonsson,1.5,Sweden,EQT,Investments
+2212,Cynthia Y Bruce Grossman,1.5,Mexico,Arca Continental,Food & Beverages
+2213,Deepak Chimanlal Mehta,1.5,India,Deepak Nitrite,Chemicals
+2214,Deng Yingzhong,1.5,China,Zhongshun,Consumer Goods
+2215,Divyank Turakhia,1.5,United Arab Emirates,Investments,Investments
+2216,Donald Friese,1.5,United States,CRH,Construction & Engineering
+2217,Duan Yongping,1.5,United States,BBK,Consumer Goods
+2218,Eduard Chukhlebov,1.5,Russia,UGMK,Metals & Mining
+2219,Elena Baturina,1.5,United Kingdom,Inteko,Construction & Engineering
+2220,Fang Hongbo,1.5,China,Midea,Consumer Goods
+2221,Folorunsho Alakija,1.5,Nigeria,Famfa,Energy
+2222,Francisco Jose Riberas Mera,1.5,Spain,Gestamp Automocion,Automobile & Auto Components
+2223,Frank Stronach,1.5,Canada,Magna International,Automobile & Auto Components
+2224,Frankle Widjaja,1.5,Indonesia,Sinar Mas,Paper & Forest Products
+2225,Franky Oesman Widjaja,1.5,Indonesia,Sinar Mas,Consumer Goods
+2226,Frederic B Luddy,1.5,United States,ServiceNow,Software & Services
+2227,G. Gnanalingam,1.5,Malaysia,Westports Holdings,Transportation & Logistics
+2228,Gary Magness,1.5,United States,AT&T,Telecommunications
+2229,Gleb Fetisov,1.5,Russia,Vimpelcom,Telecommunications
+2230,Gonzalve Bich,1.5,France,BIC,Retail
+2231,Gordon Wu,1.5,Hong Kong,Hopewell,Real Estate
+2232,Hanni Toosbuy Kasprzak,1.5,Denmark,Ecco,Consumer Goods
+2233,He Tao,1.5,China,Yuanxin,Software & Services
+2234,He Zhonglin,1.5,China,Rongtong,Energy
+2235,Hock E. Tan,1.5,United States,Broadcom,Semiconductors
+2236,Horst Wortmann,1.5,Germany,Wortmann,Consumer Goods
+2237,Hsu Kun-Tai,1.5,China,Clevo,Retail
+2238,Huang Jinxiang & Zhao Qirong,1.5,China,Guangxin,Chemicals
+2239,Huang Shan,1.5,China,Fortune Trend,Software & Services
+2240,Igor Kudryashkin,1.5,Russia,UGMK,Metals & Mining
+2241,Igor Makarov,1.5,Russia,Itera,Energy
+2242,Indra Widjaja,1.5,Indonesia,Sinar Mas,Consumer Goods
+2243,Jamie Dimon,1.5,United States,JPMorgan Chase,Financial Services
+2244,Jeremy Jacobs Sr,1.5,United States,Delaware North,Hospitality
+2245,Ji Haipeng,1.5,China,Logan Property,Real Estate
+2246,Jiao Zheng,1.5,China,CDH,Investments
+2247,Jing Xiandong,1.5,China,Alibaba,Retail
+2248,Joao Alves De Queiroz Filho,1.5,Brazil,Hypera Pharma,Healthcare
+2249,Johan Eliasch,1.5,United Kingdom,Head,Consumer Goods
+2250,Juan Maria Riberas Mera,1.5,Spain,Gestamp Automocion,Automobile & Auto Components
+2251,Julio Bozano,1.5,Brazil,Banco Bozano,Financial Services
+2252,Julio Mario Santo Domingo III,1.5,United States,SABMiller,Food & Beverages
+2253,K Satish Reddy,1.5,India,Dr. Reddy's Laboratories,Healthcare
+2254,Ke Guihua,1.5,China,Keboda,Automobile & Auto Components
+2255,Khouw Lip Swan,1.5,Indonesia,Kalbe Farma,Healthcare
+2256,Krishna Chivukula,1.5,India,Indo-MIM,Industrial Products
+2257,Lars Wingefors,1.5,Sweden,Embracer,Media & Entertainment
+2258,Lesley Bamberger,1.5,Netherlands,Kroonenberg Groep,Real Estate
+2259,Li Denghai,1.5,China,Denghai Seeds,Agriculture
+2260,Li Qiang,1.5,China,Pechion,Consumer Goods
+2261,Liang Xinjun,1.5,China,Fosun,Investments
+2262,Liora Ofer,1.5,Israel,Ofer Investments,Investments
+2263,Lloyd Blankfein,1.5,United States,Goldman Sachs,Financial Services
+2264,Lu Zhaoxi,1.5,China,Alibaba,Retail
+2265,Lu Zhongfang & Li Yongxin,1.5,China,Offcn,Education & Training
+2266,Lucio & Susan Co,1.5,Philippines,Cosco Capital,Retail
+2267,Mao Zhongwu,1.5,China,Sany,Industrial Products
+2268,Merlin B Swire,1.5,United Kingdom,Swire Group,Real Estate
+2269,Michael Novogratz,1.5,United States,Galaxy Investment Partners,Blockchain
+2270,Michael Tojner,1.5,Austria,Varta,Energy
+2271,Mitchell Jacobson,1.5,United States,MSC Industrial Direct,Industrial Products
+2272,Mori Arkin,1.5,Israel,Perrigo,Healthcare
+2273,Muktar Widjaja,1.5,Indonesia,Sinar Mas,Consumer Goods
+2274,Nadhmi Auchi,1.5,United Kingdom,General Mediterranean Holding,Real Estate
+2275,Nakul Chiaravanont,1.5,Thailand,CP Group,Food & Beverages
+2276,Nguyen Thi Phuong Thao,1.5,Vietnam,VietJet,Aerospace & Defence
+2277,Nick Molnar,1.5,Australia,Afterpay,Financial Services
+2278,Nigel Austin,1.5,Australia,Cotton On,Consumer Goods
+2279,Niu Yishun & Niu Teng,1.5,China,Hixih,Chemicals
+2280,Oei Hong Leong,1.5,Singapore,Sinar Mas,Consumer Goods
+2281,Philip & Tina Green,1.5,Monaco,Arcadia,Consumer Goods
+2282,Pier Luigi Piana,1.5,Italy,Loro Piana,Consumer Goods
+2283,PV Ramprasad Reddy,1.5,India,Aurobindo Pharma,Healthcare
+2284,Raghuvinder Kataria,1.5,United Arab Emirates,Kataria,Investments
+2285,Remo Stoffel,1.5,Switzerland,Vifor Pharma,Healthcare
+2286,Richard Desmond,1.5,United Kingdom,Northern & Shell,Media & Entertainment
+2287,Robert P Stiller,1.5,United States,Keurig Dr Pepper,Food & Beverages
+2288,Rolf Gerling,1.5,Switzerland,Rolf Gerling,Financial Services
+2289,Ronald Perelman,1.5,United States,Scientific Games,Media & Entertainment
+2290,Sabrina Benetton,1.5,Italy,Benetton,Consumer Goods
+2291,She Shengyang,1.5,China,Xi'An Bright,Industrial Products
+2292,Shi Yingwen & Dong Xiaoli,1.5,China,Ronghe,Real Estate
+2293,Shrikant Shankar Badve,1.5,India,Badve Engineering,Automobile & Auto Components
+2294,Steven Tisch,1.5,United States,New York Giants,Media & Entertainment
+2295,Stewart Butterfield,1.5,United States,Slack,Software & Services
+2296,Sue Gross,1.5,United States,Investments,Financial Services
+2297,Suhail Bahwan,1.5,Oman,Suhail Bahwan Group,Retail
+2298,Sukmawati Widjaja,1.5,Indonesia,Sinar Mas,Consumer Goods
+2299,Sun Yongjian,1.5,China,Bm Holding,Real Estate
+2300,Surin Upatkoon,1.5,Malaysia,InTouch,Telecommunications
+2301,Sushilkumar Kalyanji Parekh,1.5,India,Pidilite Industries,Chemicals
+2302,Tan Bingzhao,1.5,China,Nimble,Real Estate
+2303,Tang Yiu,1.5,Hong Kong,Belle,Consumer Goods
+2304,Tehu Ganda Widjaja,1.5,Indonesia,Sinar Mas,Consumer Goods
+2305,Terry Snow,1.5,Australia,Capital Airport Group,Aerospace & Defence
+2306,Teruyo Yanai,1.5,Japan,Fast Retailing,Retail
+2307,Thomas Bailey,1.5,United States,Janus Capital,Financial Services
+2308,Wang Huiwen,1.5,China,Meituan,Transportation & Logistics
+2309,Wang Jia & Yan Li,1.5,China,Venustech,Software & Services
+2310,Wang Jiandong,1.5,China,CSCEC Rongdong,Metals & Mining
+2311,Wang Miaotong & Wang Yifeng,1.5,China,Century Huatong,Media & Entertainment
+2312,Wang Wenbiao,1.5,China,Elion,Energy
+2313,William Wang,1.5,China,Formosa Plastics,Chemicals
+2314,Wu Zhongyi,1.5,China,Yealink,Software & Services
+2315,Xu Guanju,1.5,China,Chuanhua,Chemicals
+2316,Xu Qingkui & Xu Yingqiang,1.5,China,JiuYang,Metals & Mining
+2317,Xu Wanmao,1.5,China,Huamao,Consumer Goods
+2318,Yang Bing,1.5,China,Dewu,Retail
+2319,Zhu Zhaojiang,1.5,China,Transsion,Consumer Goods
+2320,Adam Neumann,1.4,United States,WeWork,Real Estate
+2321,Adrian Paval,1.4,Romania,Dedeman,Retail
+2322,Alexander Rovt,1.4,United States,IBE Trade,Real Estate
+2323,Anand Suresh Deshpande,1.4,India,Persistent Systems,Software & Services
+2324,Andrea Reimann-Ciardelli,1.4,United States,Coty,Consumer Goods
+2325,Angela Bennett,1.4,Australia,Wright Prospecting,Metals & Mining
+2326,Ashwin Damera,1.4,India,Eruditus Executive Education,Education & Training
+2327,Banwarilal Bawri,1.4,India,Macleods Pharmaceuticals,Healthcare
+2328,Bhavin Turakhia,1.4,United Arab Emirates,Zeta,Software & Services
+2329,Bhavish Aggarwal,1.4,India,ANI Technologies,Transportation & Logistics
+2330,Bill Adderley,1.4,United Kingdom,Dunelm,Consumer Goods
+2331,Bobby Arora,1.4,United Kingdom,B&M,Retail
+2332,Chan Shirong,1.4,China,Feng Tay,Consumer Goods
+2333,Chang Jianming & Fu Lei,1.4,China,Moons,Industrial Products
+2334,Chang Pyung-Soon,1.4,South Korea,Kyowon Group,Education & Training
+2335,Chen Jiancheng & Chen Yanni,1.4,China,Wolong,Industrial Products
+2336,Chen Rui,1.4,China,Bilibili,Media & Entertainment
+2337,Chen Shiliang,1.4,China,Zhejiang Tongkun,Chemicals
+2338,Chris Wallin,1.4,Australia,QCoal,Metals & Mining
+2339,Christoph Henkel,1.4,United Kingdom,Henkel,Consumer Goods
+2340,Chu Jian,1.4,China,Supcon Technology,Software & Services
+2341,Daniel Ek,1.4,Sweden,Spotify,Media & Entertainment
+2342,Elaine Wynn,1.4,United States,Wynn Resort,Hospitality
+2343,Faisal Bin Qassim Al Thani,1.4,Qatar,Aamal Co,Industrial Products
+2344,Ferit Faik Sahenk,1.4,Turkey,Dogus,Retail
+2345,Franziska Wurbser,1.4,Germany,Rational,Industrial Products
+2346,Fred Mouawad,1.4,Switzerland,Mouawad,Retail
+2347,Gabriella Meister,1.4,Germany,Rational,Industrial Products
+2348,Ge Zhiyong,1.4,China,Autowell,Energy
+2349,George J. Pedersen,1.4,United States,ManTech International,Aerospace & Defence
+2350,Girdharilal Bawri,1.4,India,Macleods Pharmaceuticals,Healthcare
+2351,Gu Wei,1.4,China,Mtc,Consumer Goods
+2352,Harsh Vardhan Goenka,1.4,India,RPG Enterprises,Energy
+2353,Henry Laufer,1.4,United States,Renaissance Technologies,Financial Services
+2354,Huang Junkang,1.4,China,Topspring,Real Estate
+2355,Ian Henrick Lundin,1.4,Switzerland,Nemesia,Energy
+2356,Ian Wood,1.4,United Kingdom,Wood Group,Energy
+2357,Ilkka Herlin,1.4,Finland,KONE,Industrial Products
+2358,Ion Tiriac,1.4,Romania,UniCredit Tiraic Bank,Financial Services
+2359,Ivan Muller Botelho,1.4,Brazil,Energisa,Energy
+2360,Jeffrey Lorberbaum,1.4,United States,Mohawk Industries,Construction & Engineering
+2361,Jiang Biwang & Chen Rongji,1.4,China,Nanomicro,Industrial Products
+2362,Jiang Guiting & Song Guihua,1.4,China,Jingjin,Industrial Products
+2363,Jobst Wagner,1.4,Switzerland,Rehau,Chemicals
+2364,Johannes Karcher,1.4,Germany,Alfred Karcher,Consumer Goods
+2365,John Van Lieshout,1.4,Australia,Super Amart Furniture,Consumer Goods
+2366,Jost Hellmann,1.4,Germany,Hellmann Worldwide Logistics,Transportation & Logistics
+2367,Kanye West,1.4,United States,Yeezy,Consumer Goods
+2368,Ke Jinlong & Wang Chunchan,1.4,China,Dashenlin,Healthcare
+2369,Ke Kangbao,1.4,China,Dashenlin,Healthcare
+2370,Ke Yunfeng & Liang Xiaolin,1.4,China,Dashenlin,Healthcare
+2371,Ke Zunhong,1.4,China,Kanghong Pharmaceuticals,Healthcare
+2372,Kenneth C Rowe,1.4,Canada,IMP Group International,Investments
+2373,Kevin Plank,1.4,United States,Under Armour,Consumer Goods
+2374,Kishore R. Chhabria,1.4,India,Allied Blenders & Distillers,Food & Beverages
+2375,Klaus Hellmann,1.4,Germany,Hellmann Worldwide Logistics,Transportation & Logistics
+2376,Koo Bon Sik,1.4,South Korea,Heesung Electronics,Software Industrial
+2377,Krit Ratanarak,1.4,Thailand,Bank Of Ayudhya,Financial Services
+2378,Li Aizhen & Shao Zengming,1.4,China,Liliang,Industrial Products
+2379,Li Kwok-po,1.4,Hong Kong,BEA,Financial Services
+2380,Li Weiwei,1.4,China,37 Interactive Entertainment,Media & Entertainment
+2381,Li Xiaoming,1.4,China,Desea,Real Estate
+2382,Li Zhigang,1.4,China,DR Laser,Industrial Products
+2383,Lionel Viret,1.4,France,Stago,Healthcare
+2384,Liu Fangyi,1.4,China,Intco,Healthcare
+2385,Liu Zhendong,1.4,China,Liando,Real Estate
+2386,Lou Xiaoqiang & Zheng Bei,1.4,China,Pharmaron,Healthcare
+2387,Lu Keping & Yu Qinfen,1.4,China,Jiangsu Sunshine,Consumer Goods
+2388,Luiza Helena Trajano,1.4,Brazil,Magazine Luiza,Retail
+2389,Marc Lasry,1.4,United States,Avenue Capital,Financial Services
+2390,Marina Budiman,1.4,Indonesia,DCI Indonesia,Software & Services
+2391,Marius Nacht,1.4,Israel,Check Point,Software & Services
+2392,Martin Moller Nielsen,1.4,United Kingdom,Nordic Aviation Capital,Aerospace & Defence
+2393,Masateru Uno,1.4,Japan,Cosmos Pharmaceutical,Retail
+2394,Massimo Moratti,1.4,Italy,Saras,Energy
+2395,Mathias Döpfner,1.4,Germany,Axel Springer,Media & Entertainment
+2396,Michael Lee-Chin,1.4,Canada,National Commercial Bank,Financial Services
+2397,Mohammed Ibrahim,1.4,United Kingdom,Celtel,Telecommunications
+2398,Naoki Tada,1.4,Japan,Sundrug,Retail
+2399,Nehal Abhay Vakil,1.4,India,Asian Paints,Chemicals
+2400,Olivier Pelat,1.4,France,Europequipements,Real Estate
+2401,Or Wai Sheun,1.4,Hong Kong,Polytec Asset,Real Estate
+2402,Othman Benjelloun,1.4,Morocco,BMCE Bank,Financial Services
+2403,P Roy Vagelos,1.4,United States,Regeneron,Healthcare
+2404,Prakash Chauhan,1.4,India,Parle Agro,Food & Beverages
+2405,Rajeev Juneja,1.4,India,Mankind Pharma,Healthcare
+2406,Rajendra Agarwal,1.4,India,Macleods Pharmaceuticals,Healthcare
+2407,Rajinder Gupta,1.4,India,Trident,Consumer Goods
+2408,Ramesh Juneja,1.4,India,Mankind Pharma,Healthcare
+2409,Rameswar Rao Jupally,1.4,India,My Home Industries,Construction & Engineering
+2410,Rihanna,1.4,United States,Music,Media & Entertainment
+2411,Rit Thirakomen,1.4,Thailand,MK Restaurant,Food & Beverages
+2412,Roger De Haan,1.4,United Kingdom,Saga,Financial Services
+2413,Rong Zhijian,1.4,Hong Kong,CITIC,Investments
+2414,Ruan Shuilong,1.4,China,Lonsen,Chemicals
+2415,Ryan Smith,1.4,United States,Qualtrics,Software & Services
+2416,Sadri Fegaier,1.4,France,SFAM,Financial Services
+2417,Sam Tarascio,1.4,Australia,Salta Properties,Real Estate
+2418,Shen Dongri,1.4,China,Lancy,Retail
+2419,Shen Ya,1.4,China,Vipshop,Retail
+2420,Shin Chang Jae,1.4,South Korea,Kyobo Life Insurance,Financial Services
+2421,Simon Arora,1.4,United Kingdom,B&M,Retail
+2422,Simona Giorgetta,1.4,Italy,Mapei,Chemicals
+2423,Somsri Lumsam ,1.4,Thailand,CP Group,Food & Beverages
+2424,Song Weiping & Xia Yibo,1.4,China,Greentown,Real Estate
+2425,Stephen Lansdown,1.4,United Kingdom,Hargreaves Lansdown,Financial Services
+2426,Steve Case,1.4,United States,AOL,Media & Entertainment
+2427,Strive Masiyiwa,1.4,United Kingdom,Liquid Telecom,Telecommunications
+2428,Sun Huigang,1.4,China,Wanhua,Investments
+2429,Susanne Zimmermann Von Siefart,1.4,Germany,Alfred Karcher,Consumer Goods
+2430,Tang Wee Kit,1.4,Singapore,CK Tang,Retail
+2431,Tran Dinh Long,1.4,Vietnam,Hoa Phat Group,Metals & Mining
+2432,Ulrike Meister,1.4,Germany,Rational,Industrial Products
+2433,Vasily Anisimov,1.4,Russia,Coalco,Real Estate
+2434,Veit Wagner,1.4,Switzerland,Rehau,Chemicals
+2435,Wang Koo Yik-Chun,1.4,Hong Kong,Johnson Electric,Industrial Products
+2436,Xie Ketao,1.4,Hong Kong,China Education,Education & Training
+2437,Xiong Xiaochuan,1.4,China,Mehow Innovative,Healthcare
+2438,Yan Junxu,1.4,China,Titan,Energy
+2439,Ye Qiongjiu,1.4,China,Hithink RoyalFlush,Software & Services
+2440,Ying Shuling,1.4,China,Yingxiong,Media & Entertainment
+2441,Yu Guo,1.4,Hong Kong,China Education,Education & Training
+2442,Zbigniew Juroszek,1.4,Poland,STS,Media & Entertainment
+2443,Zhang Dazhong,1.4,China,Dazhong,Investments
+2444,Zhang Guobiao & Zhang Xincheng,1.4,China,Forchn,Investments
+2445,Zhang Weixiang,1.4,China,Jianlong,Industrial Products
+2446,Zhang Xuansong,1.4,China,Yonghui Superstores,Retail
+2447,Zhong Huaijun &,1.4,China,Ziyan Foods,Food & Beverages
+2448,Zhou Zhenke,1.4,China,Dasheng Times Cultural,Media & Entertainment
+2449,Zhu Yiming,1.4,China,GigaDevice Semiconductor,Semiconductors
+2450,Abdullah bin Sulaiman Al Rajhi,1.3,Saudi Arabia,Al Rajhi Banking & Investment,Financial Services
+2451,Abhay Soi,1.3,India,Max Healthcare Institute,Healthcare
+2452,Alex C. Lo & Shirley Kao,1.3,China,Uni-President,Food & Beverages
+2453,Alexander Karp,1.3,United States,Palantir Technologies,Software & Services
+2454,Alfred West Jr,1.3,United States,SEI,Financial Services
+2455,An Zhifu,1.3,China,Fulin,Transportation & Logistics
+2456,Angela Leong on-ki,1.3,China,SJM Holdings,Media & Entertainment
+2457,Anthony Casalena,1.3,United States,Squarespace,Software & Services
+2458,Apoorva Mehta,1.3,United States,Instacart,Transportation & Logistics
+2459,Ashwin Desai,1.3,India,Aether Industries,Chemicals
+2460,Balkrishan Goenka,1.3,India,Welspun,Consumer Goods
+2461,Brad Garlinghouse,1.3,United States,Ripple,Blockchain
+2462,Cai Mingtong & Cai Jingfu,1.3,China,Torch Electron Technology,Industrial Products
+2463,Cao Kejian,1.3,China,KaiShan,Industrial Products
+2464,Chen Baohua,1.3,China,Huahai Pharmaceutical,Healthcare
+2465,Chen Dejun,1.3,China,Shentong Express,Transportation & Logistics
+2466,Chen Shengqiang,1.3,China,JD Digits,Software & Services
+2467,Chen Tei-Fu,1.3,United States,Sunrider,Retail
+2468,Chen Xueling,1.3,China,M&G Stationery,Consumer Goods
+2469,Chen Yinhe,1.3,China,Milkyway,Services
+2470,Cho Jyh-jer,1.3,China,Media Tek,Semiconductors
+2471,Dai Wenyuan & Wu Min,1.3,China,Fourth Paradigm,Software & Services
+2472,David & Vicky Teoh,1.3,Australia,TPG Telecom,Telecommunications
+2473,Devi Prasad Shetty,1.3,India,Narayana Hrudayalaya,Healthcare
+2474,Diego Della Valle,1.3,Italy,Tod's,Consumer Goods
+2475,Domenico Dolce,1.3,Italy,Dolce & Gabbana,Consumer Goods
+2476,Dominique Heriard Dubreuil,1.3,France,Remy Cointreau,Food & Beverages
+2477,Duncan Wen-Shan Wang,1.3,China,United Daily News,Media & Entertainment
+2478,Eddy Kusnadi Sariaatmadja,1.3,Indonesia,Emtek,Software & Services
+2479,Edouard Carmignac,1.3,France,Carmignac Gestion ,Investments
+2480,Emilio Azcarraga Jean,1.3,Mexico,Televisia,Media & Entertainment
+2481,Eugene Wu,1.3,China,Shin Kong,Financial Services
+2482,Feng Huanpei & Fan Zhaoxia,1.3,China,Jing Yun Tong,Energy
+2483,Filiz Sahenk,1.3,Turkey,Dogus,Retail
+2484,Florentino Perez,1.3,Spain,Actividades De Construcción Y Servicios,Construction & Engineering
+2485,François Hériard Dubreuil,1.3,France,Remy Cointreau,Food & Beverages
+2486,Gan Zhongru,1.3,China,Gan & Lee Pharmaceuticals,Healthcare
+2487,George M Marcus,1.3,United States,Marcus & Millichap,Real Estate
+2488,Gerry Harvey,1.3,Australia,Harvey Norman,Retail
+2489,GM Rao,1.3,India,GMR,Construction & Engineering
+2490,Guo Jiangang,1.3,China,Donlim Kitchen,Consumer Goods
+2491,Heinrich Weiss,1.3,Germany,SMS Group,Construction & Engineering
+2492,Helga Kellerhals,1.3,Austria,MediaMarkt,Retail
+2493,Henry Moser,1.3,United Kingdom,Together Financial Services,Financial Services
+2494,Hu Chengzhong,1.3,China,Delixi,Industrial Products
+2495,Hu Xiaojun & Xu Wei,1.3,China,China Express,Aerospace & Defence
+2496,Huang Guanlin,1.3,China,Shenzhou,Consumer Goods
+2497,Huang Shikun,1.3,China,Kinghood,Retail
+2498,Isara Vongkusolkit,1.3,Thailand,Mitr Phol,Agriculture
+2499,James Cabela,1.3,United States,Cabela,Retail
+2500,Jay Z,1.3,United States,Music,Media & Entertainment
+2501,Jeffrey Michael,1.3,United States,Corvel Corporation,Software & Services
+2502,Jeffrey Tangney,1.3,United States,Doximity,Healthcare
+2503,Jenny Lindén Urnes,1.3,Sweden,Lindéngruppen,Industrial Products
+2504,Jiang Wei & You Jie,1.3,China,Haohai,Healthcare
+2505,John McConnell,1.3,United States,Worthington Industries,Metals & Mining
+2506,Jorge Mas,1.3,United States,MasTec,Construction & Engineering
+2507,Jose Luis Del Rio Goudie,1.3,Chile,SACI Falabella,Retail
+2508,Katrin Haub,1.3,Germany,Tengelmann,Retail
+2509,Ke Xiping,1.3,China,Hengxing,Investments
+2510,Keeree Kanjanapas,1.3,Thailand,BTS Skytrain,Transportation & Logistics
+2511,Kiki Barki,1.3,Indonesia,Harum Energy,Energy
+2512,Kutayba Alghanim,1.3,Kuwait,Alghanim Industries,Retail
+2513,Li Guoqing,1.3,China,RongSheng,Chemicals
+2514,Li Kuo,1.3,China,Babycare,Consumer Goods
+2515,Li Ruiqiang,1.3,China,Novogene,Healthcare
+2516,Li Shuibo,1.3,China,Kinglai,Industrial Products
+2517,Li Xiaolin,1.3,China,Linda,Real Estate
+2518,Li Xuhui,1.3,China,Haitian,Food & Beverages
+2519,Li Yongqing,1.3,China,RongSheng,Chemicals
+2520,Li Zhen,1.3,China,Anhui Guoxuan,Energy
+2521,Li Zhiyuan & Jing Yuqing,1.3,China,Jinpan Smart Technology,Industrial Products
+2522,Liang Tongcan,1.3,China,Hongyu,Construction & Engineering
+2523,Liang Yaoming,1.3,China,Kingmed,Healthcare
+2524,Lin Haifeng,1.3,China,Risen,Energy
+2525,Liu Minghui,1.3,Hong Kong,China Gas,Energy
+2526,Liu Quan,1.3,China,United IT,Retail
+2527,Lottie Tham,1.3,Sweden,H&M,Consumer Goods
+2528,Lou Boliang,1.3,China,Pharmaron,Healthcare
+2529,Lu Zongjun,1.3,China,Zhonggu,Transportation & Logistics
+2530,Manfredi Lefebvre d'Ovidio,1.3,Monaco,Silversea Cruises,Hospitality
+2531,Manohar Lal Agarwal,1.3,India,Haldiram Snacks,Food & Beverages
+2532,Marc Hériard Dubreuil,1.3,France,Remy Cointreau,Food & Beverages
+2533,Marco Squinzi,1.3,Italy,Mapei,Chemicals
+2534,Mario Moretti Polegato,1.3,Italy,Geox,Consumer Goods
+2535,Martin Michaeli,1.3,France,Mephisto,Consumer Goods
+2536,Michael Heine,1.3,Australia,Netwealth Group,Financial Services
+2537,Michael Spencer,1.3,United Kingdom,NEX Group,Financial Services
+2538,Michiel Le Roux,1.3,South Africa,Capitec Bank,Financial Services
+2539,Mohammed Dewji,1.3,Tanzania,METL,Transportation & Logistics
+2540,Murlidhar Gyan Chandani,1.3,India,RSPL,Consumer Goods
+2541,Nie Yunchen,1.3,China,Heytea,Food & Beverages
+2542,Ouyang Yongyue,1.3,China,Shangtai Technology,Chemicals
+2543,Pan Jianqing,1.3,China,TDG,Industrial Products
+2544,Pavel Baudis,1.3,Czech Republic,Gen Digital,Software & Services
+2545,Petter Stordalen,1.3,Norway,Nordic Choice Hotel,Hospitality
+2546,Philip Fayer,1.3,Canada,Nuvei,Financial Services
+2547,Qian Xiaojun,1.3,China,United IT,Retail
+2548,Ranjit & Beljinder Boparan,1.3,United Kingdom,2 Sisters Food,Food & Beverages
+2549,Rao Wei,1.3,China,New Industries,Healthcare
+2550,Richard Hayne,1.3,United States,Urban Outfitters,Consumer Goods
+2551,Robert Fayaz Mouwad,1.3,Switzerland,Mouawad,Retail
+2552,Robert Muglia,1.3,United States,Snowflake,Software & Services
+2553,Roman Avdeev,1.3,Russia,Credit Bank Of Moscow,Financial Services
+2554,Ryan Graves,1.3,United States,Uber,Transportation & Logistics
+2555,Samir Kalyanji Patel,1.3,India,Farmson Pharmaceutical,Healthcare
+2556,Sathien Setthasit,1.3,Thailand,Carabao Group,Food & Beverages
+2557,Scott Nuttall,1.3,United States,KKR,Investments
+2558,Shen Hanbiao & Wang Miaoyu,1.3,China,Hotata,Consumer Goods
+2559,Sheng Baijiao,1.3,China,Belle,Retail
+2560,Shi Yufeng & Zong Liping,1.3,China,Paike,Metals & Mining
+2561,Sidney Kimmel,1.3,United States,Jones,Consumer Goods
+2562,Simon Nixon,1.3,United Kingdom,Moneysupermarkets.com,Financial Services
+2563,Solomon Lew,1.3,Australia,Premier Investments,Retail
+2564,Song Fei,1.3,China,Eddie Precision Machinery,Industrial Products
+2565,Stefano Gabbana,1.3,Italy,Dolce & Gabbana,Consumer Goods
+2566,Stephan Schnabel,1.3,Germany,Helm,Chemicals
+2567,Steve Morgan,1.3,United Kingdom,Redrow,Construction & Engineering
+2568,Su Chun-Sing,1.3,China,Hotai Motor,Retail
+2569,Sun Xishuang,1.3,China,Yifang,Real Estate
+2570,Sun Yi,1.3,China,Zhefu Holding,Industrial Products
+2571,Sytse Sijbrandij,1.3,United States,Gitlab,Software & Services
+2572,Tang Aoqi,1.3,China,Xinquan,Automobile & Auto Components
+2573,Tao Yi,1.3,China,Boke,Media & Entertainment
+2574,Thomas Kurian,1.3,United States,Oracle,Software & Services
+2575,Tony Chen Shih-Ching & Chiang Tsui-Ying,1.3,China,Largan,Consumer Goods
+2576,Tony Xu,1.3,United States,DoorDash,Transportation & Logistics
+2577,Turgay Ciner,1.3,Turkey,Ciner,Chemicals
+2578,Ulrich Mommert,1.3,Austria,ZKW,Automobile & Auto Components
+2579,Vardis Vardinoyannis,1.3,Greece,Motor Oil Hellas,Trading
+2580,Veronica Squinzi,1.3,Italy,Mapei,Chemicals
+2581,Victor Pinchuk,1.3,Ukraine,Interpipe,Industrial Products
+2582,Vinod Khosla,1.3,United States,Khosla Ventures,Investments
+2583,Wan Feng,1.3,China,CTI,Healthcare
+2584,Wang Fuji,1.3,China,Pientzehuang Pharmaceutical,Healthcare
+2585,Wang Xinwen,1.3,China,Lilith,Media & Entertainment
+2586,Wang Yiping,1.3,China,Jifeng,Automobile & Auto Components
+2587,Wei Jinkun & Wei Lidong,1.3,China,Weaver Network,Software & Services
+2588,Wichai Thongtang,1.3,Thailand,Bangkok Dusit Medical Services,Healthcare
+2589,Wiet Pot,1.3,Netherlands,IMC,Investments
+2590,Wilfred Wang,1.3,China,Formosa Plastics,Chemicals
+2591,William Fisher,1.3,United States,GAP,Consumer Goods
+2592,Wu Kaiting,1.3,China,Malata,Consumer Goods
+2593,Xia Dinghu & Xia Yingsong,1.3,China,Zhongding,Automobile & Auto Components
+2594,Xiong Fengxiang & Xiong Jun,1.3,China,Jushi Biosciences,Healthcare
+2595,Xu Guanbao,1.3,China,Chuanhua,Chemicals
+2596,Xu Yuejuan,1.3,China,RongSheng,Chemicals
+2597,Xue Jiping,1.3,China,ZTT,Industrial Products
+2598,Yang Bo,1.3,China,Hoymiles,Industrial Products
+2599,Yang Zhimao & Zhu Fenglian,1.3,China,New Century Science and Education,Investments
+2600,Ye Delin & Li Yao,1.3,China,New Pearl,Construction & Engineering
+2601,Ye Yanqiao,1.3,China,Haitian,Food & Beverages
+2602,Yeh Kuo-I,1.3,China,Inventec,Consumer Goods
+2603,Yi Xianzhong,1.3,China,Bio-Thera,Healthcare
+2604,Yuan Guibao & Yuan Xiaoxi,1.3,China,Hongbao,Real Estate
+2605,Zadik Bino,1.3,Israel,Paz Oil,Energy
+2606,Zeng Kaitian,1.3,China,37 Interactive Entertainment,Media & Entertainment
+2607,Zhang Bo,1.3,China,Meituan,Transportation & Logistics
+2608,Zhang Fangliang,1.3,China,Genscript,Healthcare
+2609,Zhang Hui,1.3,China,Full Truck Alliance,Transportation & Logistics
+2610,Zhang Jinfang,1.3,China,Chipone,Semiconductors
+2611,Zhang Simin & Wang Jinsong,1.3,China,Neptunus,Healthcare
+2612,Zhang Yue & Lai Yujing,1.3,China,Broad,Construction & Engineering
+2613,Zhang Zhenchao,1.3,China,Servyou Software,Software & Services
+2614,Zhao Tongtong,1.3,China,Home Inn,Hospitality
+2615,Zhao Yueling,1.3,China,Jinlin,Chemicals
+2616,Zhou Xianhai & Wang Xiaoli,1.3,China,Dingsheng New Material,Metals & Mining
+2617,Zhou Yan,1.3,China,AIM,Healthcare
+2618,Joel Glazer,1.2,United States,Tampa Bay Buccaneers,Media & Entertainment
+2619,Aidan Barclay,1.2,United Kingdom,The Very Group,Retail
+2620,Albert Berner,1.2,Germany,Berner Group,Industrial Products
+2621,Ali Ghodsi,1.2,United States,Databricks,Software & Services
+2622,Alistair Barclay,1.2,United Kingdom,The Very Group,Retail
+2623,Anthony Christopher Gallagher,1.2,United Kingdom,Gallagher Estates,Real Estate
+2624,Aras Agalarov,1.2,Russia,Crocus,Real Estate
+2625,Archie Hwang,1.2,China,HermesEpitek,Semiconductors
+2626,Arvind Lal,1.2,India,Dr Lal PathLabs,Healthcare
+2627,Astrid Bellon,1.2,France,Sodexo,Food & Beverages
+2628,Austin Russel,1.2,United States,Luminar Technologies,Automobile & Auto Components
+2629,Aziz Akhannouch,1.2,Morocco,Akwa Group,Energy
+2630,Bao Songan,1.2,China,Yilian,Investments
+2631,Bassam Alghanim,1.2,United States,Alghanim Industries,Retail
+2632,Benoit Dageville,1.2,United States,Snowflake,Software & Services
+2633,Bent Jensen,1.2,Denmark,Linak Holdings,Industrial Products
+2634,Cao Guowei,1.2,China,Weibo,Media & Entertainment
+2635,Cao Xiaochun,1.2,China,Tigermed Consulting,Healthcare
+2636,Cargill Macmillan III,1.2,United States,Cargill,Agriculture
+2637,Carmen Thyssen-Bornemisza,1.2,Spain,Art Collector,Investments
+2638,Charles Brandes,1.2,United States,Brandes Investment Partners,Financial Services
+2639,Chen Zhisheng,1.2,China,Wuxi Biologics,Healthcare
+2640,Cheng Wei,1.2,China,Didi,Transportation & Logistics
+2641,Cristiano Ronaldo,1.2,Saudi Arabia,Footballer,Media & Entertainment
+2642,David Feffer,1.2,Brazil,Suzano,Paper & Forest Products
+2643,David Penaloza Alanis,1.2,Mexico,Pinfra,Construction & Engineering
+2644,Dharmesh Shah,1.2,India,BDR Pharmaceuticals International,Healthcare
+2645,Dinara Kulibayeva,1.2,Kazakhstan,Halyk Bank,Financial Services
+2646,Ding Shuibo,1.2,China,Xtep,Consumer Goods
+2647,Dulce Pugliese De Godoy Bueno,1.2,Brazil,DASA,Healthcare
+2648,Duncan Barclay,1.2,United Kingdom,The Very Group,Retail
+2649,Eduard Kučera,1.2,Czech Republic,Avast,Software & Services
+2650,Edward Fitzgerald,1.2,United States,EQT,Financial Services
+2651,Eiichi Kuriwada,1.2,Japan,Sagawa Express,Transportation & Logistics
+2652,Erman Ilicak,1.2,Turkey,Ronesans Holding,Construction & Engineering
+2653,Faizal Kottikollon,1.2,United Arab Emirates,KEF Holdings,Investments
+2654,Fang Tonghua,1.2,China,ZBD,Healthcare
+2655,François-Xavier Bellon,1.2,France,Sodexo,Food & Beverages
+2656,Fu Shenglong,1.2,China,Dahan,Trading
+2657,Gaston Glock,1.2,Austria,Glock,Aerospace & Defence
+2658,GSK Velu,1.2,India,Trivitron Healthcare,Healthcare
+2659,Hamdi Akin,1.2,Turkey,Afken Holding,Construction & Engineering
+2660,Hans-Ueli Rihs,1.2,Switzerland,Sonova,Healthcare
+2661,Hari Bhartia,1.2,India,Jubilant FoodWorks,Food & Beverages
+2662,Hasmukh Chudgar,1.2,India,Intas Pharmaceuticals,Healthcare
+2663,He Zuxun,1.2,China,Shennong Agricultural Industry,Agriculture
+2664,Henry Engelhardt,1.2,United Kingdom,Admiral Group,Financial Services
+2665,Hirokazu Sugiara,1.2,Japan,Sugi Holdings,Retail
+2666,Ho Hung Anh,1.2,Vietnam,Techcombank,Financial Services
+2667,Hou Changcai,1.2,China,Yuanchang,Real Estate
+2668,Howard Barclay,1.2,United Kingdom,The Very Group,Retail
+2669,Ilona Herlin,1.2,Finland,KONE,Industrial Products
+2670,Ion Stoica,1.2,United States,Databricks,Software & Services
+2671,Jae-Yong Lee,1.2,South Korea,Samsung Life Insurance,Financial Services
+2672,Jared Smith,1.2,United States,Qualtrics,Software & Services
+2673,Jaroslav Hascak,1.2,Slovakia,Penta Investments,Investments
+2674,Jiang Nan,1.2,China,Shengfeng,Real Estate
+2675,Jim Mccoll,1.2,United Kingdom,Clyde Blowers Capital,Industrial Products
+2676,JK Rowling,1.2,United Kingdom,Harry Potter,Media & Entertainment
+2677,John Kusuma,1.2,Indonesia,Bank Aladin Syariah,Financial Services
+2678,John Macmillan,1.2,United States,Cargill,Agriculture
+2679,Jonas Kamprad,1.2,United Kingdom,Ikano,Real Estate
+2680,Kailashchandra Nuwal,1.2,India,Solar Industries India,Chemicals
+2681,Kostyantyn Zhevago,1.2,Ukraine,Ferrexpo,Metals & Mining
+2682,Kwee Liong Keng,1.2,Singapore,Pontiac Land,Real Estate
+2683,Kwee Liong Phing,1.2,Singapore,Pontiac Land,Real Estate
+2684,Kwee Liong Seen,1.2,Singapore,Pontiac Land,Real Estate
+2685,Kwee Liong Tek,1.2,Singapore,Pontiac Land,Real Estate
+2686,Lai Miao,1.2,China,Ganten,Food & Beverages
+2687,Larry Fink,1.2,United States,BlackRock,Financial Services
+2688,LeBron James,1.2,United States,Basket ball,Media & Entertainment
+2689,Leonid Simanovsky,1.2,Russia,Novatek,Energy
+2690,Li Baoping,1.2,China,HuangHe Mining,Energy
+2691,Lionel Messi,1.2,France,Footballer,Media & Entertainment
+2692,Liu Qingfeng,1.2,China,Iflytek,Software & Services
+2693,Liu Wei,1.2,China,PCI-Suntek,Software & Services
+2694,Lu Hongyan,1.2,China,G-bits,Software & Services
+2695,Lu Yonghua & Mao Caihong,1.2,China,Linyang,Energy
+2696,Lv Shaolin & Cheng Caixia,1.2,China,Bozhon Precision,Industrial Products
+2697,Lyu Peirong,1.2,China,Dadi,Investments
+2698,Lyu Yixiong,1.2,China,Chicmax,Consumer Goods
+2699,Marek Dospiva,1.2,Czech Republic,Penta Investments,Investments
+2700,Martha Macmillan,1.2,United States,Cargill,Agriculture
+2701,Mary Vy Ty,1.2,Philippines,GT Capital,Financial Services
+2702,Matei Zaharia,1.2,United States,Databricks,Software & Services
+2703,Mathias Kamprad,1.2,United Kingdom,Ikano,Real Estate
+2704,Mehmet Nazif Gunal,1.2,Turkey,Mapa Group,Construction & Engineering
+2705,Miao Shuangda,1.2,China,Shuangliang,Industrial Products
+2706,Michael Kim,1.2,South Korea,MBK Partners,Investments
+2707,Michael Teel,1.2,United States,Raleys,Retail
+2708,Mika Anttonen,1.2,Finland,St1 Group,Energy
+2709,Mike Danson,1.2,United Kingdom,GlobalData,Software & Services
+2710,Mohammed Serafi,1.2,Saudi Arabia,Makkah Construction,Real Estate
+2711,Nathalie Bellon-Szabo,1.2,France,Sodexo,Food & Beverages
+2712,Oleg Boyko,1.2,Switzerland,Finstar Financial,Investments
+2713,Olivier Pomel,1.2,United States,Datadog,Software & Services
+2714,Omid Kordestani,1.2,United States,Alphabet,Media & Entertainment
+2715,Pankaj Munjal,1.2,India,Hero Cycles,Consumer Goods
+2716,Paul McCartney,1.2,United Kingdom,Music,Media & Entertainment
+2717,Peng Yongdong,1.2,China,KE,Real Estate
+2718,Per & Winnie Enevoldsen,1.2,Denmark,Pandora,Retail
+2719,Peter Kamprad,1.2,Belgium,Ikano,Real Estate
+2720,Peter Kelly,1.2,United Kingdom,Softcat,Software & Services
+2721,Peter Sondakh,1.2,Indonesia,Express Transindo Utama,Transportation & Logistics
+2722,Qiao Zhiyong,1.2,China,Qiaoyuan Gas,Chemicals
+2723,Qin Long,1.2,China,Sentury,Chemicals
+2724,Qiu Guogen & Luo Yi,1.2,China,Chongyang,Investments
+2725,Rajesh Sharma,1.2,India,Capri Global Capital,Financial Services
+2726,Rajiv Modi,1.2,India,Cadila Pharmaceuticals,Healthcare
+2727,Sanford Weill,1.2,United States,Citi,Financial Services
+2728,Sarah A Bany,1.2,United States,Columbia Sportswear,Consumer Goods
+2729,Scott Smith,1.2,United States,Qualtrics,Software & Services
+2730,Serge Varsano,1.2,France,Sucden,Trading
+2731,Shao Xiaofeng,1.2,China,Alibaba,Retail
+2732,Shi Huiyong & Shi Yibei,1.2,China,Gongdong Medical Technology,Healthcare
+2733,Shi Kerong,1.2,China,Sanhe Hopefull,Food & Beverages
+2734,Shum Chiu Hung & Li Yiping,1.2,China,Times China,Real Estate
+2735,Shyam Bhartia,1.2,Singapore,Jubilant FoodWorks,Food & Beverages
+2736,Sophie Bellon,1.2,France,Sodexo,Food & Beverages
+2737,Stéphane Bonvin,1.2,Switzerland,Investis Holding,Real Estate
+2738,Stephen Jarislowsky,1.2,Canada,Jarislowsky Fraser,Financial Services
+2739,Sue Ann Hamm,1.2,United States,Investments,Investments
+2740,Sun Hongjun,1.2,China,Awinic,Semiconductors
+2741,Sun Qinghuan & Sun Xiangbang,1.2,China,MLS,Consumer Goods
+2742,Sven Hagströmer,1.2,Sweden,Creades,Investments
+2743,Thomas Lau Luen-hung,1.2,Hong Kong,Lifestyle,Real Estate
+2744,Thomas Wu,1.2,China,Shin Kong,Financial Services
+2745,Tran Ba Duong,1.2,Vietnam,Truong Hai Auto,Automobile & Auto Components
+2746,Vadim Novinsky,1.2,Ukraine,Metinvest,Metals & Mining
+2747,Wang Lizhan,1.2,China,Haitian,Food & Beverages
+2748,Wang Shirui,1.2,China,Medlinker,Healthcare
+2749,Wang Yihui,1.2,China,Jiahua Dongfang,Investments
+2750,Wei Xuezhuan,1.2,China,Wonfull,Chemicals
+2751,William Foley,1.2,United States,Vegas Golden Knights,Financial Services
+2752,William Macmillan,1.2,United States,Cargill,Agriculture
+2753,Winarko Sulistyo,1.2,Indonesia,Fajar Surya Wisesa,Paper & Forest Products
+2754,Wu Yonghua,1.2,China,Anta,Consumer Goods
+2755,Xie Zilong & Chen Xiulan,1.2,China,Laobaixing,Retail
+2756,Xu Jiangnan & Xu Jing,1.2,China,Tianxin Pharmaceutical,Healthcare
+2757,Xu Jin,1.2,China,Kouzi Distillery,Food & Beverages
+2758,Xu Yong,1.2,China,Baidu,Media & Entertainment
+2759,Yao Junliang,1.2,China,Meijing Energy,Energy
+2760,Yasuhiro Fukushima,1.2,Japan,Square Enix Holdings,Media & Entertainment
+2761,Yogesh Mathradas Kothari,1.2,India,Alkyl Amines Chemicals,Chemicals
+2762,Yu Haijun,1.2,China,Baolide,Retail
+2763,Zhang Hua,1.2,China,Fuhua,Agriculture
+2764,Zhang Liguo,1.2,China,Voolga,Consumer Goods
+2765,Zheng Hong & Zheng Xiaodan,1.2,China,Yuanliu Hongyuan,Semiconductors
+2766,Zhou Guohui,1.2,China,Eternal Asia,Transportation & Logistics
+2767,Zhou Weijian,1.2,China,Maydos,Construction & Engineering
+2768,Zhu Min & Xu Yuqing,1.2,China,Cybernaut,Financial Services
+2769,Zhu Xingliang,1.2,China,Gold Mantis,Construction & Engineering
+2770,Darcie Glazer Kassewitz,1.2,United States,Tampa Bay Buccaneers,Media & Entertainment
+2771,Avram Glazer,1.2,United States,Tampa Bay Buccaneers,Media & Entertainment
+2772,Bryan Glazer,1.2,United States,Tampa Bay Buccaneers,Media & Entertainment
+2773,Ai Lihua,1.1,China,Aishi,Semiconductors
+2774,Alan G Hassenfeld,1.1,United States,Hasbro,Consumer Goods
+2775,Alan G Rydge,1.1,Australia,Event Hospitality & Entertainment,Media & Entertainment
+2776,Albert Yeung,1.1,Hong Kong,Emperor,Real Estate
+2777,Aldo Bensadoun,1.1,Canada,Aldo Shoes,Retail
+2778,Alexander Samwer,1.1,Germany,Rocket Internet,Investments
+2779,Alexander Tedja,1.1,Indonesia,Pakuwon Jati,Real Estate
+2780,Allan Wong,1.1,Hong Kong,VTECH,Consumer Goods
+2781,Alvaro Saieh Bendeck,1.1,Chile,Itau CorpBanca,Financial Services
+2782,Andrea Della Valle,1.1,Italy,Tod's,Consumer Goods
+2783,Andreas Pohl,1.1,Germany,DVAG,Financial Services
+2784,Andrei Bokarev,1.1,Russia,Transmash Holdings,Industrial Products
+2785,Andrei Rappoport,1.1,Russia,Georgian Global Utilities,Services
+2786,Andy Fang,1.1,United States,DoorDash,Transportation & Logistics
+2787,Antti Aarnio-Wihuri,1.1,Finland,Wihuri Group,Containers & Packaging
+2788,Ashok Kumar Kajaria,1.1,India,Kajaria Ceramics,Construction & Engineering
+2789,Bachtiar Karim,1.1,Indonesia,Musim Mas,Agriculture
+2790,Bahari Karim,1.1,Indonesia,Musim Mas,Agriculture
+2791,Benedicte Find,1.1,Denmark,Coloplast,Healthcare
+2792,Benjamin Francis,1.1,United Kingdom,Gymshark,Consumer Goods
+2793,Binny Bansal,1.1,India,Flipkart,Retail
+2794,Brian Higgins,1.1,United States,King Street Capital Management,Financial Services
+2795,Burhan Karim,1.1,Indonesia,Musim Mas,Agriculture
+2796,Cai Hongzhu & Cai Kaiyun,1.1,China,Hubei Daohuaxiang,Food & Beverages
+2797,Carmen Daurella Aguilera,1.1,Spain,Coca-Cola European Partners,Food & Beverages
+2798,Chang Byung-gyu,1.1,South Korea,Krafton,Software & Services
+2799,Chang Jing,1.1,China,Roborock Technology,Consumer Goods
+2800,Chen Tianshi,1.1,China,Cambricon,Semiconductors
+2801,Damian Ornani,1.1,United States,Fisher Investments,Financial Services
+2802,Daniel Feffer,1.1,Brazil,Suzano,Paper & Forest Products
+2803,David Golub,1.1,United States,Golub Capital,Financial Services
+2804,Dhruv Manmohan Sawhney,1.1,India,Triveni Turbine,Industrial Products
+2805,Dieter Schoen,1.1,Switzerland,Schön Klinik,Healthcare
+2806,Dong Qingbo & Yan Xiuhui,1.1,Hong Kong,Xinyi Glass,Industrial Products
+2807,Eduardo Belmont Anderson,1.1,Peru,Belcorp,Consumer Goods
+2808,Eduardo Costantini,1.1,Argentina,Consultatio,Real Estate
+2809,Esther Koplowitz,1.1,Spain,FCC,Construction & Engineering
+2810,Fan Xiulian & Yang Fei,1.1,China,Haisco Pharmaceutical,Healthcare
+2811,Fang Zhancheng,1.1,China,Haitian,Food & Beverages
+2812,Feng Xiaohua,1.1,China,Nanhua Sugar,Food & Beverages
+2813,Floyd Mayweather,1.1,United States,Boxing,Media & Entertainment
+2814,Forrest Preston,1.1,United States,Life Care Centers of America,Healthcare
+2815,Francis Biondi,1.1,United States,King Street Capital Management,Financial Services
+2816,Gary Fegel,1.1,Switzerland,Glencore,Trading
+2817,Geoffrey Warren,1.1,United Kingdom,Cargiant,Retail
+2818,Gerry Schwartz,1.1,Canada,Onex,Financial Services
+2819,Graham Kirkham,1.1,United Kingdom,DFS Furniture,Retail
+2820,Guilherme Paulus,1.1,Brazil,CVC Brasil,Hospitality
+2821,Guo Chunxuan,1.1,China,Richful,Chemicals
+2822,GV Prasad & G Anuradha,1.1,India,Dr. Reddy's Laboratories,Healthcare
+2823,He Renbao & Wang Yingmei,1.1,China,Yongtai Technology,Chemicals
+2824,Hong Feng,1.1,China,Xiaomi,Consumer Goods
+2825,Huang Wenbiao,1.1,China,Haitian,Food & Beverages
+2826,Huang Xiaofen,1.1,China,Kinwong,Consumer Goods
+2827,Huo Yan,1.1,United Kingdom,Capula,Investments
+2828,Jacob Rothschild,1.1,United Kingdom,RIT Capital Partners,Investments
+2829,Jacques Gaston Murray,1.1,United Kingdom,Andrew Sykes Group,Industrial Products
+2830,Jacques Merceron-Vicat,1.1,France,Vicat,Construction & Engineering
+2831,Jeannine Bühler,1.1,Switzerland,Bühler,Industrial Products
+2832,Jeff Lawson,1.1,United States,Twilio,Software & Services
+2833,Jeffrey C Sprecher,1.1,United States,Intercontinental Exchange,Financial Services
+2834,Jeffrey Cheah,1.1,Malaysia,Sunway,Real Estate
+2835,Ji Xuewen,1.1,China,Dynanonic,Chemicals
+2836,Jiang Xuefei & Zhu Xuehua,1.1,China,Suntak,Consumer Goods
+2837,Jin Liguo,1.1,China,Yiheda,Industrial Products
+2838,John Armitage,1.1,United Kingdom,Egerton Capital,Investments
+2839,Jon Hunt,1.1,United Kingdom,Foxtons,Real Estate
+2840,Jonathan Harmsworth,1.1,United Kingdom,Daily Mail,Media & Entertainment
+2841,Joop Van Den Ende,1.1,Netherlands,Stage Entertainment,Media & Entertainment
+2842,Jorge Feffer,1.1,Brazil,Suzano,Paper & Forest Products
+2843,Joseph Y Bae,1.1,United States,KKR,Investments
+2844,Karin Bühler,1.1,Switzerland,Bühler,Industrial Products
+2845,Kazuo Okada,1.1,Japan,Universal Entertainment,Media & Entertainment
+2846,Kong Wei,1.1,China,Bcht Biotechnology,Healthcare
+2847,Lee Hae-Jin,1.1,South Korea,Naver,Software & Services
+2848,Lee Tien Tsai,1.1,China,King Car,Food & Beverages
+2849,Lev Leviev,1.1,United Kingdom,Catoca Diamond Mine,Retail
+2850,Li Lixin,1.1,China,Lishi,Industrial Products
+2851,Li Ping,1.1,China,Teamgo,Metals & Mining
+2852,Lin Haichuan,1.1,China,Great River Smarter Logistics,Transportation & Logistics
+2853,Lin Xiaohui & Su Jiaohua,1.1,Hong Kong,Realord,Investments
+2854,Liu Aisen & Li Guiru,1.1,China,Center International,Software & Services
+2855,Liu Guowei,1.1,China,Inovance Technology,Industrial Products
+2856,Liu Yanyun,1.1,China,Kinghey,Food & Beverages
+2857,Lu Feng,1.1,China,Wind,Financial Services
+2858,Lu Rongfu,1.1,China,Yealink,Software & Services
+2859,Luis Enrique Yarur Rey,1.1,Chile,Banco de Crédito e Inversiones,Financial Services
+2860,Manas Chiaravanond,1.1,Thailand,CP Group,Food & Beverages
+2861,Manny Stul,1.1,Australia,Moose Toys,Consumer Goods
+2862,Marc Samwer,1.1,Germany,Rocket Internet,Investments
+2863,Matthew Roszak,1.1,United States,Bloq,Blockchain
+2864,Maya Bühler,1.1,Switzerland,Bühler,Industrial Products
+2865,Michael H McCain,1.1,Canada,Maple Leaf Foods,Food & Beverages
+2866,Michael Rees,1.1,United States,Blue Owl Capital,Investments
+2867,Michelle Zatlyn,1.1,United States,Cloudflare,Software & Services
+2868,Mimi L Haas,1.1,United States,Levi Strauss,Consumer Goods
+2869,Myron W Wentz,1.1,United States,USANA Health Sciences,Retail
+2870,Oliver Samwer,1.1,Germany,Rocket Internet,Investments
+2871,Paul Fireman,1.1,United States,Fireman Capital Partners,Financial Services
+2872,Phongthep Chiaravanont,1.1,Thailand,CP Group,Food & Beverages
+2873,Prem Kumar Arora,1.1,India,Mankind Pharma,Healthcare
+2874,Rawya Mansour,1.1,Egypt,Mansour,Retail
+2875,Reinfried Pohl Jr,1.1,Germany,DVAG,Financial Services
+2876,Ricardo Po Sr,1.1,Philippines,Century Pacific,Food & Beverages
+2877,Richard N Barton,1.1,United States,Zillow,Software & Services
+2878,Richard H. P. Chang,1.1,China,ASE,Industrial Products
+2879,Riju Ravindran,1.1,India,Think & Learn,Education & Training
+2880,Robert Edmiston,1.1,United Kingdom,IM Properties,Real Estate
+2881,Robert J. Scaringe ,1.1,United States,Rivian Automotive,Automobile & Auto Components
+2882,Roger Federer,1.1,Switzerland,Tennis,Media & Entertainment
+2883,Ru Boxing & Ru Zhengwei,1.1,China,Jiangnan Baixin,Industrial Products
+2884,Ruben Feffer,1.1,Brazil,Suzano,Paper & Forest Products
+2885,Ruben Vardanyan,1.1,Armenia,Investments,Investments
+2886,Sachin Bansal,1.1,India,Flipkart,Retail
+2887,Shashi Ruia,1.1,India,Essar Oil UK,Energy
+2888,Staffan Salen,1.1,Sweden,Sagax,Real Estate
+2889,Stanley Tang,1.1,United States,DoorDash,Transportation & Logistics
+2890,Stephen Hoge,1.1,United States,Moderna,Healthcare
+2891,Subhash Runwal,1.1,India,Runwal Developers,Real Estate
+2892,Sun Weijie,1.1,China,Jereh Oilfield,Industrial Products
+2893,Sunjay Kapur,1.1,India,Sona BLW Precision Forgings,Automobile & Auto Components
+2894,Suresh H Vazirani,1.1,India,Transasia Bio-Medicals,Healthcare
+2895,Tan Ruiqing & Zhang Xiaolin,1.1,China,Longmang beililian,Chemicals
+2896,Tsai Chi-Jui,1.1,China,Pou Chen,Consumer Goods
+2897,Venkateswarlu Jasti,1.1,India,Suven Pharmaceuticals,Healthcare
+2898,Vincent Lo Hong-shui,1.1,Hong Kong,Shui On,Real Estate
+2899,Vladimir Bogdanov,1.1,Russia,Surgutneftegas,Energy
+2900,Wan Long & Wang Meixiang,1.1,China,Shuanghui,Food & Beverages
+2901,Wang Qunbin,1.1,China,Fosun,Investments
+2902,William Fung Kwok-lun,1.1,Hong Kong,Li & Fung,Transportation & Logistics
+2903,Winston Wong & Grace Wong,1.1,China,Grace THW Group,Semiconductors
+2904,Wu Chaoqun,1.1,China,Qianhe,Food & Beverages
+2905,Wu Pao-Tien,1.1,China,Li Pao,Real Estate
+2906,Wu Zhenxing,1.1,China,Haitian,Food & Beverages
+2907,Yadu Hari Dalmia,1.1,India,Dalmia Bharat,Construction & Engineering
+2908,Yang Haoyong,1.1,China,Cars,Retail
+2909,Yao Hsiao Tung,1.1,Singapore,Hi-P International,Industrial Products
+2910,Yao Jinbo,1.1,China,Wuba,Software & Services
+2911,Yao Liangbai,1.1,China,Oppein,Consumer Goods
+2912,Yasseen Mansour,1.1,Egypt,Mansour,Retail
+2913,Youssef Mansour,1.1,Egypt,Mansour,Retail
+2914,Yuan Zhongxue & Yuan Song,1.1,China,Sailun,Chemicals
+2915,Zhang Jianguo & Cai Lihong,1.1,China,Jovo Energy,Energy
+2916,Zhang Xi,1.1,China,Sinocera,Industrial Products
+2917,Zhao Kai,1.1,China,Chengdu International Exhibition & Convention Center,Real Estate
+2918,Zhuang Kuilong,1.1,China,Xing Fengming Group,Chemicals
+2919,Zhuo Jun,1.1,Hong Kong,Kinwong,Consumer Goods
+2920,Kevin Glazer,1.1,United States,Tampa Bay Buccaneers,Media & Entertainment
+2921,Edward Glazer,1,United States,Tampa Bay Buccaneers,Media & Entertainment
+2922,Ahmet Nazif Zorlu,1,Turkey,Zorlu,Consumer Goods
+2923,Airat Shaimiev,1,Russia,TAIF Group,Chemicals
+2924,Ajay Jaisinghani,1,India,Polycab India,Industrial Products
+2925,Albert Shigaboutdinov,1,Russia,TAIF Group,Chemicals
+2926,Albrecht Knauf,1,Germany,Knauf Gips,Construction & Engineering
+2927,Alla Ayodhya Rami Reddy,1,India,Ramky Group,Construction & Engineering
+2928,Allen Hong Shui-Shu,1,China,Catcher Technology,Consumer Goods
+2929,Anant Asavabhokhin,1,Thailand,Land & Houses,Real Estate
+2930,Andrew Lloyd Webber,1,United Kingdom,Music,Media & Entertainment
+2931,Arash Ferdowsi,1,United States,Dropbox,Software & Services
+2932,Arne Alexander Wilhelmsen,1,Norway,Royal Carribean Cruises,Hospitality
+2933,Baiju Bhatt,1,United States,Robinhood Markets,Financial Services
+2934,Baldwin Knauf,1,Germany,Knauf Gips,Construction & Engineering
+2935,Barbara Lambrecht-Schadeberg,1,Germany,Krombacher Brauerei,Food & Beverages
+2936,Bent Christian Wilhelmsen,1,Norway,Royal Carribean Cruises,Hospitality
+2937,Bernard Charlès,1,France,Dassault Systèmes,Aerospace & Defence
+2938,Bernard Lewis,1,United Kingdom,River Island,Retail
+2939,Bernd Freier,1,Germany,S Oliver Group,Retail
+2940,Bhushan Dua,1,India,Super Cassettes Industries,Media & Entertainment
+2941,Bob Prince,1,United States,Bridgewater Associates,Financial Services
+2942,Boris Zingarevich,1,Russia,Ilim Group,Paper & Forest Products
+2943,Carsten Koerl,1,Switzerland,Sportradar,Media & Entertainment
+2944,Carsten Maschmeyer,1,Germany,Maschmeyer Group,Investments
+2945,Charles Ruggieri,1,France,Batipart,Real Estate
+2946,Charlotte Colket Weber,1,United States,Campbell Soup,Food & Beverages
+2947,Chatchai Kaewbootta,1,Thailand,Srisawad,Financial Services
+2948,Che Jianxing,1,China,Macalline,Retail
+2949,Chen Qixing,1,China,Changying,Consumer Goods
+2950,Chen Zhuoxian,1,China,Agile,Real Estate
+2951,Cheng Sanrong & Jin Chengcheng,1,China,Huguang,Automobile & Auto Components
+2952,Cheng Xianfeng,1,China,Yifan Xinfu Pharmaceutical,Healthcare
+2953,Chris Sacca,1,United States,Lowercase Capital,Financial Services
+2954,Chua Thian Poh,1,Singapore,Ho Bee Land,Real Estate
+2955,Chuchat Petaumpai,1,Thailand,Muangthai Capital,Financial Services
+2956,Chung Mong-Joon,1,South Korea,Hyundai Heavy Industries,Construction & Engineering
+2957,Colette Cloosterman- van Eerd,1,Netherlands,Jumbo,Retail
+2958,Dai Shan,1,China,Alibaba,Retail
+2959,Dai Xuebin & Dong Xiang,1,China,Lanrun,Real Estate
+2960,Daniel Chiu Tat Jung,1,Hong Kong,Fortune Oil,Chemicals
+2961,Daonapa Petampai,1,Thailand,Muangthai Capital,Financial Services
+2962,David Fattal,1,Israel,Fattal Holdings,Hospitality
+2963,Ding Zuohong,1,China,Yuexing,Retail
+2964,Eric Tsai Cheng-Chiu,1,China,Lin Yuan,Financial Services
+2965,Eugene Kaspersky,1,Russia,Kaspersky Lab,Software & Services
+2966,Frits van Eerd,1,Netherlands,Jumbo,Retail
+2967,Gao Wanjun,1,China,Xinjin Steel,Industrial Products
+2968,George Alexander Muthoot,1,India,Muthoot Finance,Financial Services
+2969,George Jacob Muthoot,1,India,Muthoot Finance,Financial Services
+2970,George Thomas Muthoot,1,India,Muthoot Finance,Financial Services
+2971,Greg Jensen,1,United States,Bridgewater Associates,Financial Services
+2972,Guilherme Benchimol,1,Brazil,XP,Investments
+2973,Han Yulong & Lu Jianxia,1,China,Manner,Food & Beverages
+2974,Han Zhenfa,1,China,Zhengye,Real Estate
+2975,He Yamin,1,China,Leejun Industrial,Industrial Products
+2976,Heikki Herlin,1,Finland,KONE,Industrial Products
+2977,Hiroshi Ishibashi,1,Japan,Bridgestone,Automobile & Auto Components
+2978,Hu Baosen,1,China,Henan Jianye,Real Estate
+2979,Huang Bingwen,1,China,Dongfeng Printing,Containers & Packaging
+2980,Huang Jiangji,1,China,Xiaomi,Consumer Goods
+2981,Huang Weibin,1,China,Marssenger Kitchenware,Consumer Goods
+2982,Huang Zelan & Lai Xiangying,1,China,Zhangyuan Tungsten,Metals & Mining
+2983,Inder Jaisinghani,1,India,Polycab India,Industrial Products
+2984,Ivan Savvidis,1,Russia,Agrokom Group,Food & Beverages
+2985,Jan Van Geet,1,Czech Republic,VGP,Real Estate
+2986,Jasminder Singh,1,United Kingdom,Edwardian Group,Hospitality
+2987,Jay Kreps,1,United States,Confluent,Software & Services
+2988,Jean-Charles Decaux,1,France,JC Decaux,Media & Entertainment
+2989,Jean-Claude Fayat,1,France,Fayat Group,Construction & Engineering
+2990,Jean-Claude Marian,1,France,Orpea,Healthcare
+2991,Jean-Francois Decaux,1,France,JC Decaux,Media & Entertainment
+2992,Jean-Sebastien Decaux,1,France,JC Decaux,Media & Entertainment
+2993,Jerry Seinfield,1,United States,Movies,Media & Entertainment
+2994,Jiang Xipei & Jiang Chengzhi,1,China,Smarter Energy,Industrial Products
+2995,John Liew,1,United States,AQR Capital,Financial Services
+2996,John Whittaker,1,United Kingdom,The Peel Group,Real Estate
+2997,Jun Hyuk Bang,1,South Korea,Netmarble,Media & Entertainment
+2998,Kalpana Apurva Parekh,1,India,Pidilite Industries,Chemicals
+2999,Ken Kendrick,1,United States,Arizona Diamondbacks,Media & Entertainment
+3000,Kim Taek-Jin,1,South Korea,NCSoft,Media & Entertainment
+3001,Kochouseph Chittilappilly,1,India,V-Guard Industries,Consumer Goods
+3002,Koh Tuck Lye,1,China,Xiaomi,Consumer Goods
+3003,Kon Bon Joon,1,South Korea,LG,Consumer Goods
+3004,Koo Hou Tien-I,1,China,Taiwan Cement,Construction & Engineering
+3005,Koon Poh Ming,1,Malaysia,Press Metal Aluminium Holdings,Metals & Mining
+3006,Laurent Fayat,1,France,Fayat Group,Construction & Engineering
+3007,Li Dongsheng,1,China,TCL,Consumer Goods
+3008,Li Hongjing,1,China,Autel,Software & Services
+3009,Li Jinyuan,1,China,Tiens,Healthcare
+3010,Li Juntian,1,China,Inovance Technology,Industrial Products
+3011,Li Min & Li Xiaoyu,1,China,Hiuv,Industrial Products
+3012,Li Wanqiang,1,China,Xiaomi,Consumer Goods
+3013,Li Wen,1,China,Autowell,Energy
+3014,Li Wenmei & Wang Jihua,1,China,Wondfo Biotech,Healthcare
+3015,Li Xinyan & Ni Yinying,1,China,Lonking,Industrial Products
+3016,Lin Zhijun,1,China,Double Medical Technology Inc,Healthcare
+3017,Lin Zhixiong,1,China,Double Medical Technology Inc,Healthcare
+3018,Liu Baolin,1,China,Jointown,Retail
+3019,Lloyd D Frink,1,United States,Zillow,Software & Services
+3020,Lloyd Dorfman,1,United Kingdom,Travelex,Financial Services
+3021,Ma Bin & Chen Xiaoqin,1,China,Shemar,Industrial Products
+3022,Maria Cecilia Karlezi Solari,1,Chile,SACI Falabella,Retail
+3023,Mark Dixon,1,United Kingdom,IWG,Real Estate
+3024,Mark Leonard,1,Canada,Constellation Software,Software & Services
+3025,Masatoshi Kumagai,1,Japan,GMO Internet,Software & Services
+3026,Megdet Rahimkulov,1,Russia,OTP Bank,Financial Services
+3027,Mehmet Aydinlar,1,Turkey,IHH Healthcare,Healthcare
+3028,Michael Saylor,1,United States,MicroStrategy,Financial Services
+3029,Min-Liang Tan,1,Singapore,Razer,Consumer Goods
+3030,Monique Groenewoud- van Eerd,1,Netherlands,Jumbo,Retail
+3031,Murdaya Poo,1,Indonesia,Central Cipta Murdaya,Real Estate
+3032,Nopadol Chiaravanont,1,Thailand,CP Group,Food & Beverages
+3033,Norman Kronseder,1,Germany,Krones ,Industrial Products
+3034,Nuchanart Chiaravanond,1,Thailand,CP Group,Food & Beverages
+3035,Ong Beng Seng,1,Singapore,Hotel Properties,Hospitality
+3036,Onkar Kanwar,1,India,Apollo Tyres,Automobile & Auto Components
+3037,Ou Yaping,1,Hong Kong,Sinolink Worldwide,Energy
+3038,Park Hyeon Joo,1,South Korea,Mirae Asset,Financial Services
+3039,Paul Sykes,1,United Kingdom,Meadowhall,Real Estate
+3040,Paulo Setubal Neto,1,Brazil,Itau Unibanco,Financial Services
+3041,Pavan Kumar Jain,1,India,Inox,Industrial Products
+3042,Peng Jun,1,United States,Pony.ai,Automobile & Auto Components
+3043,Peter E Haas Jr,1,United States,Levi Strauss,Consumer Goods
+3044,Peter Preben Wilhelmsen,1,Norway,Royal Carribean Cruises,Hospitality
+3045,Peter Wood,1,United Kingdom,Investments,Investments
+3046,Pongsak Viddayakorn,1,Thailand,Bangkok Dusit Medical Services,Healthcare
+3047,Premchand Godha,1,India,IPCA Laboratories,Healthcare
+3048,Radik Shaimiev,1,Russia,TAIF Group,Chemicals
+3049,Rahul Gautam,1,India,Sheela Foam,Consumer Goods
+3050,Ramesh Jaisinghani,1,India,Polycab India,Industrial Products
+3051,Ren Yuanlin & Ren Letian,1,China,Yangzijiang Shipbuilding,Industrial Products
+3052,Richard Kayne,1,United States,Kayne Anderson Capital Advisors,Financial Services
+3053,Richard Yuengling Jr,1,United States,Yuengling,Food & Beverages
+3054,Roger Wang Hung,1,United States,Golden Eagle,Real Estate
+3055,Ronald Clarke,1,United States,FleetCor Technologies,Financial Services
+3056,Rustem Sulteev,1,Russia,TAIF Group,Chemicals
+3057,Sadayandi Moopanar,1,India,Pothys,Consumer Goods
+3058,Sandor Csanyi,1,Hungary,OTP Bank,Financial Services
+3059,Sara George,1,India,Muthoot Finance,Financial Services
+3060,Shay Bannon,1,United States,Elastic,Software & Services
+3061,Shen Bo,1,China,Fenbushi Capital,Investments
+3062,Shi Junfeng & Zhu Xianglan,1,China,Lopal,Chemicals
+3063,Shou Bonian,1,China,Greentown,Real Estate
+3064,Song Rui,1,China,Wintrue Holding,Chemicals
+3065,Song Tao,1,China,Mihoyo,Media & Entertainment
+3066,Su Ruchun,1,China,Huabang,Real Estate
+3067,Sun Renjing,1,China,Sunfar Silicon,Chemicals
+3068,Tan Eng Kee,1,Malaysia,Greatech Technology,Industrial Products
+3069,Théodore Schneider,1,Switzerland,Breitling,Consumer Goods
+3070,Thomas Meyer ,1,Spain,Desigual,Consumer Goods
+3071,Thomas Rutledge,1,United States,Charter Communications,Telecommunications
+3072,Thomas Von Koch,1,Sweden,EQT,Investments
+3073,Todd McKinnon,1,United States,Okta,Software & Services
+3074,Tong Wenhong,1,China,Alibaba,Retail
+3075,TS Kalyanaraman,1,India,Kalyan Jewellers India,Retail
+3076,Tsao Te-Feng & Meng Hai-Ti,1,China,Quaker,Food & Beverages
+3077,Tu Jianhua,1,China,Glodon,Software & Services
+3078,Tyler Perry,1,United States,Movies,Media & Entertainment
+3079,Vivek Abhay Vakil,1,India,Asian Paints,Chemicals
+3080,Vivien Chen,1,Hong Kong,Nan Fung Group,Real Estate
+3081,Vlad Yatsenko,1,United Kingdom,Revolut,Financial Services
+3082,Volker Kronseder,1,Germany,Krones,Industrial Products
+3083,Wang Gang,1,China,Full Truck Alliance,Transportation & Logistics
+3084,Wang Hui,1,China,ACM,Semiconductors
+3085,Wang Wencheng,1,China,Dazhong,Real Estate
+3086,Wang Zhentao & Wang Chen,1,China,Aokang,Consumer Goods
+3087,Wong Wai Sheung,1,Hong Kong,Luk Fook,Retail
+3088,Wu Chung-Yi,1,China,GSK,Automobile & Auto Components
+3089,Wu Junbao,1,China,China East Education,Education & Training
+3090,Wu Peifu & Wu Di,1,China,Shuangxin Color,Containers & Packaging
+3091,Wu Sin-Yang,1,China,SKM,Real Estate
+3092,Wu Yongming,1,China,Alibaba,Retail
+3093,Xia Shudong,1,China,China TransInfo,Software & Services
+3094,Xie Bingzheng & Feng Lingling,1,China,Biemlf,Consumer Goods
+3095,Xie Shicai,1,China,Boway Alloy Material,Industrial Products
+3096,Yang Erzhu,1,China,Country Garden,Real Estate
+3097,Yang Zhao,1,Hong Kong,Glorious Sun,Consumer Goods
+3098,Yao Qiyong,1,China,Jumbo Sheen,Investments
+3099,Yuan Jing,1,China,Moonton,Media & Entertainment
+3100,Yuan Yongbin & Pan Hejia,1,China,Bethel,Automobile & Auto Components
+3101,Zhang Desheng,1,China,Wanma,Industrial Products
+3102,Zhang Guoshan,1,China,Tongfei Refrigeration,Industrial Products
+3103,Zhang Xuewu,1,China,Yanker,Food & Beverages
+3104,Zhang Yong,1,China,Alibaba,Retail
+3105,Zhao Yi & Xu Xin,1,China,Changchuan Technology Co,Semiconductors
+3106,Zhao Yuqiao,1,China,Jiujiang,Industrial Products
+3107,Zhong Baoshen,1,China,Longi,Energy
+3108,Zhong Peifeng,1,China,Amlogic,Semiconductors
+3109,Zhou Jian,1,China,UBtech,Consumer Goods
+3110,Zhou Minghua,1,China,Huahai Pharmaceutical,Healthcare
+3111,Zou Weimin & Chen Min,1,China,Transimage,Industrial Products
